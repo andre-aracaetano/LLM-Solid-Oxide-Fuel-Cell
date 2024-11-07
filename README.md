@@ -3,6 +3,7 @@
 This repository will be used to archive my scientific initiation project.
 
 Student: André de Araújo Caetano
+
 Advisor: Dr. Amauri Jardim de Paula
 
 # Main Objective
