@@ -8,6 +8,6 @@ Advisor: Dr. Amauri Jardim de Paula
 
 # Main Objective
 
-Use open LLMs to "read" sentences and abstracts of articles about Solide Oxide Fuel Cells (SOFC) and extract they materials like cathode, eletrolyte or anode. Futhermore, analyse the potentials and limits of LLMs, change parameters and prompts to increse the precision of the models.
+Use open LLMs to "read" sentences and abstracts of articles about Solide Oxide Fuel Cells (SOFC) and extract they materials like cathode, electrolyte or anode. Futhermore, analyse the potentials and limits of LLMs, change parameters and prompts to increse the precision of the models.
 
 # FAPESP Project: 2024/13738-2
