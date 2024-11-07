@@ -1,0 +1,9 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,11287,The growth of nickel (Ni) particles in the porous anode is one of the most critical issues in solid oxide fuel cells (SOFC).,A Model of Solid Oxide Fuel Cell Degradation on a Microstructural Level,10.3390/app10061906
+2,11287,It reduces the density of triple-phase boundaries (TPBs) over time and increases the polarization resistance of SOFC.,A Model of Solid Oxide Fuel Cell Degradation on a Microstructural Level,10.3390/app10061906
+3,11287,Most of the three-dimensional models that are used to simulate this phenomenon in detail are numerically exhausting and as such intractable for on-line applications.,A Model of Solid Oxide Fuel Cell Degradation on a Microstructural Level,10.3390/app10061906
+4,11287,"This work presents a two-dimensional, microstructural model of reduced complexity as a trade-off between the numerical load and the level of detail.",A Model of Solid Oxide Fuel Cell Degradation on a Microstructural Level,10.3390/app10061906
+5,11287,The model of Ni agglomeration is based on the power-law coarsening theory.,A Model of Solid Oxide Fuel Cell Degradation on a Microstructural Level,10.3390/app10061906
+6,11287,The resulting model was validated by comparing the relative density of TPBs and the cell voltage to the experimentally measured values.,A Model of Solid Oxide Fuel Cell Degradation on a Microstructural Level,10.3390/app10061906
+7,11287,It was shown that the calculated values closely fit the measured data.,A Model of Solid Oxide Fuel Cell Degradation on a Microstructural Level,10.3390/app10061906
+8,11287,The advantage of the proposed model is that it takes lower computational load during the simulation compared to the complex phase field models and is suitable for estimation of SOFC electric performance over time.,A Model of Solid Oxide Fuel Cell Degradation on a Microstructural Level,10.3390/app10061906

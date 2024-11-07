@@ -1,0 +1,6 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,542,"A computer model is developed, capable of predicting the flow distribution along the height of a fuel-cell stack.",Computational analysis of the gas-flow distribution in solid oxide fuel cell stacks,10.1016/S0378-7753(96)02476-7
+2,542,"The model distinguishes a number of hydraulic resistances that are linked in series and parallel, thus forming a network to simulate the gas flow and pressure distribution in a stack.",Computational analysis of the gas-flow distribution in solid oxide fuel cell stacks,10.1016/S0378-7753(96)02476-7
+3,542,The hydraulic resistances are found from analytical solutions or from tabulated data inferred from measurements.,Computational analysis of the gas-flow distribution in solid oxide fuel cell stacks,10.1016/S0378-7753(96)02476-7
+4,542,The electrochemistry of the stack is simulated by adding or subtracting gas in the active cell area.,Computational analysis of the gas-flow distribution in solid oxide fuel cell stacks,10.1016/S0378-7753(96)02476-7
+5,542,The model is tested on an assumed separator-plate geometry and stacking height.,Computational analysis of the gas-flow distribution in solid oxide fuel cell stacks,10.1016/S0378-7753(96)02476-7

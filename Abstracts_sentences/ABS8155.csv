@@ -1,0 +1,7 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,8155,"In this paper, we develop a computational model to predict the electrical performance of the flattened tubular solid oxide fuel cell (SOFC) designed by Siemens Westinghouse Corporation.",Modeling the performance of flattened tubular solid oxide fuel cell,10.1115/1.1842783
+2,8155,This design is an improvement over the conventional cylindrical SOFC and allows higher power densities.,Modeling the performance of flattened tubular solid oxide fuel cell,10.1115/1.1842783
+3,8155,"We modeled the current transport in a cross section of the cell, for a given cell operating voltage and local Nernst voltage.",Modeling the performance of flattened tubular solid oxide fuel cell,10.1115/1.1842783
+4,8155,We solved the resulting system of simultaneous nonlinear equations using n-dimensional Newton-Raphson algorithm.,Modeling the performance of flattened tubular solid oxide fuel cell,10.1115/1.1842783
+5,8155,"The output gives the current density distribution and also the total current at the cross section, which is used to obtain the total cell current (and power) for the given voltage.",Modeling the performance of flattened tubular solid oxide fuel cell,10.1115/1.1842783
+6,8155,The results of the model are in good agreement with the experimental performance reported in literature.,Modeling the performance of flattened tubular solid oxide fuel cell,10.1115/1.1842783

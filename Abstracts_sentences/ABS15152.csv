@@ -1,0 +1,16 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,15152,An electrochemical model was developed to study the current-voltage (J-V) characteristics of a solid oxide fuel cell (SOFC).,Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+2,15152,"The Butler-Volmer equation, Fick's model and Ohm's law were used to determine the activation, concentration and ohmic overpotentials, respectively.",Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+3,15152,"One important feature of this model is that both the exchange current density and gas diffusion coefficients were dependent on the cell micro structures (porosity and pore size) and operational parameters (temperature, pressure and gas composition).",Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+4,15152,"The simulation results were compared with experimental data from the literature, and good agreement was obtained.",Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+5,15152,The subsequent parametric modeling analyses determined how individual overpotentials were related to the geometric and operational parameters.,Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+6,15152,It was found that there existed optimal values of electrode pore size and porosity for maximum cell performance.,Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+7,15152,Both the activation and ohmic overpotentials decreased significantly with increasing temperature.,Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+8,15152,"However, the concentration overpotential was found to increase with increasing temperature.",Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+9,15152,This unexpected phenomenon was caused by the reduced gas density at elevated temperature despite the increase in diffusion coefficient with increasing temperature.,Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+10,15152,"Besides, increasing the hydrogen content in the fuel stream and increasing the operating pressure were possible ways to enhance the SOFC power output.",Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+11,15152,The parametric analyses provided insights in the operation of SOFCs and clarified some ambiguous understanding of SOFC overpotentials.,Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+12,15152,The present model could also serve as a valuable tool for SOFC optimization design.,Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+13,15152,(C) 2007,Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+14,15152,Elsevier Ltd.,Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016
+15,15152,All rights reserved.,Parametric study of solid oxide fuel cell performance,10.1016/j.enconman.2006.11.016

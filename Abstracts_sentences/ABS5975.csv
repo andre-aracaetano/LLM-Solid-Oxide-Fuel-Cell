@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,5975,The performance of an intermediate-temperature proton-conducting solid oxide fuel cell (pSOFC) hybrid system is investigated in this work.,Analysis of an intermediate-temperature proton-conducting SOFC hybrid system,10.1080/15435075.2016.1171229
+2,5975,"The hybrid system consists of a 20-kW pSOFC, a micro gas turbine (MGT), and heat exchangers.",Analysis of an intermediate-temperature proton-conducting SOFC hybrid system,10.1080/15435075.2016.1171229
+3,5975,Heat exchangers are used to recover waste heat from pSOFC and MGT.,Analysis of an intermediate-temperature proton-conducting SOFC hybrid system,10.1080/15435075.2016.1171229
+4,5975,The performance of the system is analyzed by using Matlab/Simulink/Thermolib.,Analysis of an intermediate-temperature proton-conducting SOFC hybrid system,10.1080/15435075.2016.1171229
+5,5975,Flow rates of air and hydrogen are controlled by assigning different stoichiometric ratio (St).,Analysis of an intermediate-temperature proton-conducting SOFC hybrid system,10.1080/15435075.2016.1171229
+6,5975,"St considered in this study is between 2 and 3.5 for air, and between 1.25 and 1.45 for hydrogen.",Analysis of an intermediate-temperature proton-conducting SOFC hybrid system,10.1080/15435075.2016.1171229
+7,5975,Results show that the combined heat and power (CHP) efficiency increases as the fuel St decreases or air St increases.,Analysis of an intermediate-temperature proton-conducting SOFC hybrid system,10.1080/15435075.2016.1171229
+8,5975,"This is because lowering fuel St means fewer fuel will be wasted from the fuel cell stack, so the CHP efficiency increases.",Analysis of an intermediate-temperature proton-conducting SOFC hybrid system,10.1080/15435075.2016.1171229
+9,5975,"On the other hand, as air St increases, the amount of recovered waste heat increases, so does the CHP efficiency.",Analysis of an intermediate-temperature proton-conducting SOFC hybrid system,10.1080/15435075.2016.1171229

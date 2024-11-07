@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,1846,Solid-oxide fuel cell (SOFC) power plant plays a vital role in a hybrid alternative energy based microgrid due to its reliability and flexibility in power supply.,Coordinated Control Strategies for Fuel Cell Power Plant in a Microgrid,10.1109/TEC.2017.2729881
+2,1846,"However, the control of SOFC is challenging in terms of providing a fast load tracking while maintaining the fuel utilization rate within a safe range.",Coordinated Control Strategies for Fuel Cell Power Plant in a Microgrid,10.1109/TEC.2017.2729881
+3,1846,"To this end, this paper builds two basic coordinated control strategies (CCS) for power management of SOFC-based microgrid.",Coordinated Control Strategies for Fuel Cell Power Plant in a Microgrid,10.1109/TEC.2017.2729881
+4,1846,"The first is Fuel Cell follows Inverter scheme, where fast tracking is preferred while SOFC may operate on the edge of the safety range.",Coordinated Control Strategies for Fuel Cell Power Plant in a Microgrid,10.1109/TEC.2017.2729881
+5,1846,"The second is Inverter follows Fuel Cell scheme, where high security is guaranteed by sacrificing performance in load tracking.",Coordinated Control Strategies for Fuel Cell Power Plant in a Microgrid,10.1109/TEC.2017.2729881
+6,1846,"To obtain a robust and simple scheme, energy balance principle is used in CCS such that PI controller is sufficient to fulfill the basic duties.",Coordinated Control Strategies for Fuel Cell Power Plant in a Microgrid,10.1109/TEC.2017.2729881
+7,1846,"Moreover, a simple supervisory control strategy is proposed for microgrid to provide a reasonable power reference for SOFC.",Coordinated Control Strategies for Fuel Cell Power Plant in a Microgrid,10.1109/TEC.2017.2729881
+8,1846,The control system is designed and tuned based on an SOFC plant with inverter's average model.,Coordinated Control Strategies for Fuel Cell Power Plant in a Microgrid,10.1109/TEC.2017.2729881
+9,1846,The efficiency of the proposed strategies is validated via a grid-connected SOFC/photovoltaic microgrid.,Coordinated Control Strategies for Fuel Cell Power Plant in a Microgrid,10.1109/TEC.2017.2729881

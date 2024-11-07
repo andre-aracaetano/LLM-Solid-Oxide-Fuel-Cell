@@ -1,0 +1,11 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,12406,The Artificial Neural Network (ANN) can be applied to simulate an object's behaviour without an algorithmic solution merely by utilizing available experimental data.,ARTIFICIAL NEURAL NETWORK AS SOFC MODEL,
+2,12406,The ANN is used for modelling singular cell behaviour.,ARTIFICIAL NEURAL NETWORK AS SOFC MODEL,
+3,12406,The optimal network architecture is shown and commented.,ARTIFICIAL NEURAL NETWORK AS SOFC MODEL,
+4,12406,The error backpropagation algorithm was used for an ANN training procedure.,ARTIFICIAL NEURAL NETWORK AS SOFC MODEL,
+5,12406,"The ANN based SOFC model has the following input parameters: current density, temperature, fuel volume flow density (ml/min/cm(2)), and oxidant volume flow density.",ARTIFICIAL NEURAL NETWORK AS SOFC MODEL,
+6,12406,"Based on these input parameters, cell voltage is predicted by the model.",ARTIFICIAL NEURAL NETWORK AS SOFC MODEL,
+7,12406,Obtained results show that the ANN can be successfully used for modelling the singular solid oxide fuel cell.,ARTIFICIAL NEURAL NETWORK AS SOFC MODEL,
+8,12406,The self-learning process of the ANN provides an opportunity to adapt the model to new situations (e.g. certain types of impurities at inlet streams etc.).,ARTIFICIAL NEURAL NETWORK AS SOFC MODEL,
+9,12406,"Based on the results from this study it can be concluded that, by using the ANN, an SOFC can be modelled with relatively high accuracy.",ARTIFICIAL NEURAL NETWORK AS SOFC MODEL,
+10,12406,"In contrast to traditional models, the ANN is able to predict cell voltage without knowledge of numerous physical, chemical, and electrochemical factors.",ARTIFICIAL NEURAL NETWORK AS SOFC MODEL,

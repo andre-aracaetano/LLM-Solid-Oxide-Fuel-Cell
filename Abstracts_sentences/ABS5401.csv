@@ -1,0 +1,18 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,5401,"The main driving force in the developments of consumer electronics, such as cell phones and laptop computers, is longer run times and more functionality.",Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+2,5401,"In this quest for higher energy densities, battery characteristics improve at a constant pace.",Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+3,5401,Fuel cells seem to be the next big technology breakthrough improving energy density with a factor of 3-10 compared with current lithium-ion batteries.,Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+4,5401,"In particular, the direct methanol fuel cell (DMFC) is an interesting opportunity because of the high energy capacity of methanol and the handling of the fuel making charging easy, safe, and fast.",Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+5,5401,"To get information on the different aspects that determine the boundaries of the DMFC power source, a power source for an MP3 player, the Samsung YP-Z5F, is designed.",Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+6,5401,This design is based on a DMFC plus battery (DMFC hybrid) and utilizes standard available components,Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+7,5401,"[Flipsen, 2007, Design Challenges for a Fuel Cell Powered MP3 Player, International Power Sources Symposium, Bath, Great Britain].",Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+8,5401,The design of a DMFC hybrid power source in a conventional way (standard practice engineering) will not result in a smaller power source for this particular application.,Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+9,5401,"The design has a power and energy densities of lower than the currently available lithium-polymer battery, mainly because of the low fuel-efficiency of the cell at low temperatures, the use of commercially available but still too bulky components, and a large amount of dead space (approximate to 34%).",Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+10,5401,There are three ways to increase the power and energy densities of the system.,Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+11,5401,First is by increasing the fuel-efficiency of the cells membrane.,Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+12,5401,Second is by scaling down the system components to the right proportions and third is by improving the systems architecture diminishing empty space.,Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+13,5401,This paper presents the design of a DMFC hybrid with scaled-down components.,Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+14,5401,A literature study is done on the efficiency improvements of DMFC cells.,Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+15,5401,"The results are presented in a computer aided design (CAD) model and evaluated, comparing the improved design with standard practice design and the current lithium-polymer battery.",Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+16,5401,The energy density of the redesigned fuel cell system is still low compared with the used lithium-polymer battery but an improvement to the preliminary design.,Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352
+17,5401,[DOI: 10.1115/1.4001352],Designing Microfuel Cells for Portable Electronics,10.1115/1.4001352

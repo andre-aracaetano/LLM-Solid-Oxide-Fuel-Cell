@@ -1,0 +1,8 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,3829,"Solid oxide fuel cells (SOFCs) are considered to be one of the most important clean, distributed resources.",Data-driven nonlinear control of a solid oxide fuel cell system,10.1007/s11771-012-1223-y
+2,3829,"However, SOFCs present a challenging control problem owing to their slow dynamics, nonlinearity and tight operating constraints.",Data-driven nonlinear control of a solid oxide fuel cell system,10.1007/s11771-012-1223-y
+3,3829,A novel data-driven nonlinear control strategy was proposed to solve the SOFC control problem by combining a virtual reference feedback tuning (VRFT) method and support vector machine.,Data-driven nonlinear control of a solid oxide fuel cell system,10.1007/s11771-012-1223-y
+4,3829,"In order to fulfill the requirement for fuel utilization and control constraints, a dynamic constraints unit and an anti-windup scheme were adopted.",Data-driven nonlinear control of a solid oxide fuel cell system,10.1007/s11771-012-1223-y
+5,3829,"In addition, a feedforward loop was designed to deal with the current disturbance.",Data-driven nonlinear control of a solid oxide fuel cell system,10.1007/s11771-012-1223-y
+6,3829,Detailed simulations demonstrate that the fast response of fuel flow for the current demand disturbance and zero steady error of the output voltage are both achieved.,Data-driven nonlinear control of a solid oxide fuel cell system,10.1007/s11771-012-1223-y
+7,3829,"Meanwhile, fuel utilization is kept almost within the safe region.",Data-driven nonlinear control of a solid oxide fuel cell system,10.1007/s11771-012-1223-y

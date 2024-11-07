@@ -1,0 +1,9 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,655,A computational fluid dynamics model is developed to study the steady-state behavior of a microtubular solid oxide fuel cell (SOFC).,Computational thermal-fluid analysis of a microtubular solid oxide fuel cell,10.1149/1.2971194
+2,655,"The model incorporates mass, momentum, species, and heat balances along with ionic and electronic charge transfers.",Computational thermal-fluid analysis of a microtubular solid oxide fuel cell,10.1149/1.2971194
+3,655,"The anode-supported SOFC studied in this work consists of a ceria-based electrolyte which is known as an electronic conductor in reducing atmospheres, letting electrons leak through the electrolyte.",Computational thermal-fluid analysis of a microtubular solid oxide fuel cell,10.1149/1.2971194
+4,655,Related internal leakage currents are calculated implicitly in the model to incorporate the performance losses.,Computational thermal-fluid analysis of a microtubular solid oxide fuel cell,10.1149/1.2971194
+5,655,"Moreover, to have a more realistic approach while cutting down the computational effort, in this study a fuel cell test furnace is also modeled separately to evaluate the distribution of the oxygen concentration and temperature field inside the furnace.",Computational thermal-fluid analysis of a microtubular solid oxide fuel cell,10.1149/1.2971194
+6,655,Results from the furnace model are used as boundary conditions for the fuel cell model.,Computational thermal-fluid analysis of a microtubular solid oxide fuel cell,10.1149/1.2971194
+7,655,Fuel cell model results are compared with the experimental data which shows good agreement.,Computational thermal-fluid analysis of a microtubular solid oxide fuel cell,10.1149/1.2971194
+8,655,(c) 2008 The Electrochemical Society.,Computational thermal-fluid analysis of a microtubular solid oxide fuel cell,10.1149/1.2971194

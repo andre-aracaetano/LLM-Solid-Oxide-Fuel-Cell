@@ -1,0 +1,8 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,3787,We analyze a model for the combustion of methane in a planar solid oxide fuel cell.,"Analysis of a model for a loaded, planar, solid oxide fuel cell",
+2,3787,"The model includes diffusive and advective transport processes, an electrochemical source of oxygen, and the consumption of oxygen and methane through combustion.","Analysis of a model for a loaded, planar, solid oxide fuel cell",
+3,3787,The effect of the presence of the reaction products and atmospheric nitrogen is also included.,"Analysis of a model for a loaded, planar, solid oxide fuel cell",
+4,3787,Since the combustion takes place in a narrow gap we are able to reduce the problem from three to two dimensions.,"Analysis of a model for a loaded, planar, solid oxide fuel cell",
+5,3787,"After assuming that the flow is steady and axisymmetric, we use the method of matched asymptotic expansions to construct solutions in six asymptotic regions.","Analysis of a model for a loaded, planar, solid oxide fuel cell",
+6,3787,This allows us to model the voltage-current characteristics for a given flowrate of fuel and predict the position of the flame region that separates an oxygen-rich region from a fuel-rich region.,"Analysis of a model for a loaded, planar, solid oxide fuel cell",
+7,3787,Comparisons show that the theory is in reasonable agreement with experiments.,"Analysis of a model for a loaded, planar, solid oxide fuel cell",

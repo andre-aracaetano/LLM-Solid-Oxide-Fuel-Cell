@@ -1,0 +1,9 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,17998,"This work describes a recently-developed numerical model for three-dimensional, steady-state simulations of reversible solid oxide cell (rSOC) stacks, taking into account a heterogeneous temperature field.",Modeling of Reversible Solid Oxide Cell Stacks with an Open-Source Library,10.1149/1945-7111/ac9c32
+2,17998,"The model employs a volume-averaged approach, also referred to as the distributed resistance analogy.",Modeling of Reversible Solid Oxide Cell Stacks with an Open-Source Library,10.1149/1945-7111/ac9c32
+3,17998,"It considers fluid flow, multi-component species diffusion, as well as heat and mass transfer, including thermal radiation and electrochemical reactions.",Modeling of Reversible Solid Oxide Cell Stacks with an Open-Source Library,10.1149/1945-7111/ac9c32
+4,17998,"The implementation of the computational model is based on an open-source library, OpenFOAM.",Modeling of Reversible Solid Oxide Cell Stacks with an Open-Source Library,10.1149/1945-7111/ac9c32
+5,17998,"An in-house designed rSOC stack, Mark-H is considered.",Modeling of Reversible Solid Oxide Cell Stacks with an Open-Source Library,10.1149/1945-7111/ac9c32
+6,17998,"Simulations are performed for repeating units with a 320 cm(2) active area, with both the present stack model and a one-dimensional Simulink model.",Modeling of Reversible Solid Oxide Cell Stacks with an Open-Source Library,10.1149/1945-7111/ac9c32
+7,17998,"Both models predict very similar voltages, with a maximum difference of 2% compared to experimental results.",Modeling of Reversible Solid Oxide Cell Stacks with an Open-Source Library,10.1149/1945-7111/ac9c32
+8,17998,"The present model shows a temperature distribution closer to the experimental data than the Simulink model, although a slightly longer simulation time is required.",Modeling of Reversible Solid Oxide Cell Stacks with an Open-Source Library,10.1149/1945-7111/ac9c32

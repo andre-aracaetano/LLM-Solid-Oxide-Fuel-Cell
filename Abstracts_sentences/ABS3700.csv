@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,3700,Monitoring and fault diagnosis can play a major role in improving the reliability of Solid Oxide Fuel Cell (SOFC) systems.,Adaptive observer based approach for the fault diagnosis in solid oxide fuel cells,10.1016/j.jprocont.2019.09.010
+2,3700,"Due to complex interactions between the variables, quantitative model based methods are suitable for SOFC fault diagnosis.",Adaptive observer based approach for the fault diagnosis in solid oxide fuel cells,10.1016/j.jprocont.2019.09.010
+3,3700,"In this work, a fault diagnosis strategy based on a non-linear observer based approach is proposed for the SOFC.",Adaptive observer based approach for the fault diagnosis in solid oxide fuel cells,10.1016/j.jprocont.2019.09.010
+4,3700,"Two nonlinear adaptive observers are designed based on the concepts of input-to-state stability of cascaded systems, each sensitive to different faults affecting the SOFC.",Adaptive observer based approach for the fault diagnosis in solid oxide fuel cells,10.1016/j.jprocont.2019.09.010
+5,3700,Simultaneous application of these two observers allows the unique identification and diagnosis of all the common faults in the SOFC.,Adaptive observer based approach for the fault diagnosis in solid oxide fuel cells,10.1016/j.jprocont.2019.09.010
+6,3700,This unique approach of multiple nonlinear adaptive observers for SOFC fault diagnosis can improve fault resolution and has applicability over wide operating ranges.,Adaptive observer based approach for the fault diagnosis in solid oxide fuel cells,10.1016/j.jprocont.2019.09.010
+7,3700,(C) 2019,Adaptive observer based approach for the fault diagnosis in solid oxide fuel cells,10.1016/j.jprocont.2019.09.010
+8,3700,Elsevier Ltd.,Adaptive observer based approach for the fault diagnosis in solid oxide fuel cells,10.1016/j.jprocont.2019.09.010
+9,3700,All rights reserved.,Adaptive observer based approach for the fault diagnosis in solid oxide fuel cells,10.1016/j.jprocont.2019.09.010

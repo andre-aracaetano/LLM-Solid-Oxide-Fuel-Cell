@@ -1,0 +1,12 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,19857,Solid Oxide Electrolyzer Cell (SOEC) can covert H2O and/or CO2 into usable fuel by consuming the excess electricity of renewable resource or off-peak grid power.,Modelling of solid oxide electrolyser cell using extreme learning machine,10.1016/j.electacta.2017.08.113
+2,19857,The SOEC is a promising device for the sustainable development of energy and hydrogen economy.,Modelling of solid oxide electrolyser cell using extreme learning machine,10.1016/j.electacta.2017.08.113
+3,19857,"In this work, the steady-state performance of SOEC is tested under different gas compositions and modelled by extreme learning machine (ELM) algorithm.",Modelling of solid oxide electrolyser cell using extreme learning machine,10.1016/j.electacta.2017.08.113
+4,19857,"According to the experimental results, the concentrations of H2O and CO2 influence the performance of SOEC.",Modelling of solid oxide electrolyser cell using extreme learning machine,10.1016/j.electacta.2017.08.113
+5,19857,"For the model, the inputs are the operating voltage and volume percentage of H-2, CO2, and H2O, while the output is the performance (current) of SOEC.",Modelling of solid oxide electrolyser cell using extreme learning machine,10.1016/j.electacta.2017.08.113
+6,19857,"The obtained model has correlation coefficients of higher than 0.999 and root mean square error less than 0.018, which means that the predicted data by the model well matches the experimental results.",Modelling of solid oxide electrolyser cell using extreme learning machine,10.1016/j.electacta.2017.08.113
+7,19857,"Then, the obtained ELM model is used to analyse the performances of SOEC under different concentrations of feedstock.",Modelling of solid oxide electrolyser cell using extreme learning machine,10.1016/j.electacta.2017.08.113
+8,19857,"Thus, this data driven ELM model is suitable for many instances of fast modelling for individual group and may be helpful to save the cost, time and effort to build a model for the purpose of performance analysis and system level design.",Modelling of solid oxide electrolyser cell using extreme learning machine,10.1016/j.electacta.2017.08.113
+9,19857,(C) 2017,Modelling of solid oxide electrolyser cell using extreme learning machine,10.1016/j.electacta.2017.08.113
+10,19857,Elsevier Ltd.,Modelling of solid oxide electrolyser cell using extreme learning machine,10.1016/j.electacta.2017.08.113
+11,19857,All rights reserved.,Modelling of solid oxide electrolyser cell using extreme learning machine,10.1016/j.electacta.2017.08.113

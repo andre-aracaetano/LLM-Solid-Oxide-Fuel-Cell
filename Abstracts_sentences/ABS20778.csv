@@ -1,0 +1,16 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,20778,Internal steam reforming induces an inhomogeneous temperature distribution in SOFC cell.,Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+2,20778,A thermo-mechanical model has been developed to determine both the temperature gradient and the stress field within an anode supported cell structure fed with methane.,Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+3,20778,Residual stresses due to manufacturing process and thermal stresses induced by the mismatch in thermal expansion coefficients have been taken into account.,Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+4,20778,Mechanical external loading of the cell has been neglected.,Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+5,20778,The results of this study have shown a cooling area at the inlet of the cell due to the endothermic steam reforming reaction.,Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+6,20778,"However, in our conditions of simulation, the temperature gradient in the cell has been found relatively low (0.2 degrees C mm(-1)).",Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+7,20778,"Consequently, thermal stresses in the three layers of the cell are mainly due to the heating from room temperature to the operating one.",Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+8,20778,Mechanical calculations have been performed considering a low compressive residual stress in the thin electrolyte at room temperature.,Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+9,20778,"In these conditions, a high tensile stress has been calculated in the thin electrolyte at operating temperature.",Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+10,20778,Its value is nearly homogenous all over the layer and exceeds the limit strength of the Yttria Stabilised Zirconia.,Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+11,20778,The brittle fracture of electrolyte layer in one thermal cycle has been analysed by a Weibull distribution.,Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+12,20778,The failure probability reaches 66% for a 60 micrometer electrolyte thickness.,Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+13,20778,"However, this result depends strongly on the layer thickness.",Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+14,20778,"Moreover, a singular stress field analysis has allowed determining an important tensile stress at the anode edge (on the circumferential free surface).",Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096
+15,20778,"It has been shown that fracture can be initiated at defects in this tensile surface, if the fracture toughness of the anodic cermet is inferior to 0.41 MPa root m.",Thermo-mechanical model of solid oxide fuel cell fed with methanex,10.1002/fuce.200500096

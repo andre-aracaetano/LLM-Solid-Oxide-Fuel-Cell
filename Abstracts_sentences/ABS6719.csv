@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,6719,"Control of output voltage is critical for the power quality of solid oxide fuel cells (SOFCs), which is, however, challenging due to electrochemical nonlinearity, load disturbances, modelling uncertainties, and actuator constraints.",A Combined Voltage Control Strategy for Fuel Cell,10.3390/su9091517
+2,6719,"Moreover, the fuel utilization rate should be limited within a safety range during the voltage regulation transient.",A Combined Voltage Control Strategy for Fuel Cell,10.3390/su9091517
+3,6719,"The current research is usually appealing to model predictive control (MPC) by formulating the difficulties into a constrained optimization problem, but its huge computational complexity makes it formidable for real-time implementation in practice.",A Combined Voltage Control Strategy for Fuel Cell,10.3390/su9091517
+4,6719,"To this end, this paper aims to develop a combined control structure, with basic function blocks, to fulfill the objectives with minor computation.",A Combined Voltage Control Strategy for Fuel Cell,10.3390/su9091517
+5,6719,"Firstly, the disturbance, nonlinearity and uncertainties are lumped as a total disturbance, which is estimated and mitigated by active disturbance rejection controller (ADRC).",A Combined Voltage Control Strategy for Fuel Cell,10.3390/su9091517
+6,6719,"Secondly, a feed-forward controller is introduced to improve the load disturbance rejection response.",A Combined Voltage Control Strategy for Fuel Cell,10.3390/su9091517
+7,6719,"Finally, the constraints are satisfied by designing a cautious switching strategy.",A Combined Voltage Control Strategy for Fuel Cell,10.3390/su9091517
+8,6719,The simulation results show that the nominal performance of the proposed strategy is comparable to MPC.,A Combined Voltage Control Strategy for Fuel Cell,10.3390/su9091517
+9,6719,"In the presence of parameter perturbation, the proposed strategy shows a better performance than MPC.",A Combined Voltage Control Strategy for Fuel Cell,10.3390/su9091517

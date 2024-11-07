@@ -1,0 +1,15 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,2627,"The present work deals with the analysis of operational concepts for a solid oxide fuel cell/micro gas turbine (SOFC/MGT) hybrid power plant based on a test rig at the DLR, Institute of Combustion Technology.",Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605
+2,2627,"Here, a Turbec T100 MGT and a fuel cell emulator are used.",Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605
+3,2627,The emulator is composed of two pressure vessels.,Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605
+4,2627,The first represents the cathode volume of the fuel cell to simulate the residence time and pressure loss.,Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605
+5,2627,The second is equipped with a natural gas combustor to emulate the varying heat input of the fuel cell.,Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605
+6,2627,The MGT and the SOFC are connected via different piping paths.,Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605
+7,2627,"The procedures start-up, load change, and shutdown are analyzed in matters of temperature gradients, pressure gradients, and fluctuations, as well as the air mass, flow provided at the interconnections to the coupling elements.",Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605
+8,2627,"To achieve the required inlet conditions of the SOFC, transient operations, using the different piping paths, are investigated.",Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605
+9,2627,Concepts for heating up and cooling the SOFC using hot air from the recuperator and relatively cold air from the compressor outlet are experimentally tested and characterized.,Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605
+10,2627,Selected critical situations and their effect on the SOFC are investigated.,Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605
+11,2627,An emergency operation and its impact on both subsystems and limitations are shown.,Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605
+12,2627,Further operational limits of the MGT control system and power electronic were observed and analyzed.,Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605
+13,2627,"Based on the experimental results, the applicability of the used MGT procedures in a hybrid power plant was reconsidered.",Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605
+14,2627,"Finally, adaptions and strategies for the operational concept are derived and discussed.",Analysis of Operational Strategies of a SOFC/Micro Gas Turbine Hybrid Power Plant,10.1115/1.4038605

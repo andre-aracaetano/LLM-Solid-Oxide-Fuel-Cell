@@ -1,0 +1,4 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,13925,"The ABO(3) crystal structure allows for enormous flexibilities in ion doping and substitutions, which enables tailoring of oxygen ionic conductivities to fit practical applications.",Modeling oxygen ionic conductivities of ABO3 Perovskites through machine learning,10.1016/j.chemphys.2022.111511
+2,13925,We develop the Gaussian process regression model to predict oxygen ionic conductivities for ABO(3) perovskites based on atomic properties that are derived from electronegativities and ionic radii of alloying elements.,Modeling oxygen ionic conductivities of ABO3 Perovskites through machine learning,10.1016/j.chemphys.2022.111511
+3,13925,"The model is highly stable and accurate, and is thus promising as a fast, robust, and low-cost tool for oxide oxygen conductivity estimations.",Modeling oxygen ionic conductivities of ABO3 Perovskites through machine learning,10.1016/j.chemphys.2022.111511

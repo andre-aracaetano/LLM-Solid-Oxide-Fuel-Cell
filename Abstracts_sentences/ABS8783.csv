@@ -1,0 +1,8 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,8783,"In this study, a data-driven fault diagnosis method was developed for solid oxide fuel cell (SOFC) systems.",A Data-Driven Fault Diagnosis Method for Solid Oxide Fuel Cell Systems,10.3390/en15072556
+2,8783,"First, the complete experimental data was obtained following the design of the SOFC system experiments.",A Data-Driven Fault Diagnosis Method for Solid Oxide Fuel Cell Systems,10.3390/en15072556
+3,8783,"Then, principal component analysis (PCA) was performed to reduce the dimensionality of the obtained experimental data.",A Data-Driven Fault Diagnosis Method for Solid Oxide Fuel Cell Systems,10.3390/en15072556
+4,8783,"Finally, the fault diagnosis algorithms were designed by support vector machine (SVM) and BP neural network to identify and prevent the reformer carbon deposition and heat exchanger rupture faults, respectively.",A Data-Driven Fault Diagnosis Method for Solid Oxide Fuel Cell Systems,10.3390/en15072556
+5,8783,The research results show that both SVM and BP fault diagnosis algorithms can achieve online fault identification.,A Data-Driven Fault Diagnosis Method for Solid Oxide Fuel Cell Systems,10.3390/en15072556
+6,8783,"The PCA + SVM algorithm was compared with the SVM algorithm, BP algorithm, and PCA + BP algorithm, and the results show that the PCA + SVM algorithm is superior in terms of running time and accuracy, the diagnosis accuracy reached more than 99%, and the running time was within 20 s.",A Data-Driven Fault Diagnosis Method for Solid Oxide Fuel Cell Systems,10.3390/en15072556
+7,8783,The corresponding system optimization scheme is also proposed.,A Data-Driven Fault Diagnosis Method for Solid Oxide Fuel Cell Systems,10.3390/en15072556

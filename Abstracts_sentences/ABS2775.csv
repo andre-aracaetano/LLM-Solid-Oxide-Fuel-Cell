@@ -1,0 +1,11 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,2775,This paper presents a two-dimensional model for a planar solid oxide fuel cell (SOFC) anode in order to simulate the steady-state performance characteristics as well as the electrochemical impedance spectra.,Two-dimensional simulation of gas concentration impedance for a planar solid oxide fuel cell,10.1016/j.enconman.2014.02.047
+2,2775,The developed model couples the mass transport with the electrochemical kinetics.,Two-dimensional simulation of gas concentration impedance for a planar solid oxide fuel cell,10.1016/j.enconman.2014.02.047
+3,2775,The transient conservation equations (momentum and species equations) are solved numerically and the linear kinetic is used for the anode electrochemistry.,Two-dimensional simulation of gas concentration impedance for a planar solid oxide fuel cell,10.1016/j.enconman.2014.02.047
+4,2775,"In order to solve the system of the nonlinear equations, an in-house code based on the finite volume method is developed and utilized.",Two-dimensional simulation of gas concentration impedance for a planar solid oxide fuel cell,10.1016/j.enconman.2014.02.047
+5,2775,A parametric study is also carried out and the results are discussed.,Two-dimensional simulation of gas concentration impedance for a planar solid oxide fuel cell,10.1016/j.enconman.2014.02.047
+6,2775,Results show a capacitive semicircle in the Nyquist plot which is identical to the gas concentration impedance.,Two-dimensional simulation of gas concentration impedance for a planar solid oxide fuel cell,10.1016/j.enconman.2014.02.047
+7,2775,The simulation results are in good agreement with published data.,Two-dimensional simulation of gas concentration impedance for a planar solid oxide fuel cell,10.1016/j.enconman.2014.02.047
+8,2775,(C) 2014,Two-dimensional simulation of gas concentration impedance for a planar solid oxide fuel cell,10.1016/j.enconman.2014.02.047
+9,2775,Elsevier Ltd.,Two-dimensional simulation of gas concentration impedance for a planar solid oxide fuel cell,10.1016/j.enconman.2014.02.047
+10,2775,All rights reserved.,Two-dimensional simulation of gas concentration impedance for a planar solid oxide fuel cell,10.1016/j.enconman.2014.02.047

@@ -1,0 +1,8 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,4300,A 5/15 kW-class reversible Solid Oxide Cell (rSOC) system was developed and experimentally investigated at the Forschungszentrum Julich GmbH.,Long-Term Experience with a 5/15kW-Class Reversible Solid Oxide Cell System,10.1149/1945-7111/abdc79
+2,4300,"The main component of this system is the well-established Julich Integrated Module, which consists of four 10-layer SOC sub-stacks with an active cell area per layer of 320 cm(2).",Long-Term Experience with a 5/15kW-Class Reversible Solid Oxide Cell System,10.1149/1945-7111/abdc79
+3,4300,"The other necessary system components, such as the evaporator, condenser and blowers are compactly arranged in the vicinity of the Integrated Module.",Long-Term Experience with a 5/15kW-Class Reversible Solid Oxide Cell System,10.1149/1945-7111/abdc79
+4,4300,"The system's total operation time was more than 9000 h, in detail 2607 h in fuel cells, 6043 h in electrolysis and 448 h in hot standby mode.",Long-Term Experience with a 5/15kW-Class Reversible Solid Oxide Cell System,10.1149/1945-7111/abdc79
+5,4300,"In fuel cell mode, a power of 5374 W-DC at 0.5 A cm(-2) at a fuel utilization of 97.3% was delivered, which resulted in a DC electrical system's efficiency of 62.7% (LHV).",Long-Term Experience with a 5/15kW-Class Reversible Solid Oxide Cell System,10.1149/1945-7111/abdc79
+6,4300,"Furthermore, in electrolysis mode, a power of -14347 W-DC was consumed at 0.89 A cm(-2).",Long-Term Experience with a 5/15kW-Class Reversible Solid Oxide Cell System,10.1149/1945-7111/abdc79
+7,4300,"At this operating point, the system's DC efficiency reached 70% at a steam utilization of 85%.",Long-Term Experience with a 5/15kW-Class Reversible Solid Oxide Cell System,10.1149/1945-7111/abdc79

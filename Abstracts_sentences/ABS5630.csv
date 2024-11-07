@@ -1,0 +1,8 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,5630,Solid oxide fuel cell (SOFC) at system level attracts increasing interest due to commercial application requirements.,Improving a solid oxide fuel cell system through exergy analysis,
+2,5630,"In this paper, we have built a SOFC system using AspenPlus (TM).",Improving a solid oxide fuel cell system through exergy analysis,
+3,5630,The system incorporates a SOFC macromodel with a set fuel utilisation of 0.5 and the component parameters are mainly based on experiments.,Improving a solid oxide fuel cell system through exergy analysis,
+4,5630,The exergy analysis of the system based on simulation results give an electrical exergy efficiency similar to 37.5%.,Improving a solid oxide fuel cell system through exergy analysis,
+5,5630,"In order to improve the performance of the system, two system modification methods, cascading additional stack and recycling anode exit gas, were evaluated by constructing double stack (DS) system and recycling anode gas (RAG) system.",Improving a solid oxide fuel cell system through exergy analysis,
+6,5630,"The exergy analysis gives an electrical exergy efficiency of similar to 55% for both systems, but the DS system requires higher cost while the RAG system needs more stable SOFC stack.",Improving a solid oxide fuel cell system through exergy analysis,
+7,5630,The sensitivity of current density and operation temperature was also evaluated and the RAG system has better performance.,Improving a solid oxide fuel cell system through exergy analysis,

@@ -1,0 +1,12 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,7060,Internally reforming anode supported solid-oxide fuel cells (SOFC) running on humidified CH4 is studied numerically.,Numerical study of mass and heat transport in solid-oxide fuel cells running on humidified methane,10.1016/j.ces.2007.01.043
+2,7060,The computational framework employs detailed multi-step models for heterogeneous chemistry for Ni catalysts.,Numerical study of mass and heat transport in solid-oxide fuel cells running on humidified methane,10.1016/j.ces.2007.01.043
+3,7060,The electrochemistry is implemented using a modified Butler-Volmer setting based on elementary charge transfer kinetics.,Numerical study of mass and heat transport in solid-oxide fuel cells running on humidified methane,10.1016/j.ces.2007.01.043
+4,7060,Transport through the porous matrix is modeled using the dusty gas model (DGM).,Numerical study of mass and heat transport in solid-oxide fuel cells running on humidified methane,10.1016/j.ces.2007.01.043
+5,7060,Parameters required for the electrochemical model are adjusted to reproduce experimentally observed data.,Numerical study of mass and heat transport in solid-oxide fuel cells running on humidified methane,10.1016/j.ces.2007.01.043
+6,7060,Obtained parameters are then used to model a co-flow planar single cell under internally reforming conditions assuming the interconnect walls as adiabatic.,Numerical study of mass and heat transport in solid-oxide fuel cells running on humidified methane,10.1016/j.ces.2007.01.043
+7,7060,Numerous runs with varying inlet conditions of cathode stream are carried out to deduce the behavior of temperature and current density distribution in the cell.,Numerical study of mass and heat transport in solid-oxide fuel cells running on humidified methane,10.1016/j.ces.2007.01.043
+8,7060,Results show that internal reforming generally leads to a temperature drop near the inlet boundary.,Numerical study of mass and heat transport in solid-oxide fuel cells running on humidified methane,10.1016/j.ces.2007.01.043
+9,7060,(c) 2007,Numerical study of mass and heat transport in solid-oxide fuel cells running on humidified methane,10.1016/j.ces.2007.01.043
+10,7060,Elsevier Ltd.,Numerical study of mass and heat transport in solid-oxide fuel cells running on humidified methane,10.1016/j.ces.2007.01.043
+11,7060,All rights reserved.,Numerical study of mass and heat transport in solid-oxide fuel cells running on humidified methane,10.1016/j.ces.2007.01.043

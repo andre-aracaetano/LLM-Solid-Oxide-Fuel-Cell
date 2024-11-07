@@ -1,0 +1,14 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,9727,"In this work, a three-dimensional model of a solid oxide fuel cell (SOFC) stack is developed to predict the temperature distribution across the stack.",A Study of Temperature Distribution Across a Solid Oxide Fuel Cell Stack,10.1115/1.3080810
+2,9727,The model simulates a particular SOFC stack comprising of five single cells.,A Study of Temperature Distribution Across a Solid Oxide Fuel Cell Stack,10.1115/1.3080810
+3,9727,"Isothermal and adiabatic walls are chosen as the different boundary conditions in order to simulate the real situation, which lies somewhere in between.",A Study of Temperature Distribution Across a Solid Oxide Fuel Cell Stack,10.1115/1.3080810
+4,9727,"In the situation where adiabatic walls are assumed, the result shows that heat convection dominates the heat transfer process.",A Study of Temperature Distribution Across a Solid Oxide Fuel Cell Stack,10.1115/1.3080810
+5,9727,"However, heat conduction plays a major role when the isothermal walls are assumed.",A Study of Temperature Distribution Across a Solid Oxide Fuel Cell Stack,10.1115/1.3080810
+6,9727,It is found that the highest temperature found in the isothermal stack is 1135 K at an operating temperature of 1073 K.,A Study of Temperature Distribution Across a Solid Oxide Fuel Cell Stack,10.1115/1.3080810
+7,9727,The temperature difference is significant with the hottest point located in the middle of the active area.,A Study of Temperature Distribution Across a Solid Oxide Fuel Cell Stack,10.1115/1.3080810
+8,9727,"In the adiabatic stack, the temperature is at its maximum of 1574 K near the outlets of fuel and air at the same operating temperature.",A Study of Temperature Distribution Across a Solid Oxide Fuel Cell Stack,10.1115/1.3080810
+9,9727,It should be kept in mind that both situations will have effects on the temperature behavior of the stack in reality.,A Study of Temperature Distribution Across a Solid Oxide Fuel Cell Stack,10.1115/1.3080810
+10,9727,The temperature and current distributions of stack models in this work are also plotted in three dimensions and the analyses of stack performances are given.,A Study of Temperature Distribution Across a Solid Oxide Fuel Cell Stack,10.1115/1.3080810
+11,9727,"By comparing the results of five-cell and ten-cell stack models, the temperature differences of the five-cell stack and the ten-cell stack are 62 and 109 K, respectively.",A Study of Temperature Distribution Across a Solid Oxide Fuel Cell Stack,10.1115/1.3080810
+12,9727,This indicates that there is a drastic temperature change throughout the stack when the stack size is increased.,A Study of Temperature Distribution Across a Solid Oxide Fuel Cell Stack,10.1115/1.3080810
+13,9727,[DOI: 10.1115/1.3080810],A Study of Temperature Distribution Across a Solid Oxide Fuel Cell Stack,10.1115/1.3080810

@@ -1,0 +1,7 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,3615,A new effective method for optimization of unknown parameters in solid oxide fuel cell (SOFC) stack models is suggested.,Parameter Identification of a Solid Oxide Fuel Cell Model under Different Temperature Conditions,10.1002/ceat.202300009
+2,3615,The overall voltage of the SOFC stack depends on these predicted parameters.,Parameter Identification of a Solid Oxide Fuel Cell Model under Different Temperature Conditions,10.1002/ceat.202300009
+3,3615,The goal is to reduce the mean square error (MSE) between the empirical and the predicted polarization curve obtained using the method.,Parameter Identification of a Solid Oxide Fuel Cell Model under Different Temperature Conditions,10.1002/ceat.202300009
+4,3615,"Black widow optimization (BWO), a metaheuristic method inspired by nature, describes the minimization process.",Parameter Identification of a Solid Oxide Fuel Cell Model under Different Temperature Conditions,10.1002/ceat.202300009
+5,3615,"This algorithm is made to alter the search space, avoid local optima, and deliver greater efficiency in the exploitation and exploration stages.",Parameter Identification of a Solid Oxide Fuel Cell Model under Different Temperature Conditions,10.1002/ceat.202300009
+6,3615,Situations based on multidimensional benchmark functions and SOFC stack temperature variations are investigated to ascertain the system consistency.,Parameter Identification of a Solid Oxide Fuel Cell Model under Different Temperature Conditions,10.1002/ceat.202300009

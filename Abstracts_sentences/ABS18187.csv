@@ -1,0 +1,15 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,18187,A multi-physics model coupling electrochemical kinetics with fluid dynamics has been developed to simulate the transport phenomena in mono-block-layer built (MOLB) solid oxide fuel cells (SOFC).,Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028
+2,18187,"A typical MOLB module is composed of trapezoidal flow channel-, corrugated positive electrode-electrolyte-negative electrode (PEN) plates, and planar inter-connecters.",Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028
+3,18187,The control volume-based finite difference method is employed for calculation.,Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028
+4,18187,"which is based on the conservation of mass, momentum, energy.",Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028
+5,18187,species.,Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028
+6,18187,and electric charge.,Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028
+7,18187,"In the porous electrodes, the flow momentum is governed by a Darcy model with constant porosity and permeability.",Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028
+8,18187,The diffusion of reactants Mows the Bruggman model.,Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028
+9,18187,The chemistry within the plates is described via surface reactions with a fixed surface-to-volume ratio.,Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028
+10,18187,tortuosity and average pore size.,Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028
+11,18187,Species transports as well as the local variations of electrochemical characteristics.,Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028
+12,18187,such as overpotential and current density distributions in the electrodes of an MOLB SOFC are discussed in detail.,Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028
+13,18187,(C) 2004,Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028
+14,18187,Elsevier B.V. All rights reserved.,Computational analysis of species transport and electrochemical characteristics of a MOLB-type SOFC,10.1016/j.jpowsour.2004.08.028

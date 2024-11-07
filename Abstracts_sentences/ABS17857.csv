@@ -1,0 +1,12 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,17857,At Forschungszentrum Julich GmbH an SOFC system with anode off-gas recirculation loop operating at temperatures up to 160 degrees C is simulated.,Analysis of a Solid Oxide Fuel Cell System with Low Temperature Anode Off-Gas Recirculation,10.1149/2.0371509jes
+2,17857,"To analyze the effect of anode off-gas recirculation, a dynamical system model was implemented in Matlab/Simulink.",Analysis of a Solid Oxide Fuel Cell System with Low Temperature Anode Off-Gas Recirculation,10.1149/2.0371509jes
+3,17857,"The results show, that the recirculation rate has a significant effect on the electrical efficiency.",Analysis of a Solid Oxide Fuel Cell System with Low Temperature Anode Off-Gas Recirculation,10.1149/2.0371509jes
+4,17857,"In principle, at constant current density high recirculation rates decrease the cell voltage and increase the power demand of the recirculation blower.",Analysis of a Solid Oxide Fuel Cell System with Low Temperature Anode Off-Gas Recirculation,10.1149/2.0371509jes
+5,17857,"Therefore, the highest electrical efficiency can be reached with high system fuel utilization, low recirculation rate and in consequence high stack fuel utilization.",Analysis of a Solid Oxide Fuel Cell System with Low Temperature Anode Off-Gas Recirculation,10.1149/2.0371509jes
+6,17857,On the other hand less amount of steam is available for the reforming reaction at low recirculation rates.,Analysis of a Solid Oxide Fuel Cell System with Low Temperature Anode Off-Gas Recirculation,10.1149/2.0371509jes
+7,17857,"Therefore, the minimum recirculation rate is determined by the risk of carbon formation.",Analysis of a Solid Oxide Fuel Cell System with Low Temperature Anode Off-Gas Recirculation,10.1149/2.0371509jes
+8,17857,An optimal operation range to avoid carbon formation and to ensure a high electrical efficiency requires recirculation rates between 65 and 70% and system fuel utilizations above 90%.,Analysis of a Solid Oxide Fuel Cell System with Low Temperature Anode Off-Gas Recirculation,10.1149/2.0371509jes
+9,17857,(C) 2015,Analysis of a Solid Oxide Fuel Cell System with Low Temperature Anode Off-Gas Recirculation,10.1149/2.0371509jes
+10,17857,The Electrochemical Society.,Analysis of a Solid Oxide Fuel Cell System with Low Temperature Anode Off-Gas Recirculation,10.1149/2.0371509jes
+11,17857,All rights reserved.,Analysis of a Solid Oxide Fuel Cell System with Low Temperature Anode Off-Gas Recirculation,10.1149/2.0371509jes

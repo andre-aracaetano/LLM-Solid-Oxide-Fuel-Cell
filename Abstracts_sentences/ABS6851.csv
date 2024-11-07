@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,6851,"In SOFCs, transient control of fuel utilization is achievable via input-shaping.",Feedforward based transient control in solid oxide fuel cells,10.1016/j.conengprac.2016.08.008
+2,6851,"In this paper, the approach is generalized to a feedforward control problem for second-order LTI systems with two inputs and one output.",Feedforward based transient control in solid oxide fuel cells,10.1016/j.conengprac.2016.08.008
+3,6851,"One is a measurable, time-varying, exogenous input and the other is a control input.",Feedforward based transient control in solid oxide fuel cells,10.1016/j.conengprac.2016.08.008
+4,6851,The problem studied is exact tracking of a constant reference using the plant's DC gain vector.,Feedforward based transient control in solid oxide fuel cells,10.1016/j.conengprac.2016.08.008
+5,6851,"The problem considers plant models that can be divided into known and unknown parts, and where feedback is unavailable.",Feedforward based transient control in solid oxide fuel cells,10.1016/j.conengprac.2016.08.008
+6,6851,"Although SOFCs have nonlinear dynamics, the linear abstraction nevertheless helps predict the observed effectiveness of input-shaping.",Feedforward based transient control in solid oxide fuel cells,10.1016/j.conengprac.2016.08.008
+7,6851,(C) 2016,Feedforward based transient control in solid oxide fuel cells,10.1016/j.conengprac.2016.08.008
+8,6851,Elsevier Ltd.,Feedforward based transient control in solid oxide fuel cells,10.1016/j.conengprac.2016.08.008
+9,6851,All rights reserved.,Feedforward based transient control in solid oxide fuel cells,10.1016/j.conengprac.2016.08.008

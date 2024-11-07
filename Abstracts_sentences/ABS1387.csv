@@ -1,0 +1,8 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,1387,The high installation cost is the major obstacle of the commercialization of the solid oxide fuel cell for distributed power generation.,Low cost fuel cell converter system for residential power generation,10.1109/TPEL.2004.833455
+2,1387,This paper presents a new low cost 10-kW converter system to overcome this obstacle.,Low cost fuel cell converter system for residential power generation,10.1109/TPEL.2004.833455
+3,1387,The proposed system consists of an isolated dc-dc converter to boost the fuel cell voltage to 400 V dc and a pulse-width modulated inverter with filter to convert the dc voltage to two split-phase 120-V ac.,Low cost fuel cell converter system for residential power generation,10.1109/TPEL.2004.833455
+4,1387,The dc-dc converter uses phase shifting to control power flow through a transformer with a metal oxide semiconductor field effect transistor full bridge on the low voltage side and a voltage doubler on the high voltage side.,Low cost fuel cell converter system for residential power generation,10.1109/TPEL.2004.833455
+5,1387,One IPM is used to realize the voltage doubler and the dc-ac inverter.,Low cost fuel cell converter system for residential power generation,10.1109/TPEL.2004.833455
+6,1387,"Compared to the existing fuel cell converter systems, the proposed circuit has low cost, less component count, smaller size, and reduced dc-dc converter peak current.",Low cost fuel cell converter system for residential power generation,10.1109/TPEL.2004.833455
+7,1387,Simulation and experimental results are demonstrated.,Low cost fuel cell converter system for residential power generation,10.1109/TPEL.2004.833455

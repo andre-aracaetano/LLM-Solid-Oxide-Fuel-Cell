@@ -1,0 +1,7 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,4209,This paper proposes a new configuration of distributed generation system fed by a fuel cell and operating side by side with dynamic voltage restorer (DVR).,Distributed grid-connected SOFC supporting a multilevel dynamic voltage restorer,10.1007/s12667-018-0272-1
+2,4209,"In this configuration, the solid oxide fuel cell serves the double purpose of injecting power in the grid as well as feeding a DVR, which precludes the need for an extra energy source.",Distributed grid-connected SOFC supporting a multilevel dynamic voltage restorer,10.1007/s12667-018-0272-1
+3,4209,"Such solution is not only a mean to produce clean energy, but also can participate in the power quality improvement.",Distributed grid-connected SOFC supporting a multilevel dynamic voltage restorer,10.1007/s12667-018-0272-1
+4,4209,"In order to strengthen the last aspect, multilevel inverters are used in both shunt and series grid connections.",Distributed grid-connected SOFC supporting a multilevel dynamic voltage restorer,10.1007/s12667-018-0272-1
+5,4209,"The aim of this paper is the modeling and control of the proposed double task system, and showing its grid-friendly behavior.",Distributed grid-connected SOFC supporting a multilevel dynamic voltage restorer,10.1007/s12667-018-0272-1
+6,4209,"To illustrate its performance, extensive simulation results are carried out under a variety of operating conditions.",Distributed grid-connected SOFC supporting a multilevel dynamic voltage restorer,10.1007/s12667-018-0272-1

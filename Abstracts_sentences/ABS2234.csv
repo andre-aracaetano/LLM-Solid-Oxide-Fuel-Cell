@@ -1,0 +1,9 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,2234,Continuous-time recurrent fuzzy systems allow modeling continuous-time processes whose dynamic behavior can be stated in linguistic if-then rules.,Modeling solid oxide fuel cells using continuous-time recurrent fuzzy systems,10.1016/j.engappai.2008.02.006
+2,2234,"If the dynamics are known at certain mesh points, the interpolating character of the fuzzy system between the mesh points yields a complete dynamical model of the process.",Modeling solid oxide fuel cells using continuous-time recurrent fuzzy systems,10.1016/j.engappai.2008.02.006
+3,2234,"In this contribution, continuous-time recurrent fuzzy systems are employed to model the electrical behavior of a solid oxide fuel cell, which both can be described qualitatively and is known quantitatively from measurements.",Modeling solid oxide fuel cells using continuous-time recurrent fuzzy systems,10.1016/j.engappai.2008.02.006
+4,2234,Due to the transparency of the model an easy estimation of its parameters is possible.,Modeling solid oxide fuel cells using continuous-time recurrent fuzzy systems,10.1016/j.engappai.2008.02.006
+5,2234,"Additionally, the model parameters are optimized numerically to enhance the model performance.",Modeling solid oxide fuel cells using continuous-time recurrent fuzzy systems,10.1016/j.engappai.2008.02.006
+6,2234,(C) 2008,Modeling solid oxide fuel cells using continuous-time recurrent fuzzy systems,10.1016/j.engappai.2008.02.006
+7,2234,Elsevier Ltd.,Modeling solid oxide fuel cells using continuous-time recurrent fuzzy systems,10.1016/j.engappai.2008.02.006
+8,2234,All rights reserved.,Modeling solid oxide fuel cells using continuous-time recurrent fuzzy systems,10.1016/j.engappai.2008.02.006

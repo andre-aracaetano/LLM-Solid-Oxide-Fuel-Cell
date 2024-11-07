@@ -1,0 +1,9 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,10709,A mathematical model describing the multi-component species transport inside the porous solid oxide fuel cell (SOFC) anode has been developed.,Multi-component mathematical model of solid oxide fuel cell anode,10.1002/er.1141
+2,10709,The model includes the water-gas shift reaction in the anode electrode (backing) layer and the spatially resolved electrochemical reaction in the reaction zone layer.,Multi-component mathematical model of solid oxide fuel cell anode,10.1002/er.1141
+3,10709,The modified Stefan-Maxwell equations incorporating Knudsen diffusion were used to model multicomponent diffusion inside the porous electrode (backing) and reaction zone layers.,Multi-component mathematical model of solid oxide fuel cell anode,10.1002/er.1141
+4,10709,"Moreover, the general Butler-Volmer equation was used to model the electrochemical reaction in the reaction zone layer.",Multi-component mathematical model of solid oxide fuel cell anode,10.1002/er.1141
+5,10709,"The model can predict the distribution of species within the SOFC anode for any reformate gas composition involving carbon dioxide, carbon monoxide, hydrogen and water vapour.",Multi-component mathematical model of solid oxide fuel cell anode,10.1002/er.1141
+6,10709,"The chemical and electrochemical reactions as well as transport processes in the SOFC anode can be simulated, yielding the anode performance under various operating and design conditions.",Multi-component mathematical model of solid oxide fuel cell anode,10.1002/er.1141
+7,10709,This anode model can be coupled with a similarly developed model for the cathode to form an overall model for a single SOFC model.,Multi-component mathematical model of solid oxide fuel cell anode,10.1002/er.1141
+8,10709,"Copyright (c) 2005 John Wiley & Sons, Ltd.",Multi-component mathematical model of solid oxide fuel cell anode,10.1002/er.1141

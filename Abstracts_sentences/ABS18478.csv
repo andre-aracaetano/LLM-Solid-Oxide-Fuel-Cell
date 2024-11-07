@@ -1,0 +1,13 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,18478,This paper introduces a binary particle swarm optimization-based method to accomplish optimal location of biomass-fuelled systems for distributed power generation.,Particle swarm optimization for biomass-fuelled systems with technical constraints,10.1016/j.engappai.2008.04.013
+2,18478,The approach also provides the supply area for the biomass plant and takes technical constraints into account.,Particle swarm optimization for biomass-fuelled systems with technical constraints,10.1016/j.engappai.2008.04.013
+3,18478,This issue can be formulated as a nonlinear optimization problem.,Particle swarm optimization for biomass-fuelled systems with technical constraints,10.1016/j.engappai.2008.04.013
+4,18478,In rural or radial distribution networks the main technical constraint is the impact on the voltage profile.,Particle swarm optimization for biomass-fuelled systems with technical constraints,10.1016/j.engappai.2008.04.013
+5,18478,"Biomass is one of the most promising renewable energy sources in Europe, but more research is required to prove that power generation from biomass is both technically and economically viable.",Particle swarm optimization for biomass-fuelled systems with technical constraints,10.1016/j.engappai.2008.04.013
+6,18478,"Forest residues are here considered as biomass source, and the fitness function to be optimized is the profitability index.",Particle swarm optimization for biomass-fuelled systems with technical constraints,10.1016/j.engappai.2008.04.013
+7,18478,A fair comparison between the proposed algorithm and genetic algorithms (GAs) is performed.,Particle swarm optimization for biomass-fuelled systems with technical constraints,10.1016/j.engappai.2008.04.013
+8,18478,"For such goal, convergence curves of the average profitability index versus number of iterations are computed.",Particle swarm optimization for biomass-fuelled systems with technical constraints,10.1016/j.engappai.2008.04.013
+9,18478,The proposed algorithm reaches a better solution than GAs when considering similar computational cost (similar number of evaluations).,Particle swarm optimization for biomass-fuelled systems with technical constraints,10.1016/j.engappai.2008.04.013
+10,18478,(C) 2008,Particle swarm optimization for biomass-fuelled systems with technical constraints,10.1016/j.engappai.2008.04.013
+11,18478,Elsevier Ltd.,Particle swarm optimization for biomass-fuelled systems with technical constraints,10.1016/j.engappai.2008.04.013
+12,18478,All rights reserved.,Particle swarm optimization for biomass-fuelled systems with technical constraints,10.1016/j.engappai.2008.04.013

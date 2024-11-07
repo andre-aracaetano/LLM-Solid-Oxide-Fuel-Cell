@@ -1,0 +1,12 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,18724,BACKGROUND: A high H2S elimination capacity has been achieved by anoxic biotrickling filters but accurate control of the nitrate dosage is required.,PID control system for biogas desulfurization under anoxic conditions,10.1002/jctb.5243
+2,18724,Different control strategies have been used in biotrickling filters but proportional-integral-derivative (PID) control studies have not been reported to date.,PID control system for biogas desulfurization under anoxic conditions,10.1002/jctb.5243
+3,18724,The aim of this study was to demonstrate the stability and robustness of PID control in an anoxic biotrickling filter.,PID control system for biogas desulfurization under anoxic conditions,10.1002/jctb.5243
+4,18724,"RESULTS: Three PID tuning methods were tested: Ziegler-Nichols, Approximate M-constrained integral gain optimization (AMIGO), and maintained oscillation.",PID control system for biogas desulfurization under anoxic conditions,10.1002/jctb.5243
+5,18724,"The best results were obtained using PID control by the maintained oscillation method, where the system reached stabilization 0.41 h after the H2S inlet step.",PID control system for biogas desulfurization under anoxic conditions,10.1002/jctb.5243
+6,18724,"Moreover, the nitrate consumptionwas 15.4% lower than that without control.",PID control system for biogas desulfurization under anoxic conditions,10.1002/jctb.5243
+7,18724,CONCLUSION:,PID control system for biogas desulfurization under anoxic conditions,10.1002/jctb.5243
+8,18724,The biotrickling filter operated with a PID control strategy proved to be highly stable and robust against the perturbations and disturbances evaluated.,PID control system for biogas desulfurization under anoxic conditions,10.1002/jctb.5243
+9,18724,The control system was able to operate satisfactorily to a change in the set-point of the outlet H2S concentrations from 25 to 200 ppmV.,PID control system for biogas desulfurization under anoxic conditions,10.1002/jctb.5243
+10,18724,The desulfurized biogas could be fed directly to an internal combustion engine or solid oxide fuel cell (SOFC) equipped with a zeolite clean unit.,PID control system for biogas desulfurization under anoxic conditions,10.1002/jctb.5243
+11,18724,(C) 2017 Society of Chemical Industry,PID control system for biogas desulfurization under anoxic conditions,10.1002/jctb.5243

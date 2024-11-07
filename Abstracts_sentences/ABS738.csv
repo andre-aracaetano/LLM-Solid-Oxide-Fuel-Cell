@@ -1,0 +1,6 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,738,This paper presents a physically based dynamic model for tubular solid oxide fuel cells (SOFCs) based on the electrochemical and thermodynamic characteristics inside SOFC.,A physically based dynamic model for solid oxide fuel cells,10.1109/TEC.2007.895468
+2,738,"The diffusion, material conservation,electrochemical, and thermodynamic equations are used to develop the SOFC model.",A physically based dynamic model for solid oxide fuel cells,10.1109/TEC.2007.895468
+3,738,"The effect of temperature on the steady-state (V-I and P-I) characteristics of the SOFC model has been studied, and the model responses have been obtained for constant fuel flow as well as for constant fuel utilization operating modes.",A physically based dynamic model for solid oxide fuel cells,10.1109/TEC.2007.895468
+4,738,"The dynamic characteristics of the model are investigated in small, medium, and large timescales, from milliseconds to minutes.",A physically based dynamic model for solid oxide fuel cells,10.1109/TEC.2007.895468
+5,738,The model has been implemented in MATLAB/Simulink and used to investigate the distributed generation applications of SOFCs.,A physically based dynamic model for solid oxide fuel cells,10.1109/TEC.2007.895468

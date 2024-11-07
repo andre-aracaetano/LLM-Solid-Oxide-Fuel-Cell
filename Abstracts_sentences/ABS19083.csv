@@ -1,0 +1,12 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,19083,Solid oxide cell (SOC) performance is limited by various processes.,Modeling Degradation in SOEC Impedance Spectra,10.1149/2.023303jes
+2,19083,One way to investigate these processes is by electrochemical impedance spectroscopy.,Modeling Degradation in SOEC Impedance Spectra,10.1149/2.023303jes
+3,19083,"In order to quantify and characterize the processes, an equivalent circuit can be used to model the SOC impedance spectra (IS).",Modeling Degradation in SOEC Impedance Spectra,10.1149/2.023303jes
+4,19083,"Unfortunately, the optimal equivalent circuit is often unknown and to complicate matters further, several processes contribute to the SOC impedance - making detailed process characterization difficult.",Modeling Degradation in SOEC Impedance Spectra,10.1149/2.023303jes
+5,19083,In this work we analyze and model a series of IS measured during steam electrolysis operation of an SOC.,Modeling Degradation in SOEC Impedance Spectra,10.1149/2.023303jes
+6,19083,"During testing, degradation is only observed in the Ni/YSZ electrode and not in the electrolyte or the LSM/YSZ electrode.",Modeling Degradation in SOEC Impedance Spectra,10.1149/2.023303jes
+7,19083,A batch fit of the differences between the IS shows that a modified Gerischer element provides a better fit to the Ni/YSZ electrode impedance than the frequently used RQ element - albeit neither equivalent circuit provides a perfect fit.,Modeling Degradation in SOEC Impedance Spectra,10.1149/2.023303jes
+8,19083,"However, modeling with the Gerischer element indicates that the Ni/YSZ electrode performance decrease, relates to an electrochemical reaction resistance increase at the electrode triple phase boundaries.",Modeling Degradation in SOEC Impedance Spectra,10.1149/2.023303jes
+9,19083,(C) 2013 The Electrochemical Society.,Modeling Degradation in SOEC Impedance Spectra,10.1149/2.023303jes
+10,19083,[DOT: 10.1149/2.023303jes],Modeling Degradation in SOEC Impedance Spectra,10.1149/2.023303jes
+11,19083,All rights reserved.,Modeling Degradation in SOEC Impedance Spectra,10.1149/2.023303jes

@@ -1,0 +1,5 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,15824,"Simulation of a planar Solid Oxide Fuel Cell stack requires the solution of the mass balances of the chemical species, the energy balances, the charge balance and the channel flow equations in order to compute the species concentrations, the temperature distributions, the current density and the channel flows.",TEMPERATURE AND FLOW DISTRIBUTIONS IN PLANAR SOFC STACKS,10.4173/mic.1995.3.1
+2,15824,The unit cell geometry can be taken into account by combining detailed modeling of a unit cell with a homogenized model of a whole stack.,TEMPERATURE AND FLOW DISTRIBUTIONS IN PLANAR SOFC STACKS,10.4173/mic.1995.3.1
+3,15824,In this study the effect of the asymmetric temperature distribution on the channel flows in a conventional cross-flow design has been investigated.,TEMPERATURE AND FLOW DISTRIBUTIONS IN PLANAR SOFC STACKS,10.4173/mic.1995.3.1
+4,15824,"The bidirectional cross-flow design is introduced, for which we can show more directional temperature and flow distributions.",TEMPERATURE AND FLOW DISTRIBUTIONS IN PLANAR SOFC STACKS,10.4173/mic.1995.3.1

@@ -1,0 +1,11 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,3574,"In the present paper, a three-dimensional, time-dependent SOFC numerical model is defined, considering all the phenomena occurring in each component of the fuel cell.","Modeling solid oxide fuel cell operation: Approaches, techniques and results",10.1016/j.jpowsour.2005.11.045
+2,3574,"All the equations are written in a partial differential form, thus the model is independent from the cell geometry (planar, tubular, monolithic) and the modeling approach (i.e. time-dependent, 3D, 2D).","Modeling solid oxide fuel cell operation: Approaches, techniques and results",10.1016/j.jpowsour.2005.11.045
+3,3574,"The triple-phase-boundary (TPB) is modeled as a finite region, as well as a non-dimensional interface area.","Modeling solid oxide fuel cell operation: Approaches, techniques and results",10.1016/j.jpowsour.2005.11.045
+4,3574,"In the latter case the source terms of the energy, mass and electrical conservation equations are treated as a boundary conditions.","Modeling solid oxide fuel cell operation: Approaches, techniques and results",10.1016/j.jpowsour.2005.11.045
+5,3574,"Finally, a literature review is conducted.","Modeling solid oxide fuel cell operation: Approaches, techniques and results",10.1016/j.jpowsour.2005.11.045
+6,3574,Some results from the models previously developed by the authors or found in the literature survey are presented.,"Modeling solid oxide fuel cell operation: Approaches, techniques and results",10.1016/j.jpowsour.2005.11.045
+7,3574,Each of them can be reviewed as a simplified version of the model presented in the present paper.,"Modeling solid oxide fuel cell operation: Approaches, techniques and results",10.1016/j.jpowsour.2005.11.045
+8,3574,The simplified assumptions and the related omissions that each of those approaches imply are also analyzed.,"Modeling solid oxide fuel cell operation: Approaches, techniques and results",10.1016/j.jpowsour.2005.11.045
+9,3574,(c) 2005,"Modeling solid oxide fuel cell operation: Approaches, techniques and results",10.1016/j.jpowsour.2005.11.045
+10,3574,Elsevier B.V. All rights reserved.,"Modeling solid oxide fuel cell operation: Approaches, techniques and results",10.1016/j.jpowsour.2005.11.045

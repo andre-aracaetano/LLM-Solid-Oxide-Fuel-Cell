@@ -1,0 +1,5 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,2438,This paper presents the modeling approach for a quasi-2-D tubular anode-supported solid-oxide fuel cell (SOFC) for real-time control implementation.,Development of a Quasi 2-D Modeling of Tubular Solid-Oxide Fuel Cell for Real-Time Control,10.1109/TEC.2013.2293223
+2,2438,"The proposed system considers a multidomain electrochemical, fluidic, and thermal dynamic modeling and it is experimentally validated against a SOFC real world implementation.",Development of a Quasi 2-D Modeling of Tubular Solid-Oxide Fuel Cell for Real-Time Control,10.1109/TEC.2013.2293223
+3,2438,Implicit iterative algebraic equations have been introduced and implemented in C language in order to have fast real-time execution.,Development of a Quasi 2-D Modeling of Tubular Solid-Oxide Fuel Cell for Real-Time Control,10.1109/TEC.2013.2293223
+4,2438,The methodology for implementing such an iterative solver is discussed in details and the results demonstrate practical feasibilities in advancing real-time control of SOFC,Development of a Quasi 2-D Modeling of Tubular Solid-Oxide Fuel Cell for Real-Time Control,10.1109/TEC.2013.2293223

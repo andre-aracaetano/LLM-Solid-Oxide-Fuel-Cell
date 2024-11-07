@@ -1,0 +1,4 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,1140,"For a planar solid-oxide fuel cell (PSOFC)-based power system, the differences in the response times of the PSOFC stack, the power electronics subsystem (PES), and the balance-of-plant subsystem (BOPS) cause low-reactant conditions near the PSOFC electrodes during load transients.",Effects of battery buffering on the post-load-transient performance of a PSOFC,10.1109/TEC.2006.876420
+2,1140,"Because the BOPS cannot instantaneously provide enough fuel to the PSOFC, the load transients have a detrimental effect on the performance and life of the fuel cell.",Effects of battery buffering on the post-load-transient performance of a PSOFC,10.1109/TEC.2006.876420
+3,1140,"To alleviate the degrading effects of load transients on PSOFC stacks, the effectiveness of the energy buffering is investigated.",Effects of battery buffering on the post-load-transient performance of a PSOFC,10.1109/TEC.2006.876420

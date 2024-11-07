@@ -1,0 +1,9 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,6872,"A novel method for the control and integration of a portable hybrid solid oxide fuel cell (SOFC) system, based on hydrocarbon fuel, is presented in this paper.","Modeling, Control, and Integration of a Portable Solid Oxide Fuel Cell System",10.1115/1.4005386
+2,6872,"The balance of plant (BOP) and power electronics systems are treated as separate local units, and local controllers are designed for each unit using established linear techniques.","Modeling, Control, and Integration of a Portable Solid Oxide Fuel Cell System",10.1115/1.4005386
+3,6872,"For the control of the integration of these two systems, a higher level supervisory controller is developed.","Modeling, Control, and Integration of a Portable Solid Oxide Fuel Cell System",10.1115/1.4005386
+4,6872,The supervisory controller is an intelligent controller that decides how each of the local controllers should perform based on the status of the respective local units.,"Modeling, Control, and Integration of a Portable Solid Oxide Fuel Cell System",10.1115/1.4005386
+5,6872,Two energy buffer units (battery and super-capacitor) have been used for the mitigation of load transients.,"Modeling, Control, and Integration of a Portable Solid Oxide Fuel Cell System",10.1115/1.4005386
+6,6872,The supervisory controller is developed using state-flow and fuzzy logic toolbox of MATLAB.,"Modeling, Control, and Integration of a Portable Solid Oxide Fuel Cell System",10.1115/1.4005386
+7,6872,All the modeling and control is implemented in a MATLAB/Simulink environment.,"Modeling, Control, and Integration of a Portable Solid Oxide Fuel Cell System",10.1115/1.4005386
+8,6872,[DOI: 10.1115/1.4005386],"Modeling, Control, and Integration of a Portable Solid Oxide Fuel Cell System",10.1115/1.4005386

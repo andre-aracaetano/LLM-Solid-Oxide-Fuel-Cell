@@ -1,0 +1,14 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,3122,A physical model for PEM fuel cell impedance Z at open circuit potential (OCP) is developed and analytical expression for Z is derived.,PEM Fuel Cell Impedance at Open Circuit,10.1149/2.0111605jes
+2,3122,The OCP impedance is a sum of the cathode catalyst layer (CCL) and the gas-diffusion layer (GDL) impedances connected in series.,PEM Fuel Cell Impedance at Open Circuit,10.1149/2.0111605jes
+3,3122,"The GDL impedance differs from the Warburg impedance, which is often used in modeling of fuel cell electrodes.",PEM Fuel Cell Impedance at Open Circuit,10.1149/2.0111605jes
+4,3122,A key parameter determining the OCP impedance spectrum is the Newman's dimensionless reaction penetration depth epsilon.,PEM Fuel Cell Impedance at Open Circuit,10.1149/2.0111605jes
+5,3122,"In PEMFCs, epsilon is large, which makes the GDL impedance a small invisible additive to the CCL impedance.",PEM Fuel Cell Impedance at Open Circuit,10.1149/2.0111605jes
+6,3122,"In a solid oxide fuel cell (SOFC) anode, epsilon is small, and the GDL impedance forms a well-resolved separate arc in the impedance spectrum at the OCP.",PEM Fuel Cell Impedance at Open Circuit,10.1149/2.0111605jes
+7,3122,"In a real PEM fuel cell, a true OCP regime cannot be achieved due to hydrogen crossover through the membrane.",PEM Fuel Cell Impedance at Open Circuit,10.1149/2.0111605jes
+8,3122,Impedance measurements at zero current in the load yield an equivalent current density of hydrogen crossover through the membrane.,PEM Fuel Cell Impedance at Open Circuit,10.1149/2.0111605jes
+9,3122,(C) The Author(s) 2016.,PEM Fuel Cell Impedance at Open Circuit,10.1149/2.0111605jes
+10,3122,Published by ECS.,PEM Fuel Cell Impedance at Open Circuit,10.1149/2.0111605jes
+11,3122,"This is an open access article distributed under the terms of the Creative Commons Attribution Non-Commercial No Derivatives 4.0 License (CC BY-NC-ND, http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial reuse, distribution, and reproduction in any medium, provided the original work is not changed in any way and is properly cited.",PEM Fuel Cell Impedance at Open Circuit,10.1149/2.0111605jes
+12,3122,"For permission for commercial reuse, please email: oa@electrochem.org.",PEM Fuel Cell Impedance at Open Circuit,10.1149/2.0111605jes
+13,3122,All rights reserved.,PEM Fuel Cell Impedance at Open Circuit,10.1149/2.0111605jes

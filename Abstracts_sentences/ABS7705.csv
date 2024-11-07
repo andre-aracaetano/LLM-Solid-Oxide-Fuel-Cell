@@ -1,0 +1,12 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,7705,The purpose of the current study is to simulate the behavior of a solid oxide fuel cell (SOFC) anode under sinusoidal excitation.,Impedance simulation of a solid oxide fuel cell anode in time domain,10.1007/s10008-012-1762-z
+2,7705,The obtained harmonic response is used as a base for electrochemical impedance spectra simulation.,Impedance simulation of a solid oxide fuel cell anode in time domain,10.1007/s10008-012-1762-z
+3,7705,The electrochemical impedance spectroscopy (EIS) is a powerful non-destructive tool for SOFC researches.,Impedance simulation of a solid oxide fuel cell anode in time domain,10.1007/s10008-012-1762-z
+4,7705,"In order to evaluate the EIS experimental results, efforts are devoted to develop EIS numerical simulation tools.",Impedance simulation of a solid oxide fuel cell anode in time domain,10.1007/s10008-012-1762-z
+5,7705,"In this study, a planar SOFC is modeled, and the steady state behavior and frequency response, as well as the electrochemical spectra of the anode, are obtained.",Impedance simulation of a solid oxide fuel cell anode in time domain,10.1007/s10008-012-1762-z
+6,7705,The developed model couples the electrochemical kinetics with mass transport.,Impedance simulation of a solid oxide fuel cell anode in time domain,10.1007/s10008-012-1762-z
+7,7705,"The Butler-Volmer equation is used for the anode electrochemistry, and the species equations are used for gas transport in the anode channel.",Impedance simulation of a solid oxide fuel cell anode in time domain,10.1007/s10008-012-1762-z
+8,7705,"In order to solve the system of the nonlinear equations, an in-house code based on finite difference method is developed and utilized.",Impedance simulation of a solid oxide fuel cell anode in time domain,10.1007/s10008-012-1762-z
+9,7705,"A parametric study is also carried out, and the results are discussed.",Impedance simulation of a solid oxide fuel cell anode in time domain,10.1007/s10008-012-1762-z
+10,7705,The simulation results are in good agreement with published data.,Impedance simulation of a solid oxide fuel cell anode in time domain,10.1007/s10008-012-1762-z
+11,7705,"Results show a capacitive semicircle in the Nyquist plot, which is identical to the gas diffusion impedance as reported in literatures.",Impedance simulation of a solid oxide fuel cell anode in time domain,10.1007/s10008-012-1762-z

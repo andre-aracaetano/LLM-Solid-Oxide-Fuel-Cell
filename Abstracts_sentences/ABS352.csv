@@ -1,0 +1,9 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,352,A mathematical model of a single unit solid oxide fuel cell (SOFC) based on partial differential equations is presented in this paper.,A PDE model for microscopic simulation of solid oxide fuel cells,10.1016/j.jpowsour.2011.10.109
+2,352,"The model consists of mass, momentum and charge conservation equations, relating gas concentration to voltage, current density, and other relevant fuel cell parameters.",A PDE model for microscopic simulation of solid oxide fuel cells,10.1016/j.jpowsour.2011.10.109
+3,352,The model is applied and validated on a planar disk-shape anode-supported cell.,A PDE model for microscopic simulation of solid oxide fuel cells,10.1016/j.jpowsour.2011.10.109
+4,352,Data regarding materials' properties and kinetic parameters are taken from the open literature or derived from experimental results.,A PDE model for microscopic simulation of solid oxide fuel cells,10.1016/j.jpowsour.2011.10.109
+5,352,A commercial tool using the finite element method is used to solve the set of equations.,A PDE model for microscopic simulation of solid oxide fuel cells,10.1016/j.jpowsour.2011.10.109
+6,352,"The simulated steady state performance of the fuel cell, for different operating conditions and current densities, is further investigated.",A PDE model for microscopic simulation of solid oxide fuel cells,10.1016/j.jpowsour.2011.10.109
+7,352,(C) 2011 Elsevier By.,A PDE model for microscopic simulation of solid oxide fuel cells,10.1016/j.jpowsour.2011.10.109
+8,352,All rights reserved.,A PDE model for microscopic simulation of solid oxide fuel cells,10.1016/j.jpowsour.2011.10.109

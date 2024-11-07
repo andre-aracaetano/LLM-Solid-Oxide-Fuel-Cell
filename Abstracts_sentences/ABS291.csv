@@ -1,0 +1,9 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,291,One of the important issues in modern electronic equipment is providing higher peak power while preserving high energy density.,Digital control of an isolated active hybrid fuel cell/Li-ion battery power supply,10.1109/TVT.2007.901929
+2,291,Hybrid power sources composed of fuel cells and batteries combine the high-energy capabilities of fuel cells with the high-power capabilities of batteries.,Digital control of an isolated active hybrid fuel cell/Li-ion battery power supply,10.1109/TVT.2007.901929
+3,291,DC/DC power converters can appropriately control the power flow shared between the fuel cell and battery system.,Digital control of an isolated active hybrid fuel cell/Li-ion battery power supply,10.1109/TVT.2007.901929
+4,291,"In this paper, we propose a new implementation of hybrid fuel cell/battery systems.",Digital control of an isolated active hybrid fuel cell/Li-ion battery power supply,10.1109/TVT.2007.901929
+5,291,A 50-W isolated power electronic interface system for a hybrid solid-oxide fuel cell (SOFC/Li-ion battery portable power supply is designed and implemented.,Digital control of an isolated active hybrid fuel cell/Li-ion battery power supply,10.1109/TVT.2007.901929
+6,291,"The control strategy presented in this paper is able to regulate the output current of the fuel cell, the charging current of the battery, and the output voltage of the power supply.",Digital control of an isolated active hybrid fuel cell/Li-ion battery power supply,10.1109/TVT.2007.901929
+7,291,The control strategy is implemented in a DSP and tested by simulation and experiments.,Digital control of an isolated active hybrid fuel cell/Li-ion battery power supply,10.1109/TVT.2007.901929
+8,291,Experimental results present the flexibility and generality of the control strategy.,Digital control of an isolated active hybrid fuel cell/Li-ion battery power supply,10.1109/TVT.2007.901929

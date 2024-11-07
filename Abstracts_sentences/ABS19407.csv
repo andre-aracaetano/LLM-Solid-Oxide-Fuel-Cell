@@ -1,0 +1,11 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,19407,Solid oxide electrolysis cell (SOEC) is one way to regulate wind power by producing green hydrogen.,Pathway toward cost-effective green hydrogen production by solid oxide electrolyzer,10.1039/d3ee00232b
+2,19407,"However, degradation increases the resistance of SOEC, especially at high current density.",Pathway toward cost-effective green hydrogen production by solid oxide electrolyzer,10.1039/d3ee00232b
+3,19407,"This work simulates the heat balance and the degradation process at the system level and compares the Levelized Cost of Hydrogen (LCOH) at different locations through three scenarios: heat integration, super grid connection, and SOEC development.",Pathway toward cost-effective green hydrogen production by solid oxide electrolyzer,10.1039/d3ee00232b
+4,19407,Both heat source and wind power costs are involved in the analysis and optimization of a 5000 kg H-2 per day SOEC recirculating system.,Pathway toward cost-effective green hydrogen production by solid oxide electrolyzer,10.1039/d3ee00232b
+5,19407,The voltage and operating conditions of minimum LCOH are located with a two-stage stochastic optimization approach.,Pathway toward cost-effective green hydrogen production by solid oxide electrolyzer,10.1039/d3ee00232b
+6,19407,"As a result, SOEC generates extra ohmic heat and reduces the external heat demand from 29.9 MW to 1.8 MW after degradation.",Pathway toward cost-effective green hydrogen production by solid oxide electrolyzer,10.1039/d3ee00232b
+7,19407,LCOH reduced to $3.60 per kg with heat integration.,Pathway toward cost-effective green hydrogen production by solid oxide electrolyzer,10.1039/d3ee00232b
+8,19407,The super grid will cut the LCOH further to $2.59 per kg.,Pathway toward cost-effective green hydrogen production by solid oxide electrolyzer,10.1039/d3ee00232b
+9,19407,"SOEC development will break through the trade-off between current density and degradation, resulting in an LCOH of $2.18 per kg.",Pathway toward cost-effective green hydrogen production by solid oxide electrolyzer,10.1039/d3ee00232b
+10,19407,"By 2035, green hydrogen is expected to reach an LCOH of $1.40 per kg and outperform gray hydrogen.",Pathway toward cost-effective green hydrogen production by solid oxide electrolyzer,10.1039/d3ee00232b

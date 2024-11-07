@@ -1,0 +1,8 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,8348,The main objective of this paper is to evaluate the fuel/oxidant gas distributions as well as thermal stresses of an anode-supported solid oxide fuel cell (SOFC) test cell under different operating conditions.,Thermo-electrochemical and thermal stress analysis for an anode-supported SOFC cell,10.1016/j.renene.2008.02.023
+2,8348,"In this Study, the commercial computational fluid dynamics (CFD) code Star-CD with es-sofc module is employed to simulate the current-voltage (I-V) characteristics and to provide the temperature field of the cell to the commercial code MARC for further thermal stress analysis.",Thermo-electrochemical and thermal stress analysis for an anode-supported SOFC cell,10.1016/j.renene.2008.02.023
+3,8348,"Structural and fluid elements are built by preprocessing codes PATRAN and GRIDGEN, respectively.",Thermo-electrochemical and thermal stress analysis for an anode-supported SOFC cell,10.1016/j.renene.2008.02.023
+4,8348,The simulation results indicate that the cells experience higher principal stresses at lower cell voltages due to a higher local current density and a higher temperature gradient.,Thermo-electrochemical and thermal stress analysis for an anode-supported SOFC cell,10.1016/j.renene.2008.02.023
+5,8348,(c) 2008,Thermo-electrochemical and thermal stress analysis for an anode-supported SOFC cell,10.1016/j.renene.2008.02.023
+6,8348,Elsevier Ltd.,Thermo-electrochemical and thermal stress analysis for an anode-supported SOFC cell,10.1016/j.renene.2008.02.023
+7,8348,All rights reserved.,Thermo-electrochemical and thermal stress analysis for an anode-supported SOFC cell,10.1016/j.renene.2008.02.023

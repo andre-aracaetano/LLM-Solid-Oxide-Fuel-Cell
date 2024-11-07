@@ -1,0 +1,13 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,7886,"A two dimensional model is developed to study the transport and reaction processes in solid oxide fuel cells (SOFCs) fueled by partially pre-reformed gas mixture, considering the direct internal reforming (DIR) of methane and water gas shift (WGS) reaction in the porous anode of SOFC.",Modeling of SOFC running on partially pre-reformed gas mixture,10.1016/j.ijhydene.2011.10.042
+2,7886,Electrochemical oxidations of H-2 and CO fuels are both considered.,Modeling of SOFC running on partially pre-reformed gas mixture,10.1016/j.ijhydene.2011.10.042
+3,7886,"The model consists of an electrochemical, a chemical model, and a computational fluid dynamics (CFD) model.",Modeling of SOFC running on partially pre-reformed gas mixture,10.1016/j.ijhydene.2011.10.042
+4,7886,Two chemical models are compared to examine their effects on SOFC modeling results.,Modeling of SOFC running on partially pre-reformed gas mixture,10.1016/j.ijhydene.2011.10.042
+5,7886,"Different from the previous studies on hydrogen fueled SOFC, higher gas velocity is found to slightly decrease the performance of SOFC running on pre-reformed gas mixture, due to suppressed gas composition variation at a higher gas velocity.",Modeling of SOFC running on partially pre-reformed gas mixture,10.1016/j.ijhydene.2011.10.042
+6,7886,"The current density distribution along the gas channels at an inlet temperature of 1173K is quite different from that at 1073K, as DIR reaction is facilitated at a higher temperature.",Modeling of SOFC running on partially pre-reformed gas mixture,10.1016/j.ijhydene.2011.10.042
+7,7886,It is also found that neglecting the electrochemical oxidation of CO can considerably underestimate the total current density of SOFC running on pre-reformed hydrocarbon fuels.,Modeling of SOFC running on partially pre-reformed gas mixture,10.1016/j.ijhydene.2011.10.042
+8,7886,An alternative method is proposed to numerically determine the open-circuit potential of SOFC running on hydrocarbon fuels.,Modeling of SOFC running on partially pre-reformed gas mixture,10.1016/j.ijhydene.2011.10.042
+9,7886,Electrochemical reactions are observed at open-circuit potentials.,Modeling of SOFC running on partially pre-reformed gas mixture,10.1016/j.ijhydene.2011.10.042
+10,7886,"Copyright (C) 2011, Hydrogen Energy Publications, LLC.",Modeling of SOFC running on partially pre-reformed gas mixture,10.1016/j.ijhydene.2011.10.042
+11,7886,Published by Elsevier Ltd.,Modeling of SOFC running on partially pre-reformed gas mixture,10.1016/j.ijhydene.2011.10.042
+12,7886,All rights reserved.,Modeling of SOFC running on partially pre-reformed gas mixture,10.1016/j.ijhydene.2011.10.042

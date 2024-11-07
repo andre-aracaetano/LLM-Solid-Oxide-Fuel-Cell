@@ -1,0 +1,13 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,1730,The results of numerical calculations performed for planar solid oxide fuel cells are presented.,Performance predictions in solid oxide fuel cells,10.1016/j.apm.2006.03.009
+2,1730,Two different approaches are developed: (i),Performance predictions in solid oxide fuel cells,10.1016/j.apm.2006.03.009
+3,1730,A detail numerical method and (ii) a presumed flow method.,Performance predictions in solid oxide fuel cells,10.1016/j.apm.2006.03.009
+4,1730,"In the first approach, a commercial computational fluid dynamics code is employed, and user-defined-functions are developed to account for electro-chemical considerations.",Performance predictions in solid oxide fuel cells,10.1016/j.apm.2006.03.009
+5,1730,"In the second approach, where the momentum equations do not require to be solved, an in-house code is developed and used to perform calculations.",Performance predictions in solid oxide fuel cells,10.1016/j.apm.2006.03.009
+6,1730,"In both cases the following coupled physicochemical phenomena are modelled; heat and mass transfer, electrochemistry and electric potential.",Performance predictions in solid oxide fuel cells,10.1016/j.apm.2006.03.009
+7,1730,The polarisation curve is generally accepted as an important performance measure of the fuel cell.,Performance predictions in solid oxide fuel cells,10.1016/j.apm.2006.03.009
+8,1730,Performance predictions for this characteristic made by the two different approaches are compared.,Performance predictions in solid oxide fuel cells,10.1016/j.apm.2006.03.009
+9,1730,"Results show voltage losses due activation, Ohmic resistance, and mass transfer in a typical solid oxide fuel cell, over a range of current density values.",Performance predictions in solid oxide fuel cells,10.1016/j.apm.2006.03.009
+10,1730,The results for the detailed numerical method are discussed in some detail with regard to the influence of different parameters on the overall performance of the device.,Performance predictions in solid oxide fuel cells,10.1016/j.apm.2006.03.009
+11,1730,Crown Copyright (c) 2006 Published by Elsevier Inc.,Performance predictions in solid oxide fuel cells,10.1016/j.apm.2006.03.009
+12,1730,All rights reserved.,Performance predictions in solid oxide fuel cells,10.1016/j.apm.2006.03.009

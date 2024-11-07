@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,18775,"In order to predict the formation of ferroelastic phases in crystal grains of La-0.6Sr0.4Co0.2Fe0.8O3-delta (LSCF), which is a common material used for solid oxide fuel cells (SOFCs), we propose an analysis method based on a phase field model.",Simulation of ferroelastic phase formation using phase-field model,10.1016/j.ijmecsci.2017.12.027
+2,18775,The phase-field model equipped with the elastic energy is introduced to realize the ferroelastic phase formation in a crystal grain.,Simulation of ferroelastic phase formation using phase-field model,10.1016/j.ijmecsci.2017.12.027
+3,18775,"The finite element method (FEM) is employed to solve the phase transformation, and strain distributions are also calculated by FEM.",Simulation of ferroelastic phase formation using phase-field model,10.1016/j.ijmecsci.2017.12.027
+4,18775,"On the basis of the developed analysis method, some numerical examples of analysis are performed to reproduce the deformation-induced nucleation and growth of ferroelastic phases of LSCF.",Simulation of ferroelastic phase formation using phase-field model,10.1016/j.ijmecsci.2017.12.027
+5,18775,Various microstructures are obtained from the simulations in accordance with the initial microstructure and their tendencies are discussed.,Simulation of ferroelastic phase formation using phase-field model,10.1016/j.ijmecsci.2017.12.027
+6,18775,"These microstructures are reproduced by the proposed analysis method based on finite element method, which enables us to evaluate the deformation field in terms of changes of shape and stress.",Simulation of ferroelastic phase formation using phase-field model,10.1016/j.ijmecsci.2017.12.027
+7,18775,(C) 2017,Simulation of ferroelastic phase formation using phase-field model,10.1016/j.ijmecsci.2017.12.027
+8,18775,Elsevier Ltd.,Simulation of ferroelastic phase formation using phase-field model,10.1016/j.ijmecsci.2017.12.027
+9,18775,All rights reserved.,Simulation of ferroelastic phase formation using phase-field model,10.1016/j.ijmecsci.2017.12.027

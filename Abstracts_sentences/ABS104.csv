@@ -1,0 +1,5 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,104,Active thermography is considered in this paper as a non-destructive testing technology to ensure the quality of solid oxide fuel cells.,Artificial intelligence for defect detection in infrared images of solid oxide fuel cells,10.1016/j.infrared.2021.103815
+2,104,The acquired infrared images are automated processed by artificial intelligence methods in order to detect defects within the glass solder layer of solid oxide fuel cells.,Artificial intelligence for defect detection in infrared images of solid oxide fuel cells,10.1016/j.infrared.2021.103815
+3,104,"For this purpose, three supervised machine learning methods are investigated: (1) Support Vector Machine, (2) Adaptive Boosting, (3) U-Net.",Artificial intelligence for defect detection in infrared images of solid oxide fuel cells,10.1016/j.infrared.2021.103815
+4,104,"Among those methods, the U-Net method outperforms the other considered methods with higher accuracy and F measure.",Artificial intelligence for defect detection in infrared images of solid oxide fuel cells,10.1016/j.infrared.2021.103815

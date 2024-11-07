@@ -1,0 +1,7 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,5640,This study proposed a well-organized technique for the optimal selection of the unknown parameters for the Solid Oxide Fuel Cell (SOFC) model.,Modeling and optimization of SOFC based on Metaheuristics,10.20964/2020.11.01
+2,5640,The main idea is to propose a new metaheuristic method to achieve more efficient results for the model to give a satisfying agreement between the voltage and current profile of the SOFC.,Modeling and optimization of SOFC based on Metaheuristics,10.20964/2020.11.01
+3,5640,The mean squared error (MSE) has been adopted as an objective function between the achieved data and the experimental data.,Modeling and optimization of SOFC based on Metaheuristics,10.20964/2020.11.01
+4,5640,"For minimizing the MSE, a new modified version of the Stain Bowerbirds Optimization algorithm has been utilized.",Modeling and optimization of SOFC based on Metaheuristics,10.20964/2020.11.01
+5,5640,The proposed design is applied to simulated data and practical data to verify its efficiency.,Modeling and optimization of SOFC based on Metaheuristics,10.20964/2020.11.01
+6,5640,"Finally, the robustness and the precision of the presented algorithm are compared and verified by some state of art metaheuristics including basic Satin Bowerbird Optimization algorithm (SBO), Differential evolution algorithms (DE), coRNA-GA, Chaotic Binary Shark Smell Optimization (BSSO), and Swarm Optimizer (SO).",Modeling and optimization of SOFC based on Metaheuristics,10.20964/2020.11.01

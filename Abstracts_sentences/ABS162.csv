@@ -1,0 +1,9 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,162,The start-up transient behavior is an important issue in a turbo fuel cell system design.,On the start-up transient simulation of a turbo fuel cell system,10.1016/j.jpowsour.2006.02.030
+2,162,This paper developed a general dynamic model of the hybrid fuel cell/micro-gas turbine (MGT) system to investigate the transient behavior during cold start.,On the start-up transient simulation of a turbo fuel cell system,10.1016/j.jpowsour.2006.02.030
+3,162,"The unsteady flow process through components of the turbo fuel cell system, which includes a solid oxide fuel cell (SOFC) stack, an afterburner, a turbo generator and heat exchangers, was modeled using a filling-and-emptying approach.",On the start-up transient simulation of a turbo fuel cell system,10.1016/j.jpowsour.2006.02.030
+4,162,Each major component was treated as a function block in the coded model.,On the start-up transient simulation of a turbo fuel cell system,10.1016/j.jpowsour.2006.02.030
+5,162,Computer simulations were performed on a Matlab/Simulink platform based on the block-diagram concept.,On the start-up transient simulation of a turbo fuel cell system,10.1016/j.jpowsour.2006.02.030
+6,162,The main focus of this study is on the start-up transient behavior of a basic turbo fuel cell system.,On the start-up transient simulation of a turbo fuel cell system,10.1016/j.jpowsour.2006.02.030
+7,162,The simulation results show that the start-up time for the example turbo fuel cell system (200 kW SOFC plus 50 kW MGT) can be up to about a few hours.,On the start-up transient simulation of a turbo fuel cell system,10.1016/j.jpowsour.2006.02.030
+8,162,Preliminary parametric investigations with different operating conditions show that the start-up duration can be reduced to less than I h. (c) 2006 Elsevier B.V. All rights reserved.,On the start-up transient simulation of a turbo fuel cell system,10.1016/j.jpowsour.2006.02.030

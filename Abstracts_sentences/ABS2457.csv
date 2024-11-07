@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,2457,"This paper aims to model ceramic fuel cell system based on low-temperature planar solid oxide fuel cell (SOFC) different biogases fuels from multiple biomasses, that is, animal waste, redwood, rice husk and sugar cane.",Design and Modeling of a Fuel Cell System Using Biomass Feedstock as a Biofuel,10.1002/fuce.201900117
+2,2457,Biomass is a better choice for the generation of energy globally.,Design and Modeling of a Fuel Cell System Using Biomass Feedstock as a Biofuel,10.1002/fuce.201900117
+3,2457,"Therefore, there is a focus on the most available biomass resources in the country that can be used as clean energy sources.",Design and Modeling of a Fuel Cell System Using Biomass Feedstock as a Biofuel,10.1002/fuce.201900117
+4,2457,This developed model is designed by thermodynamic analysis and electrochemical calculations using MATLAB.,Design and Modeling of a Fuel Cell System Using Biomass Feedstock as a Biofuel,10.1002/fuce.201900117
+5,2457,The designed model is a lumped parameter model based on the steady-state one-dimensional flow.,Design and Modeling of a Fuel Cell System Using Biomass Feedstock as a Biofuel,10.1002/fuce.201900117
+6,2457,"In this model, all calculated power and flow rate values were kept as positive values.",Design and Modeling of a Fuel Cell System Using Biomass Feedstock as a Biofuel,10.1002/fuce.201900117
+7,2457,"Also, the system is considered to be free of leaks, and heat loss is neglected.",Design and Modeling of a Fuel Cell System Using Biomass Feedstock as a Biofuel,10.1002/fuce.201900117
+8,2457,"The operating temperature and pressure are assumed to be 500-700 degrees C and the partial pressure is set at three different pressures; P-1 (1 bar), P-2 (2 bar), and P-3 (3 bar), respectively, and fuel utilization factor is 80%.",Design and Modeling of a Fuel Cell System Using Biomass Feedstock as a Biofuel,10.1002/fuce.201900117
+9,2457,It is observed that the best performance is obtained with animal-waste based biogas at 700 degrees C and P-3 (3 bar).,Design and Modeling of a Fuel Cell System Using Biomass Feedstock as a Biofuel,10.1002/fuce.201900117

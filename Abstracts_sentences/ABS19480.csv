@@ -1,0 +1,11 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,19480,"Perovskite oxides (ternary chemical formula ABO3) are a diverse class of materials with applications including heterogeneous catalysis, solid-oxide fuel cells, thermochemical conversion, and oxygen transport membranes.",Dataset of theoretical multinary perovskite oxides,10.1038/s41597-023-02127-w
+2,19480,"However, their multicomponent (chemical formula A(x)",Dataset of theoretical multinary perovskite oxides,10.1038/s41597-023-02127-w
+3,19480,A'1-xByB'O-1-y(3)),Dataset of theoretical multinary perovskite oxides,10.1038/s41597-023-02127-w
+4,19480,chemical space is underexplored due to the immense number of possible compositions.,Dataset of theoretical multinary perovskite oxides,10.1038/s41597-023-02127-w
+5,19480,To expand the number of computed A(x),Dataset of theoretical multinary perovskite oxides,10.1038/s41597-023-02127-w
+6,19480,"A'1-xByB'O-1-y(3) compounds we report a dataset of 66,516 theoretical multinary oxides, 59,708 of which are perovskites.",Dataset of theoretical multinary perovskite oxides,10.1038/s41597-023-02127-w
+7,19480,"First, 69,407 A(0.5)A'0.5B0.5B'O-0.5(3) compositions were generated in the a(-)b(+)a(-) Glazer tilting mode using the computationally-inexpensive Structure Prediction and Diagnostic Software (SPuDS) program.",Dataset of theoretical multinary perovskite oxides,10.1038/s41597-023-02127-w
+8,19480,"Next, we optimized these structures with density functional theory (DFT) using parameters compatible with the Materials Project (MP) database.",Dataset of theoretical multinary perovskite oxides,10.1038/s41597-023-02127-w
+9,19480,"Our dataset contains these optimized structures and their formation (?H-f) and decomposition enthalpies (?H-d) computed relative to MP tabulated elemental references and competing phases, respectively.",Dataset of theoretical multinary perovskite oxides,10.1038/s41597-023-02127-w
+10,19480,"This dataset can be mined, used to train machine learning models, and rapidly and systematically expanded by optimizing more SPuDS-generated A(0.5)A'0.5B0.5B'O-0.5(3) perovskite structures using MP-compatible DFT calculations.",Dataset of theoretical multinary perovskite oxides,10.1038/s41597-023-02127-w

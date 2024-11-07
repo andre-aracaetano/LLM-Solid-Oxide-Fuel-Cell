@@ -1,0 +1,7 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,3182,"For a solid oxide fuel cell (SOFC) and micro gas turbine (MGT) hybrid system, optimal control of load changes requires optimal dynamic scheduling of set points for the system's controllers.",Optimization of a solid oxide fuel cell and micro gas turbine hybrid system,10.1002/er.1899
+2,3182,"Thus, this paper proposes an improved iterative particle swarm optimization (PSO) algorithm to optimize the operating parameters under various loads.",Optimization of a solid oxide fuel cell and micro gas turbine hybrid system,10.1002/er.1899
+3,3182,"This method combines the iteration method and the PSO algorithm together, which can execute the discrete PSO iteratively until the control profile would converge to an optimal one.",Optimization of a solid oxide fuel cell and micro gas turbine hybrid system,10.1002/er.1899
+4,3182,"In MATLAB environment, the simulation results show that the SOFC/MGT hybrid model with the optimized parameters can effectively track the output power with high efficiency.",Optimization of a solid oxide fuel cell and micro gas turbine hybrid system,10.1002/er.1899
+5,3182,"Hence, the improved iterative PSO algorithm can be helpful for system analysis, optimization design, and real-time control of the SOFC/MGT hybrid system.",Optimization of a solid oxide fuel cell and micro gas turbine hybrid system,10.1002/er.1899
+6,3182,"Copyright (c) 2011 John Wiley & Sons, Ltd.",Optimization of a solid oxide fuel cell and micro gas turbine hybrid system,10.1002/er.1899

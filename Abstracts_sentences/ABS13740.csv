@@ -1,0 +1,11 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,13740,A numerical simulation tool for calculating the planar solid oxide fuel cells was described.,3-D model of thermo-fluid and electrochemical for planar SOFC,10.1016/j.jpowsour.2007.02.019
+2,13740,"The finite volume method was employed for the simulation, which was on the basis of the fundamental conservation laws of mass, momentum, energy and electrical charge.",3-D model of thermo-fluid and electrochemical for planar SOFC,10.1016/j.jpowsour.2007.02.019
+3,13740,"Temperature distributions, molar concentrations of gaseous species, current density and over potential were calculated using a single cell unit model with double channels of co-flow and counter-flow cases.",3-D model of thermo-fluid and electrochemical for planar SOFC,10.1016/j.jpowsour.2007.02.019
+4,13740,The influences of operating conditions and anode structure on the performances of SOFC were also discussed.,3-D model of thermo-fluid and electrochemical for planar SOFC,10.1016/j.jpowsour.2007.02.019
+5,13740,"Simulation results show that the co-flow case has more uniform temperature and current density distributions and smaller temperature gradients, thus offers thermostructural advantages than the counter-flow case.",3-D model of thermo-fluid and electrochemical for planar SOFC,10.1016/j.jpowsour.2007.02.019
+6,13740,"Moreover, in co-flow case, with the increasing of delivery rate, temperature and hydrogen mass fraction of fuel, average temperature of PEN, current density and activation potential also rise.",3-D model of thermo-fluid and electrochemical for planar SOFC,10.1016/j.jpowsour.2007.02.019
+7,13740,"However, with increasing the delivery rate of air, average temperature of PEN decreases.",3-D model of thermo-fluid and electrochemical for planar SOFC,10.1016/j.jpowsour.2007.02.019
+8,13740,"In particular, it is effective to improve the output voltage by reducing the thickness of anode or increasing its porosity.",3-D model of thermo-fluid and electrochemical for planar SOFC,10.1016/j.jpowsour.2007.02.019
+9,13740,(c) 2007,3-D model of thermo-fluid and electrochemical for planar SOFC,10.1016/j.jpowsour.2007.02.019
+10,13740,Elsevier B.V. All rights reserved.,3-D model of thermo-fluid and electrochemical for planar SOFC,10.1016/j.jpowsour.2007.02.019

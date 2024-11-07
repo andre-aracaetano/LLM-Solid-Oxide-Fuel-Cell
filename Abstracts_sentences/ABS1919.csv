@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,1919,This paper presents electrochemical impedance simulation of a solid oxide fuel cell anode.,A comprehensive simulation of gas concentration impedance for solid oxide fuel cell anodes,10.1016/j.enconman.2015.08.073
+2,1919,The model takes in to account the gas-phase transport processes both in the gas channel and within the porous electrode and couples the gas transport processes with the electrochemical kinetics.,A comprehensive simulation of gas concentration impedance for solid oxide fuel cell anodes,10.1016/j.enconman.2015.08.073
+3,1919,"The gas phase mass transport is modeled using the transient conservation equations (mass, momentum and species equations) and Butler-Volmer equation is used for the anode electrochemistry.",A comprehensive simulation of gas concentration impedance for solid oxide fuel cell anodes,10.1016/j.enconman.2015.08.073
+4,1919,"In order to solve the system of non linear equations, an in-house code based on the finite volume method is developed and utilized.",A comprehensive simulation of gas concentration impedance for solid oxide fuel cell anodes,10.1016/j.enconman.2015.08.073
+5,1919,"Results show a depressed semicircle in the Nyquist plot, which originates from gas transport processes in the gas channel, in addition to a Warburg diffusion impedance originates from gas transport in the thick porous anode.",A comprehensive simulation of gas concentration impedance for solid oxide fuel cell anodes,10.1016/j.enconman.2015.08.073
+6,1919,The simulation results are in good agreement with published experimental data.,A comprehensive simulation of gas concentration impedance for solid oxide fuel cell anodes,10.1016/j.enconman.2015.08.073
+7,1919,(C) 2015,A comprehensive simulation of gas concentration impedance for solid oxide fuel cell anodes,10.1016/j.enconman.2015.08.073
+8,1919,Elsevier Ltd.,A comprehensive simulation of gas concentration impedance for solid oxide fuel cell anodes,10.1016/j.enconman.2015.08.073
+9,1919,All rights reserved.,A comprehensive simulation of gas concentration impedance for solid oxide fuel cell anodes,10.1016/j.enconman.2015.08.073

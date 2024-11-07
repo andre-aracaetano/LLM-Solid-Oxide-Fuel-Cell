@@ -1,0 +1,6 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,4528,"For the three-phase identification of solid oxide cuel cell (SOFC) electrode, this paper presents a novel segmentation method based on gaussian mixture model (GMM) for YSZ/Ni anode optical microscopy (OM) images.",A Novel Ni/YSZ Anode Image Segmentation Method for Solid Oxide Fuel Cell Electrodes Microstructure,10.1002/fuce.201600065
+2,4528,A coarseness-entropy adaptive factor is defined to incorporate the spatial information based on markov random field (MRF) into GMM.,A Novel Ni/YSZ Anode Image Segmentation Method for Solid Oxide Fuel Cell Electrodes Microstructure,10.1002/fuce.201600065
+3,4528,"Furthermore, the proposed method can obtain the trade-off between robustness to noise and effectiveness of preserving the details.",A Novel Ni/YSZ Anode Image Segmentation Method for Solid Oxide Fuel Cell Electrodes Microstructure,10.1002/fuce.201600065
+4,4528,Experimental results show that the proposed method outperforms the compared method on three-phase microstructure identification.,A Novel Ni/YSZ Anode Image Segmentation Method for Solid Oxide Fuel Cell Electrodes Microstructure,10.1002/fuce.201600065
+5,4528,It can provide reliable foundation for the quantification of SOFC microstructure parameters.,A Novel Ni/YSZ Anode Image Segmentation Method for Solid Oxide Fuel Cell Electrodes Microstructure,10.1002/fuce.201600065

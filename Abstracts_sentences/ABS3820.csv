@@ -1,0 +1,14 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,3820,"A tubular solid oxide fuel cell stack was modeled, and its operation on biomass syngas was investigated.",Simulation of a Tubular Solid Oxide Fuel Cell Stack Operating on Biomass Syngas Using Aspen Plus,10.1149/1.3407524
+2,3820,The objective of this work was to develop a computer simulation model of a biomass gasification-solid oxide fuel cell system capable of predicting performance under various operating conditions and using diverse fuels.,Simulation of a Tubular Solid Oxide Fuel Cell Stack Operating on Biomass Syngas Using Aspen Plus,10.1149/1.3407524
+3,3820,"The stack was modeled using Aspen Plus and considers ohmic, activation, and concentration losses.",Simulation of a Tubular Solid Oxide Fuel Cell Stack Operating on Biomass Syngas Using Aspen Plus,10.1149/1.3407524
+4,3820,It was validated against published data for operation on natural gas.,Simulation of a Tubular Solid Oxide Fuel Cell Stack Operating on Biomass Syngas Using Aspen Plus,10.1149/1.3407524
+5,3820,"Operating parameters such as fuel and air utilization factor (U-f and U-a, respectively), current density j, and steam to carbon ratio (STCR) were varied and had significant influence.",Simulation of a Tubular Solid Oxide Fuel Cell Stack Operating on Biomass Syngas Using Aspen Plus,10.1149/1.3407524
+6,3820,The model was run on wood and miscanthus syngas.,Simulation of a Tubular Solid Oxide Fuel Cell Stack Operating on Biomass Syngas Using Aspen Plus,10.1149/1.3407524
+7,3820,"The results indicated that there must be a trade-off between voltage, efficiency, and power with respect to j and that the stack should be operated at a low STCR and a high U-f. Also, the stack should be operated at a U-a of similar to 20%.",Simulation of a Tubular Solid Oxide Fuel Cell Stack Operating on Biomass Syngas Using Aspen Plus,10.1149/1.3407524
+8,3820,"Operation on biomass syngas was compared to natural gas operation and, as expected, performance degraded.",Simulation of a Tubular Solid Oxide Fuel Cell Stack Operating on Biomass Syngas Using Aspen Plus,10.1149/1.3407524
+9,3820,Better stack performance was observed for wood syngas compared to miscanthus syngas.,Simulation of a Tubular Solid Oxide Fuel Cell Stack Operating on Biomass Syngas Using Aspen Plus,10.1149/1.3407524
+10,3820,High efficiencies were predicted making these systems very promising.,Simulation of a Tubular Solid Oxide Fuel Cell Stack Operating on Biomass Syngas Using Aspen Plus,10.1149/1.3407524
+11,3820,(C) 2010 The Electrochemical Society.,Simulation of a Tubular Solid Oxide Fuel Cell Stack Operating on Biomass Syngas Using Aspen Plus,10.1149/1.3407524
+12,3820,[DOI: 10.1149/1.3407524],Simulation of a Tubular Solid Oxide Fuel Cell Stack Operating on Biomass Syngas Using Aspen Plus,10.1149/1.3407524
+13,3820,All rights reserved.,Simulation of a Tubular Solid Oxide Fuel Cell Stack Operating on Biomass Syngas Using Aspen Plus,10.1149/1.3407524

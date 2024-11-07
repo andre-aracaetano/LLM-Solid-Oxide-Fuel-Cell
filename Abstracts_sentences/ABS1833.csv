@@ -1,0 +1,9 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,1833,Fault detection and isolation of critical equipments as well as process operation is an important part of automation.,Monitoring of solid oxide fuel cell systems,10.1002/apj.554
+2,1833,"Failure to detect fault can contribute to process safety incident, violation of environmental regulation and, as a result, reduce profit from the unit affected by the fault.",Monitoring of solid oxide fuel cell systems,10.1002/apj.554
+3,1833,"Even though there has been a lot of work done on the modeling and control of the solid oxide fuel cell, little attention has been paid to its monitoring methodology.",Monitoring of solid oxide fuel cell systems,10.1002/apj.554
+4,1833,"The need of reliable SOFC operations and current effort toward commercialization call for advanced monitoring technology, which constitutes one of the most important directions for SOFC research and development.",Monitoring of solid oxide fuel cell systems,10.1002/apj.554
+5,1833,"In this article, as an attempt toward monitoring of SOFC systems a hybrid monitoring approach is developed which formulates the fault detection problem as a linear matrix inequality (LMI).",Monitoring of solid oxide fuel cell systems,10.1002/apj.554
+6,1833,The formulation is then illustrated through its application to the solid oxide fuel cell and its system to handle constraints and detect faults early.,Monitoring of solid oxide fuel cell systems,10.1002/apj.554
+7,1833,(C) 2011,Monitoring of solid oxide fuel cell systems,10.1002/apj.554
+8,1833,"Curtin University of Technology and John Wiley & Sons, Ltd.",Monitoring of solid oxide fuel cell systems,10.1002/apj.554

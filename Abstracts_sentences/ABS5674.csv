@@ -1,0 +1,17 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,5674,One of the main challenges for wide-spread utilization of the solid oxide fuel cell (SOFC) power systems is how to achieve high electrical efficiency without increasing the degradation rate of the fuel cells.,Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+2,5674,"To run the SOFC power system at high efficiency over a long period of time, properly designed controllers are indispensable.",Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+3,5674,"Although a number of various approaches to control SOFC have been proposed so far, it seems that the design of control system, along with simple tuning procedure, has not been treated in a consistent manner.",Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+4,5674,This issue is addressed in the present paper resulting in a feedforward-feedback control structure.,Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+5,5674,"The feedforward part is based on the stoichiometry of electro-oxidation, reforming and combustion reactions, which allow immediate response to variable current demand.",Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+6,5674,The feedback part performs additional fine adjustment of fuel and air supply in order to minimize the undesired system temperatures variations.,Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+7,5674,The selection of pairings of manipulated and controlled variables for control is based on physical knowledge of the system.,Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+8,5674,Input/output pairing for single-loop feedback control is assessed by the relative gain analysis.,Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+9,5674,"An efficient procedure for tuning the parameters of the feedback controllers is suggested, relying on simple open-loop step responses of the system.",Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+10,5674,The proposed low-level control is assessed on a detailed physical model of a 2.5 kW SOFC power system by simulating two nonstationary load regimes.,Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+11,5674,Simulations show that the control provides a robust operation under large load variations while meeting the operating constraints.,Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+12,5674,"Due to its simplicity, the control is feasible for implementation on a real SOFC system.",Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+13,5674,(C) 2018,Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+14,5674,Hydrogen Energy Publications LLC.,Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+15,5674,Published by Elsevier Ltd.,Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203
+16,5674,All rights reserved.,Feedforward-feedback control of a solid oxide fuel cell power system,10.1016/j.ijhydene.2018.01.203

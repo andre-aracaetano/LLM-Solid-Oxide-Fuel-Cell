@@ -1,0 +1,7 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,1477,"In this paper, a new method is proposed to identify solid oxide fuel cell using extreme learning machine-Hammerstein model (ELM-Hammerstein).",Application of ELM-Hammerstein model to the identification of solid oxide fuel cells,10.1007/s00521-016-2453-y
+2,1477,The ELM-Hammerstein model consists of a static ELM neural network followed by a linear dynamic subsystem.,Application of ELM-Hammerstein model to the identification of solid oxide fuel cells,10.1007/s00521-016-2453-y
+3,1477,"First, the structure of ELM-Hammerstein model is determined by Lipschitz quotient criterion from input-output data.",Application of ELM-Hammerstein model to the identification of solid oxide fuel cells,10.1007/s00521-016-2453-y
+4,1477,"Then, a generalized ELM algorithm is proposed to estimate the parameters of ELM-Hammerstein model, including the parameters of linear dynamic part and the output weights of ELM.",Application of ELM-Hammerstein model to the identification of solid oxide fuel cells,10.1007/s00521-016-2453-y
+5,1477,The proposed method can obtain accurate identification results and its computation is more efficient.,Application of ELM-Hammerstein model to the identification of solid oxide fuel cells,10.1007/s00521-016-2453-y
+6,1477,Simulation results demonstrate its effectiveness.,Application of ELM-Hammerstein model to the identification of solid oxide fuel cells,10.1007/s00521-016-2453-y

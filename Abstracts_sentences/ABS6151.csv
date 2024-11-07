@@ -1,0 +1,12 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,6151,"A 2D-axisymmetric model is developed for a tubular micro-solid oxide fuel cell (T mu SOFC), detailing heat, mass, momentum, and charge transfer as well as electrochemical reactions.",Transient simulation of a tubular micro-solid oxide fuel cell,10.1016/j.jpowsour.2018.10.062
+2,6151,Thermal transients are simulated.,Transient simulation of a tubular micro-solid oxide fuel cell,10.1016/j.jpowsour.2018.10.062
+3,6151,"No parameter fitting was done, and only kinetics parameters estimated in our previous work for isothermal, steady state conditions are used.",Transient simulation of a tubular micro-solid oxide fuel cell,10.1016/j.jpowsour.2018.10.062
+4,6151,Transient experiments were conducted for this study and the data are presented.,Transient simulation of a tubular micro-solid oxide fuel cell,10.1016/j.jpowsour.2018.10.062
+5,6151,The purely predictive simulation results are found to be consistent with experimental results.,Transient simulation of a tubular micro-solid oxide fuel cell,10.1016/j.jpowsour.2018.10.062
+6,6151,The model is used to simulate the transient behavior of a step in cell current and air flow.,Transient simulation of a tubular micro-solid oxide fuel cell,10.1016/j.jpowsour.2018.10.062
+7,6151,The sensitivity of transients to several parameters are simulated and discussed.,Transient simulation of a tubular micro-solid oxide fuel cell,10.1016/j.jpowsour.2018.10.062
+8,6151,"It is found that in general, transients of the system were controlled by the thermal transients indicating that other transients were much faster.",Transient simulation of a tubular micro-solid oxide fuel cell,10.1016/j.jpowsour.2018.10.062
+9,6151,"Therefore, a fast electric response results from a small thermal mass of the system.",Transient simulation of a tubular micro-solid oxide fuel cell,10.1016/j.jpowsour.2018.10.062
+10,6151,"Two modes could be identified in the thermal transients: fast and slow; the former is found to be associated with the cell itself, while the latter was found to be due to the furnace wall surrounding the cell.",Transient simulation of a tubular micro-solid oxide fuel cell,10.1016/j.jpowsour.2018.10.062
+11,6151,"A step in current resulted in a sharp drop in voltage and its gradual recovery, which is a result of the cell slowly heating up.",Transient simulation of a tubular micro-solid oxide fuel cell,10.1016/j.jpowsour.2018.10.062

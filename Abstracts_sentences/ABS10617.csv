@@ -1,0 +1,11 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,10617,This paper presents a new computational framework for modeling chemically reacting flow in anode-supported solid-oxide fuel cells (SOFC).,Modeling elementary heterogeneous chemistry and electrochemistry in solid-oxide fuel cells,10.1149/1.2116607
+2,10617,"Depending on materials and operating conditions, SOFC anodes afford a possibility for internal reforming or catalytic partial oxidation of hydrocarbon fuels.",Modeling elementary heterogeneous chemistry and electrochemistry in solid-oxide fuel cells,10.1149/1.2116607
+3,10617,An important new element of the model is the capability to represent elementary heterogeneous chemical kinetics in the form of multistep reaction mechanisms.,Modeling elementary heterogeneous chemistry and electrochemistry in solid-oxide fuel cells,10.1149/1.2116607
+4,10617,Porous-media transport in the electrodes is represented with a dusty-gas model.,Modeling elementary heterogeneous chemistry and electrochemistry in solid-oxide fuel cells,10.1149/1.2116607
+5,10617,"Charge-transfer chemistry is represented in a modified Butler-Volmer setting that is derived from elementary reactions, but assuming a single rate-limiting step.",Modeling elementary heterogeneous chemistry and electrochemistry in solid-oxide fuel cells,10.1149/1.2116607
+6,10617,The model is discussed in terms of systems with defined flow channels and planar membrane-electrode assemblies.,Modeling elementary heterogeneous chemistry and electrochemistry in solid-oxide fuel cells,10.1149/1.2116607
+7,10617,"However, the underlying theory is independent of the particular geometry.",Modeling elementary heterogeneous chemistry and electrochemistry in solid-oxide fuel cells,10.1149/1.2116607
+8,10617,Examples are given to illustrate the model.,Modeling elementary heterogeneous chemistry and electrochemistry in solid-oxide fuel cells,10.1149/1.2116607
+9,10617,(c) 2005,Modeling elementary heterogeneous chemistry and electrochemistry in solid-oxide fuel cells,10.1149/1.2116607
+10,10617,The Electrochemical Society.,Modeling elementary heterogeneous chemistry and electrochemistry in solid-oxide fuel cells,10.1149/1.2116607

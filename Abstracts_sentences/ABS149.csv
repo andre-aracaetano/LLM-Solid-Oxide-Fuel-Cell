@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,149,In the current fuel cell modeling literature there is a gap between physics-oriented cell-level models and application-oriented system-level models.,Multi-scale simulation of fuel cells: From the cell to the system,10.1016/j.ssi.2010.06.041
+2,149,This paper presents a computational approach to close this gap by directly coupling cell-level and system-level simulation software.,Multi-scale simulation of fuel cells: From the cell to the system,10.1016/j.ssi.2010.06.041
+3,149,"It allows to integrate a detailed description of electrochemistry and 2D transport into a system model within SIMULINK, allowing a direct feedback between system requirements and cell processes.",Multi-scale simulation of fuel cells: From the cell to the system,10.1016/j.ssi.2010.06.041
+4,149,"By decoupling time scales between cell and system, the computational speed can be significantly enhanced.",Multi-scale simulation of fuel cells: From the cell to the system,10.1016/j.ssi.2010.06.041
+5,149,"The method is applicable to both, polymer electrolyte fuel cells (PEFC) and solid oxide fuel cells (SOFC).",Multi-scale simulation of fuel cells: From the cell to the system,10.1016/j.ssi.2010.06.041
+6,149,"Here, we show application in the context of PEFCs.",Multi-scale simulation of fuel cells: From the cell to the system,10.1016/j.ssi.2010.06.041
+7,149,"Local membrane water management and electrochemical performance is made accessible on the system-level, where it can be used for visualization and control purposes.",Multi-scale simulation of fuel cells: From the cell to the system,10.1016/j.ssi.2010.06.041
+8,149,(C) 2010,Multi-scale simulation of fuel cells: From the cell to the system,10.1016/j.ssi.2010.06.041
+9,149,Elsevier B.V. All rights reserved.,Multi-scale simulation of fuel cells: From the cell to the system,10.1016/j.ssi.2010.06.041

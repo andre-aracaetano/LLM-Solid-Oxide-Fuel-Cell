@@ -1,0 +1,13 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,4014,A thermodynamic Aspen Plus simulation model for a reversible solid oxide fuel cell (RSOFC) is presented and evaluated.,Simulation of a reversible SOFC with Aspen Plus,10.1016/j.ijhydene.2017.01.189
+2,4014,It is composed of an electrolysis and a fuel cell module.,Simulation of a reversible SOFC with Aspen Plus,10.1016/j.ijhydene.2017.01.189
+3,4014,The latter is based on an existing non reversible SOFC model.,Simulation of a reversible SOFC with Aspen Plus,10.1016/j.ijhydene.2017.01.189
+4,4014,The electrolysis model simulates water electrolysis as well as catalytic reactions of inlet gases.,Simulation of a reversible SOFC with Aspen Plus,10.1016/j.ijhydene.2017.01.189
+5,4014,The model has been validated using data from literature.,Simulation of a reversible SOFC with Aspen Plus,10.1016/j.ijhydene.2017.01.189
+6,4014,It has been found that the support layer on fuel electrode supported cells has to be treated differently in terms of diffusion than the active layer.,Simulation of a reversible SOFC with Aspen Plus,10.1016/j.ijhydene.2017.01.189
+7,4014,"Simulation results show that for the investigated cell parameters, the positive effect of adding CO2 to the steam feed on the electrolysis process is due to water gas-shift reactions and not CO2 electrolysis.",Simulation of a reversible SOFC with Aspen Plus,10.1016/j.ijhydene.2017.01.189
+8,4014,An analysis of outlet gas compositions in electrolysis mode showed that the assumption of the cell as an equilibrium reactor was justified.,Simulation of a reversible SOFC with Aspen Plus,10.1016/j.ijhydene.2017.01.189
+9,4014,"A parameter study has been conducted, showing that increasing the operation temperature and pressure can improve the overall performance, while changing the inlet gas compositions in general improves either fuel cell or electrolysis mode and deteriorates performance for the other mode.",Simulation of a reversible SOFC with Aspen Plus,10.1016/j.ijhydene.2017.01.189
+10,4014,(C) 2017 Hydrogen Energy Publications LLC.,Simulation of a reversible SOFC with Aspen Plus,10.1016/j.ijhydene.2017.01.189
+11,4014,Published by Elsevier Ltd.,Simulation of a reversible SOFC with Aspen Plus,10.1016/j.ijhydene.2017.01.189
+12,4014,All rights reserved.,Simulation of a reversible SOFC with Aspen Plus,10.1016/j.ijhydene.2017.01.189

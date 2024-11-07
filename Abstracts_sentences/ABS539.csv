@@ -1,0 +1,9 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,539,The transient behaviour of a solid oxide fuel cell (SOFC) caused by load changes is investigated.,Response of a solid oxide fuel cell to load change,10.1016/0378-7753(95)02263-5
+2,539,For this purpose a step function of the current density is set to the fuel cell and the response of the cell voltage is calculated by applying a special SOFC simulation code.,Response of a solid oxide fuel cell to load change,10.1016/0378-7753(95)02263-5
+3,539,The relaxation time is strongly related to the transient temperature distribution of the solid cell structure.,Response of a solid oxide fuel cell to load change,10.1016/0378-7753(95)02263-5
+4,539,"Therefore, it is in the order of some minutes depending on the design parameters and the operating conditions.",Response of a solid oxide fuel cell to load change,10.1016/0378-7753(95)02263-5
+5,539,As a remarkable result the cell voltage undershoots beyond the new steady-state value from where the relaxation process starts.,Response of a solid oxide fuel cell to load change,10.1016/0378-7753(95)02263-5
+6,539,This effect is discussed and explained.,Response of a solid oxide fuel cell to load change,10.1016/0378-7753(95)02263-5
+7,539,"The transient process is generalized by introducing two dimensionless groups, the modified Fourier number, Fo, and the source term number, So.",Response of a solid oxide fuel cell to load change,10.1016/0378-7753(95)02263-5
+8,539,In terms of these characteristic numbers a simple relationship is derived to determine the relaxation time of arbitrary cell designs under arbitrary operating conditions.,Response of a solid oxide fuel cell to load change,10.1016/0378-7753(95)02263-5

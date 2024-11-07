@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,3037,"Based on mathematical modelling and numerical simulations, a control strategy for a Molten Carbonate Fuel Cell Hybrid System (MCFC-HS) is presented.",TRIPLE-LAYER BASED CONTROL STRATEGY FOR MOLTEN CARBONATE FUEL CELL - HYBRID SYSTEM,10.2478/v10176-012-0038-6
+2,3037,Adequate maps of performances with three independent parameters are shown.,TRIPLE-LAYER BASED CONTROL STRATEGY FOR MOLTEN CARBONATE FUEL CELL - HYBRID SYSTEM,10.2478/v10176-012-0038-6
+3,3037,"The independent parameters are as follows: stack current, fuel mass flow and compressor outlet pressure.",TRIPLE-LAYER BASED CONTROL STRATEGY FOR MOLTEN CARBONATE FUEL CELL - HYBRID SYSTEM,10.2478/v10176-012-0038-6
+4,3037,"Those parameters can be controlled by external load, fuel valve and turbine-compressor shaft speed, respectively.",TRIPLE-LAYER BASED CONTROL STRATEGY FOR MOLTEN CARBONATE FUEL CELL - HYBRID SYSTEM,10.2478/v10176-012-0038-6
+5,3037,"The control system is purposed to meet many constraints: e.g. stack temperature, steam-to-carbon ratio, compressor surge limitation, etc.",TRIPLE-LAYER BASED CONTROL STRATEGY FOR MOLTEN CARBONATE FUEL CELL - HYBRID SYSTEM,10.2478/v10176-012-0038-6
+6,3037,The aim is to achieve maximum efficiency of power generated within these constraints.,TRIPLE-LAYER BASED CONTROL STRATEGY FOR MOLTEN CARBONATE FUEL CELL - HYBRID SYSTEM,10.2478/v10176-012-0038-6
+7,3037,Governing equations of MCFC-HS modelling are given.,TRIPLE-LAYER BASED CONTROL STRATEGY FOR MOLTEN CARBONATE FUEL CELL - HYBRID SYSTEM,10.2478/v10176-012-0038-6
+8,3037,"An operational line of the MCFC-GT system is presented which fulfils several constraints (temperature difference, cell temperature, etc.)",TRIPLE-LAYER BASED CONTROL STRATEGY FOR MOLTEN CARBONATE FUEL CELL - HYBRID SYSTEM,10.2478/v10176-012-0038-6
+9,3037,The system is able to achieve efficiency of more than 62% even in part-load operation.,TRIPLE-LAYER BASED CONTROL STRATEGY FOR MOLTEN CARBONATE FUEL CELL - HYBRID SYSTEM,10.2478/v10176-012-0038-6

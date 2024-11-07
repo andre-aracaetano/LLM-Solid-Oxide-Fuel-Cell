@@ -1,0 +1,7 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,1511,An adaptive neural-fuzzy inference system (ANFIS) model is developed to study different flows effect on the performance of solid oxide fuel cell (SOFC).,Nonlinear modeling of a SOFC stack based on ANFIS identification,10.1016/j.simpat.2008.01.004
+2,1511,"During the process of modeling, a hybrid learning algorithm combining backpropagation (BP) and least squares estimate (LSE) is adopted to identify linear and nonlinear parameters in the ANFIS.",Nonlinear modeling of a SOFC stack based on ANFIS identification,10.1016/j.simpat.2008.01.004
+3,1511,The validity and accuracy of modeling are tested by simulations and the simulation results reveal that the obtained ANFIS model can efficiently approximate the dynamic behavior of the SOFC stack.,Nonlinear modeling of a SOFC stack based on ANFIS identification,10.1016/j.simpat.2008.01.004
+4,1511,Thus it is feasible to establish the model of SOFC stack by ANFIS.,Nonlinear modeling of a SOFC stack based on ANFIS identification,10.1016/j.simpat.2008.01.004
+5,1511,(C) 2008,Nonlinear modeling of a SOFC stack based on ANFIS identification,10.1016/j.simpat.2008.01.004
+6,1511,Elsevier B.V. All rights reserved.,Nonlinear modeling of a SOFC stack based on ANFIS identification,10.1016/j.simpat.2008.01.004

@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,18418,"Differential thermal expansion is important when two strongly bonded ceramics are subjected to high temperatures, as in solid oxide fuel cells.",Computer simulations of thermal expansion in lanthanum-based perovskites,10.1006/jssc.2000.9011
+2,18418,"Free energy minimization (EM) and molecular dynamics (MD) techniques were used to simulate the thermal expansion of the perovskites (La,Ca)CrO3 and (La,Sr) (Co, Fe)O-3 on the atomistic scale.",Computer simulations of thermal expansion in lanthanum-based perovskites,10.1006/jssc.2000.9011
+3,18418,This paper explores the use of empirical partial charge interatomic potentials to represent the partially covalent bonding in these materials.,Computer simulations of thermal expansion in lanthanum-based perovskites,10.1006/jssc.2000.9011
+4,18418,The EM simulations underpredicted the thermal expansion coefficients (CTEs) by up to 26% due to limitations in the potentials.,Computer simulations of thermal expansion in lanthanum-based perovskites,10.1006/jssc.2000.9011
+5,18418,"The MD simulations predicted the CTEs to within 17% of experimental data for (La,Ca)CrO3.",Computer simulations of thermal expansion in lanthanum-based perovskites,10.1006/jssc.2000.9011
+6,18418,"MD predictions of the CTEs for (La,Sr)(Co,Fe)O-3 were significantly lower than the experimental data due to the approximate nature of the Co(4+)and Fe4+",Computer simulations of thermal expansion in lanthanum-based perovskites,10.1006/jssc.2000.9011
+7,18418,interatomic potentials.,Computer simulations of thermal expansion in lanthanum-based perovskites,10.1006/jssc.2000.9011
+8,18418,Improvements in these results are possible if more extensive databases become available for refining the potentials and effective charges.,Computer simulations of thermal expansion in lanthanum-based perovskites,10.1006/jssc.2000.9011
+9,18418,(C) 2001 Academic Press.,Computer simulations of thermal expansion in lanthanum-based perovskites,10.1006/jssc.2000.9011

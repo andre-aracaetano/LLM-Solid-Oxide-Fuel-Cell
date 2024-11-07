@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,13353,"A 2D segment model for a bi-layer electrolyte solid oxide fuel cell (SOFC) is developed by coupling the mass transport in the channel and electrode, electrochemical reaction at the electrode/electrolyte interface and charge transport in the bi-layer electrolyte.",2D Segment Model for a Bi-Layer Electrolyte Solid Oxide Fuel Cell,10.1149/2.0741503jes
+2,13353,The Butler-Volmer equation is used to describe the electrochemical reaction.,2D Segment Model for a Bi-Layer Electrolyte Solid Oxide Fuel Cell,10.1149/2.0741503jes
+3,13353,The expressions of electronic current and oxygen partial pressure in the electrolyte are obtained by the 1D charge transport equation and two additional equations are derived based on energy conservation to close the governing equations.,2D Segment Model for a Bi-Layer Electrolyte Solid Oxide Fuel Cell,10.1149/2.0741503jes
+4,13353,The model is validated as the simulation results agree well with the experiment data reported in the literature.,2D Segment Model for a Bi-Layer Electrolyte Solid Oxide Fuel Cell,10.1149/2.0741503jes
+5,13353,The characteristics of a SOFC with an yttria stabilized zirconia (YSZ)/samaria doped ceria (SDC) bi-layer electrolyte is parametrically analyzed and the uniformity of the electronic current and oxygen partial pressure in SOFC under various operating conditions is investigated.,2D Segment Model for a Bi-Layer Electrolyte Solid Oxide Fuel Cell,10.1149/2.0741503jes
+6,13353,The results provide fundamental information on the leakage current in a bi-layer electrolyte SOFC and can serve as a useful tool for its design optimization.,2D Segment Model for a Bi-Layer Electrolyte Solid Oxide Fuel Cell,10.1149/2.0741503jes
+7,13353,(C) 2015,2D Segment Model for a Bi-Layer Electrolyte Solid Oxide Fuel Cell,10.1149/2.0741503jes
+8,13353,The Electrochemical Society.,2D Segment Model for a Bi-Layer Electrolyte Solid Oxide Fuel Cell,10.1149/2.0741503jes
+9,13353,All rights reserved.,2D Segment Model for a Bi-Layer Electrolyte Solid Oxide Fuel Cell,10.1149/2.0741503jes

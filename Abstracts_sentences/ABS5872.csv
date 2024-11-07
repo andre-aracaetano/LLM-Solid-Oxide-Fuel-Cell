@@ -1,0 +1,14 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,5872,This paper presents an analysis of the effects of heat sources on performance of a planar anode-supported solid oxide fuel cell (SOFC).,Effects of heat sources on the performance of a planar solid oxide fuel cell,10.1016/j.ijhydene.2010.02.016
+2,5872,"Heat sources in SOFCs include ohmic heat losses, heat released by chemical and electrochemical processes and radiation.",Effects of heat sources on the performance of a planar solid oxide fuel cell,10.1016/j.ijhydene.2010.02.016
+3,5872,We take into account the first three types of heat source here while neglecting the last type as it is supposed to be negligibly small.,Effects of heat sources on the performance of a planar solid oxide fuel cell,10.1016/j.ijhydene.2010.02.016
+4,5872,The cell is working under conditions of direct internal reforming of methane and with co-flow configuration.,Effects of heat sources on the performance of a planar solid oxide fuel cell,10.1016/j.ijhydene.2010.02.016
+5,5872,The composite electrodes are dis-cretized allowing the heat source associated with the electrochemical processes to be implemented in a layer of finite thickness.,Effects of heat sources on the performance of a planar solid oxide fuel cell,10.1016/j.ijhydene.2010.02.016
+6,5872,"Two cases are investigated, one where the electrochemical heat source is implemented on the anode side (base case) and another where it is implemented on the cathode side.",Effects of heat sources on the performance of a planar solid oxide fuel cell,10.1016/j.ijhydene.2010.02.016
+7,5872,"Results for temperature, current density and chemical species distribution of the base case are shown and discussed.",Effects of heat sources on the performance of a planar solid oxide fuel cell,10.1016/j.ijhydene.2010.02.016
+8,5872,"Moreover, the effects of magnitude and location of the heat sources are discussed.",Effects of heat sources on the performance of a planar solid oxide fuel cell,10.1016/j.ijhydene.2010.02.016
+9,5872,The results show that including ohmic heating in the cell model does have a significant effect on the predicted cell performance.,Effects of heat sources on the performance of a planar solid oxide fuel cell,10.1016/j.ijhydene.2010.02.016
+10,5872,Comparisons between the two cases indicate that the location of the electrochemical heat source does not affect the cell performance.,Effects of heat sources on the performance of a planar solid oxide fuel cell,10.1016/j.ijhydene.2010.02.016
+11,5872,(C) 2010 Professor T. Nejat Veziroglu.,Effects of heat sources on the performance of a planar solid oxide fuel cell,10.1016/j.ijhydene.2010.02.016
+12,5872,Published by Elsevier Ltd.,Effects of heat sources on the performance of a planar solid oxide fuel cell,10.1016/j.ijhydene.2010.02.016
+13,5872,All rights reserved.,Effects of heat sources on the performance of a planar solid oxide fuel cell,10.1016/j.ijhydene.2010.02.016

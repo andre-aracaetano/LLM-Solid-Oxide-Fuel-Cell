@@ -1,0 +1,9 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,9775,A one-dimensional transient model of a tubular solid oxide fuel cell stack is proposed in this paper.,Thermoelectric model of a tubular SOFC for dynamic simulation,10.1115/1.2906114
+2,9775,The model developed in the virtual test bed (VTB) computational environment is capable of dynamic system simulation.,Thermoelectric model of a tubular SOFC for dynamic simulation,10.1115/1.2906114
+3,9775,"This model is based on the electrochemical and thermal modeling, accounting for the voltage losses and temperature dynamics.",Thermoelectric model of a tubular SOFC for dynamic simulation,10.1115/1.2906114
+4,9775,The single cell is discretized using a finite volume method where all the governing equations are solved for each finite volume.,Thermoelectric model of a tubular SOFC for dynamic simulation,10.1115/1.2906114
+5,9775,"The temperature, the current density, and the gas concentration distribution along the axial direction of the cell are presented.",Thermoelectric model of a tubular SOFC for dynamic simulation,10.1115/1.2906114
+6,9775,The dynamic behavior of electrical characteristics and temperature under the variable load is simulated and analyzed.,Thermoelectric model of a tubular SOFC for dynamic simulation,10.1115/1.2906114
+7,9775,"For easy implementation in the VTB platform, the nonlinear governing equations are discretized in resistive companion form.",Thermoelectric model of a tubular SOFC for dynamic simulation,10.1115/1.2906114
+8,9775,The developed model is validated with experimental results and can be used for dynamic performance evaluation and design optimization of the cell under variable operating conditions and geometric condition.,Thermoelectric model of a tubular SOFC for dynamic simulation,10.1115/1.2906114

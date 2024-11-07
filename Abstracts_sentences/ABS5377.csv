@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,5377,This paper presents a model and a structured procedure to optimize the internal structure of a single solid oxide fuel cell (SOFC) so that the power density is maximized.,Constructal flow structure for a single SOFC,10.1002/er.1307
+2,5377,"The polarization curve and power density are obtained as functions of temperature, geometry and operating parameters.",Constructal flow structure for a single SOFC,10.1002/er.1307
+3,5377,"The internal structure, which accounts for the thickness of the two electrodes and the electrolyte, and the flow channels geometry, has been optimized.",Constructal flow structure for a single SOFC,10.1002/er.1307
+4,5377,"The model is developed using a control volume approach, in which, all relevant thermal and electrochemical interactions between adjacent elements are accounted for.",Constructal flow structure for a single SOFC,10.1002/er.1307
+5,5377,The effects of geometry on the compartments temperatures and reactants concentrations in the fuel cell are explored.,Constructal flow structure for a single SOFC,10.1002/er.1307
+6,5377,"The optimized internal structure results from optimal balances between the thickness of anode and cathode, L-3 and L-5, shoulder channel aspect ratio, L-t/L-ch, and the total number of fuel and oxidant channels, n(ch).",Constructal flow structure for a single SOFC,10.1002/er.1307
+7,5377,"The optima found are sharp and, therefore, important to be identified in actual SOFC design.",Constructal flow structure for a single SOFC,10.1002/er.1307
+8,5377,"The variations of power density in the studied ranges of L-3 and L-5, L-t/L-ch, and n(ch) were of 11, 5 and 5%, respectively, in the three-way optimization process, for the anode-supported single SOFC.",Constructal flow structure for a single SOFC,10.1002/er.1307
+9,5377,"Copyright (c) 2007 John Wiley & Sons, Ltd.",Constructal flow structure for a single SOFC,10.1002/er.1307

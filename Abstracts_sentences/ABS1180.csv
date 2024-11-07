@@ -1,0 +1,8 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,1180,This paper presents a control strategy for a power generation plant based in solid oxide fuel cells.,Control Strategy for Balance of Plant in Solid Oxide Fuel Cell,10.1109/TLA.2013.6533961
+2,1180,The strategy establishes a stationary regime of operation for the fuel cell using a small battery bank to absorb the dynamic characteristics of the power demand.,Control Strategy for Balance of Plant in Solid Oxide Fuel Cell,10.1109/TLA.2013.6533961
+3,1180,In order to make the control strategy the methods of genetic algorithms was used as optimization tool for determining the optimal point in the stationary regime.,Control Strategy for Balance of Plant in Solid Oxide Fuel Cell,10.1109/TLA.2013.6533961
+4,1180,With the control strategy adopted is achieved a bigger efficiency of the equipment due to the absence of misfits in the operation parameters.,Control Strategy for Balance of Plant in Solid Oxide Fuel Cell,10.1109/TLA.2013.6533961
+5,1180,This methodology also promotes an increase in life cycle and reduction the volume and cost of equipment due to operation at the point of maximum efficiency.,Control Strategy for Balance of Plant in Solid Oxide Fuel Cell,10.1109/TLA.2013.6533961
+6,1180,A simulation structure was made to test the solutions developed and proposed configuration.,Control Strategy for Balance of Plant in Solid Oxide Fuel Cell,10.1109/TLA.2013.6533961
+7,1180,The capability of dynamic response was evaluated with this structure introducing operations conditions based on a residential power demand.,Control Strategy for Balance of Plant in Solid Oxide Fuel Cell,10.1109/TLA.2013.6533961

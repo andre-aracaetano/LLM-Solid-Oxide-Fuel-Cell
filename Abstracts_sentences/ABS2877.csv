@@ -1,0 +1,8 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,2877,In this paper analysis results for a 2D solid oxide fuel cell model are presented.,Solid Oxide Fuel Cell Design Optimization With Numerical Adjoint Techniques,10.1115/1.3006199
+2,2877,The model is solved on an unstructured mesh with the finite-volume scheme using an iterative Newton's method.,Solid Oxide Fuel Cell Design Optimization With Numerical Adjoint Techniques,10.1115/1.3006199
+3,2877,A cost function is computed on the anode/electrolyte interface proportional to the ratio of the density of hydrogen to water.,Solid Oxide Fuel Cell Design Optimization With Numerical Adjoint Techniques,10.1115/1.3006199
+4,2877,"Sensitivity derivatives of the cost function are obtained with respect to the design variable, Psi, the ratio of porosity to tortuosity in the mean transport pore model with three methods: finite-difference, direct differentiation, and the adjoint technique.",Solid Oxide Fuel Cell Design Optimization With Numerical Adjoint Techniques,10.1115/1.3006199
+5,2877,The results of the three methods are compared for accuracy.,Solid Oxide Fuel Cell Design Optimization With Numerical Adjoint Techniques,10.1115/1.3006199
+6,2877,An optimization step is taken using the sensitivity derivative to improve the value of the cost function.,Solid Oxide Fuel Cell Design Optimization With Numerical Adjoint Techniques,10.1115/1.3006199
+7,2877,The cost function is improved with the design step.,Solid Oxide Fuel Cell Design Optimization With Numerical Adjoint Techniques,10.1115/1.3006199

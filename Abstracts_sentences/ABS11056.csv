@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,11056,"For an anode-supported planar SOFC, a single-unit with double channels was modeled for a counter-flow pattern, and the concentration polarization at the anode was estimated.",Evaluation and modeling of performance of anode-supported solid oxide fuel cell,10.1016/S0378-7753(99)00444-9
+2,11056,The flow phenomena were simulated using the finite volume method and the distribution of the gaseous species was calculated.,Evaluation and modeling of performance of anode-supported solid oxide fuel cell,10.1016/S0378-7753(99)00444-9
+3,11056,"In the model, it was assumed that the gas flow in the porous anode is governed by Darcy's Law, and the reactant species are transported to the electrolyte/anode interface mainly by diffusion in a multicomponent mixture system.",Evaluation and modeling of performance of anode-supported solid oxide fuel cell,10.1016/S0378-7753(99)00444-9
+4,11056,"For binary H-2-H2O and CO-CO2 systems, the calculated concentration polarization was found comparable to the experimental results.",Evaluation and modeling of performance of anode-supported solid oxide fuel cell,10.1016/S0378-7753(99)00444-9
+5,11056,"As an example for a multicomponent system, a model using steam-reformed methane as a fuel was employed to simulate the concentration polarization at a high fuel utilization.",Evaluation and modeling of performance of anode-supported solid oxide fuel cell,10.1016/S0378-7753(99)00444-9
+6,11056,"From the simulated results, it was evident that the shift reaction effectively reduces the concentration polarization when the fuel utilization is high.",Evaluation and modeling of performance of anode-supported solid oxide fuel cell,10.1016/S0378-7753(99)00444-9
+7,11056,(C) 2000,Evaluation and modeling of performance of anode-supported solid oxide fuel cell,10.1016/S0378-7753(99)00444-9
+8,11056,Elsevier Science S.A.,Evaluation and modeling of performance of anode-supported solid oxide fuel cell,10.1016/S0378-7753(99)00444-9
+9,11056,All rights reserved.,Evaluation and modeling of performance of anode-supported solid oxide fuel cell,10.1016/S0378-7753(99)00444-9

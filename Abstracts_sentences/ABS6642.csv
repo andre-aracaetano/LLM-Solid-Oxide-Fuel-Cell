@@ -1,0 +1,5 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,6642,This paper describes a mathematical model of a solid oxide fuel cell (SOFC) power plant integrated in a multimachine power system.,Fuzzy Logic Based Controller for a Grid-Connected Solid Oxide Fuel Cell Power Plant,10.1115/1.4027709
+2,6642,The utilization factor of a fuel stack maintains steady state by tuning the fuel valve in the fuel processor at a rate proportional to a current drawn from the fuel stack.,Fuzzy Logic Based Controller for a Grid-Connected Solid Oxide Fuel Cell Power Plant,10.1115/1.4027709
+3,6642,"A suitable fuzzy logic control is used for the overall system, its objective being controlling the current drawn by the power conditioning unit and meet a desirable output power demand.",Fuzzy Logic Based Controller for a Grid-Connected Solid Oxide Fuel Cell Power Plant,10.1115/1.4027709
+4,6642,The proposed control scheme is verified through computer simulations.,Fuzzy Logic Based Controller for a Grid-Connected Solid Oxide Fuel Cell Power Plant,10.1115/1.4027709

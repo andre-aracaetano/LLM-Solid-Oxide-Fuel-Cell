@@ -1,0 +1,13 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,4141,A simulation tool for modeling planar solid oxide fuel cells is demonstrated.,Three-dimensional thermo-fluid electrochemical modeling of planar SOFC stacks,10.1016/S0378-7753(02)00487-1
+2,4141,The tool combines the versatility of a commercial computational fluid dynamics simulation code with a validated electrochemistry calculation method.,Three-dimensional thermo-fluid electrochemical modeling of planar SOFC stacks,10.1016/S0378-7753(02)00487-1
+3,4141,"Its function is to predict the flow and distribution of anode and cathode gases, temperature and current distributions, and fuel utilization.",Three-dimensional thermo-fluid electrochemical modeling of planar SOFC stacks,10.1016/S0378-7753(02)00487-1
+4,4141,"A three-dimensional model geometry, including internal manifolds, was created to simulate a generic, cross-flow stack design.",Three-dimensional thermo-fluid electrochemical modeling of planar SOFC stacks,10.1016/S0378-7753(02)00487-1
+5,4141,"Similar three-dimensional geometries were created for simulation of co-flow, and counterflow stack designs.",Three-dimensional thermo-fluid electrochemical modeling of planar SOFC stacks,10.1016/S0378-7753(02)00487-1
+6,4141,"Cyclic boundary conditions were imposed at the top and bottom of the model domains, while the lateral walls were assumed adiabatic.",Three-dimensional thermo-fluid electrochemical modeling of planar SOFC stacks,10.1016/S0378-7753(02)00487-1
+7,4141,"The three cases show that, for a given average cell temperature, similar fuel utilizations can result irrespective of the flow configuration.",Three-dimensional thermo-fluid electrochemical modeling of planar SOFC stacks,10.1016/S0378-7753(02)00487-1
+8,4141,"Temperature distributions however, which largely determine thermal, stresses during operation, are dependent on the chosen design geometry/flow configuration.",Three-dimensional thermo-fluid electrochemical modeling of planar SOFC stacks,10.1016/S0378-7753(02)00487-1
+9,4141,"The co-flow case had the most uniform temperature distribution and the smallest thermal gradients, thus offers thermo-structural advantages over the other flow cases.",Three-dimensional thermo-fluid electrochemical modeling of planar SOFC stacks,10.1016/S0378-7753(02)00487-1
+10,4141,(C) 2002,Three-dimensional thermo-fluid electrochemical modeling of planar SOFC stacks,10.1016/S0378-7753(02)00487-1
+11,4141,Elsevier Science B.V.,Three-dimensional thermo-fluid electrochemical modeling of planar SOFC stacks,10.1016/S0378-7753(02)00487-1
+12,4141,All rights reserved.,Three-dimensional thermo-fluid electrochemical modeling of planar SOFC stacks,10.1016/S0378-7753(02)00487-1

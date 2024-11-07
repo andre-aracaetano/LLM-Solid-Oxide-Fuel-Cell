@@ -1,0 +1,11 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,2523,Solid oxide fuel cell and micro gas turbine (SOFC/MGT) hybrid system is a promising distributed power technology.,Multi-loop control strategy of a solid oxide fuel cell and micro gas turbine hybrid system,10.1016/j.jpowsour.2011.05.075
+2,2523,"In order to ensure the system safe operation as well as long lifetime of the fuel cell, an effective control manner is expected to regulate the temperature and fuel utilization at the desired level.",Multi-loop control strategy of a solid oxide fuel cell and micro gas turbine hybrid system,10.1016/j.jpowsour.2011.05.075
+3,2523,and track the desired power output.,Multi-loop control strategy of a solid oxide fuel cell and micro gas turbine hybrid system,10.1016/j.jpowsour.2011.05.075
+4,2523,"Thus, a multi-loop control strategy for the hybrid system is investigated in this paper.",Multi-loop control strategy of a solid oxide fuel cell and micro gas turbine hybrid system,10.1016/j.jpowsour.2011.05.075
+5,2523,A mathematical model for the SOFC/MGT hybrid system is built firstly.,Multi-loop control strategy of a solid oxide fuel cell and micro gas turbine hybrid system,10.1016/j.jpowsour.2011.05.075
+6,2523,"Based on the mathematical model, control cycles are introduced and their design is discussed.",Multi-loop control strategy of a solid oxide fuel cell and micro gas turbine hybrid system,10.1016/j.jpowsour.2011.05.075
+7,2523,Part load operation condition is employed to investigate the control strategies for the system.,Multi-loop control strategy of a solid oxide fuel cell and micro gas turbine hybrid system,10.1016/j.jpowsour.2011.05.075
+8,2523,"The dynamic modeling and control implementation are realized in the MATLAB/SIMULINK environment, and the simulation results show that it is feasible to build the multi-loop control methods for the SOFC/MGT hybrid system with regard to load disturbances.",Multi-loop control strategy of a solid oxide fuel cell and micro gas turbine hybrid system,10.1016/j.jpowsour.2011.05.075
+9,2523,(C) 2011,Multi-loop control strategy of a solid oxide fuel cell and micro gas turbine hybrid system,10.1016/j.jpowsour.2011.05.075
+10,2523,Elsevier B.V. All rights reserved.,Multi-loop control strategy of a solid oxide fuel cell and micro gas turbine hybrid system,10.1016/j.jpowsour.2011.05.075

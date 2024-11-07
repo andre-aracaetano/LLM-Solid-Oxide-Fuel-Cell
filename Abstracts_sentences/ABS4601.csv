@@ -1,0 +1,7 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,4601,A dynamical model for a 5 kW class solid oxide fuel cell (SOFC) combined heat and power (CHP) test station has been composed using the APROS (R) environment.,Dynamic model of 5 kW SOFCCHP test station,10.1115/1.2759502
+2,4601,"The model is based on a real test station being constructed and operated at VTT Technical Research Centre of Finland and it comprises the following main components of the real test system: the autothermal reforming unit, SOFC stack situated inside a furnace, catalytic afterburner and three heat exchangers.",Dynamic model of 5 kW SOFCCHP test station,10.1115/1.2759502
+3,4601,"The constructed model has been verified against experimental results obtainedfroin the autothermal reforming unit, catalytic afterburner and the two cathode side heat exchangers.",Dynamic model of 5 kW SOFCCHP test station,10.1115/1.2759502
+4,4601,The model has been.,Dynamic model of 5 kW SOFCCHP test station,10.1115/1.2759502
+5,4601,used for the phenomenological studies of the system during current transient simulations using a simplified and fast zero-dimensional model including internal reforming reactions for the SOFC stack.,Dynamic model of 5 kW SOFCCHP test station,10.1115/1.2759502
+6,4601,The test station model was capable of operating at a speed of 18 times the real time using a standard personal computer.,Dynamic model of 5 kW SOFCCHP test station,10.1115/1.2759502

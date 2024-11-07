@@ -1,0 +1,12 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,41,Direct carbon fuel cells (DCFCs) have great thermodynamic advantages over other high temperature fuel cells such as molten carbonate fuel cells (MCFCs) and solid oxide fuel cells.,Modeling of a Direct Carbon Fuel Cell System,10.1115/1.4001015
+2,41,"They can have 100% fuel utilization, no Nernst loss (at the anode), and the CO2 produced at the anode is not mixed with other gases and is ready for re-use or sequestration.",Modeling of a Direct Carbon Fuel Cell System,10.1115/1.4001015
+3,41,"So far, only studies have been reported on cell development.",Modeling of a Direct Carbon Fuel Cell System,10.1115/1.4001015
+4,41,"In this paper, we study the performance of a CO2-producing DCFC system model.",Modeling of a Direct Carbon Fuel Cell System,10.1115/1.4001015
+5,41,"The theoretically predicted advantages that are confirmed on a bench scale are also confirmed on a system level, except for the production of pure CO2.",Modeling of a Direct Carbon Fuel Cell System,10.1115/1.4001015
+6,41,Net system efficiencies of around 78% were found for the developed system.,Modeling of a Direct Carbon Fuel Cell System,10.1115/1.4001015
+7,41,An exergy analysis of the system shows where the losses in the system occur.,Modeling of a Direct Carbon Fuel Cell System,10.1115/1.4001015
+8,41,"If the cathode of the DCFC must be operated as a standard MCFC cathode, the required CO2 at the cathode is the reason why a large part of the pure CO2 from the anode is recycled and mixed with the incoming air and cannot be used directly for sequestration.",Modeling of a Direct Carbon Fuel Cell System,10.1115/1.4001015
+9,41,Bench scale studies should be performed to test the minimum amount of CO2 needed at the cathode.,Modeling of a Direct Carbon Fuel Cell System,10.1115/1.4001015
+10,41,This might be lower than in a standard MCFC operation due to the pure CO2 at the anode side that enhances diffusion toward the cathode.,Modeling of a Direct Carbon Fuel Cell System,10.1115/1.4001015
+11,41,[DOI: 10.1115/1.4001015],Modeling of a Direct Carbon Fuel Cell System,10.1115/1.4001015

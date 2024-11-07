@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,1664,"The main purpose of this work is to establish the macroscopic impact of solid oxide thin layer electrolytes, which are proposed to reduce SOFC (solid oxide fuel cell) operating temperature.",SOFC modelling and numerical simulation of performances,10.1002/fuce.200500098
+2,1664,This work deals with the planar technology configuration.,SOFC modelling and numerical simulation of performances,10.1002/fuce.200500098
+3,1664,Fuel and oxidant flow through numerous small tubes.,SOFC modelling and numerical simulation of performances,10.1002/fuce.200500098
+4,1664,"The electrical performance analysis of such an elementary fuel cell consist in establishing the relation between tension and current and the influence of parameters such as tubes dimensions, thickness and electrical conductivity of thin layers and fuel used.",SOFC modelling and numerical simulation of performances,10.1002/fuce.200500098
+5,1664,"This study uses fundamental laws of species and energy conservation, as well as electrochemical and electrical laws.",SOFC modelling and numerical simulation of performances,10.1002/fuce.200500098
+6,1664,Stack performance calculation is mainly a thermal and electrical calculation.,SOFC modelling and numerical simulation of performances,10.1002/fuce.200500098
+7,1664,This is done here by using Fluent((R)),SOFC modelling and numerical simulation of performances,10.1002/fuce.200500098
+8,1664,code calculations and C programming.,SOFC modelling and numerical simulation of performances,10.1002/fuce.200500098
+9,1664,"Particular attention is given to the thermal properties, because of the importance of the dilatation problem in SOFC technology.",SOFC modelling and numerical simulation of performances,10.1002/fuce.200500098

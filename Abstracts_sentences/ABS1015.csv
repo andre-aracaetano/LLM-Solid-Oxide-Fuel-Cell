@@ -1,0 +1,12 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,1015,This paper describes a novel control strategy for active power flow in a hybrid fuel cell/battery distributed generation system.,Intelligent power management strategy of hybrid distributed generation system,10.1016/j.ijepes.2007.06.025
+2,1015,The method introduces an on-line power management by a hierarchical hybrid controller between dual energy sources that consist of a battery bank and a solid oxide fuel cell (SOFC).,Intelligent power management strategy of hybrid distributed generation system,10.1016/j.ijepes.2007.06.025
+3,1015,The proposed method includes an advance supervisory controller in the first layer which captures all of the possible operation modes.,Intelligent power management strategy of hybrid distributed generation system,10.1016/j.ijepes.2007.06.025
+4,1015,This layer has been developed by Stateflow toolbox and prepares a proper supervisory environment for this complex structure.,Intelligent power management strategy of hybrid distributed generation system,10.1016/j.ijepes.2007.06.025
+5,1015,"In the second layer, an advanced fuzzy controller has been developed for power splitting between battery and fuel cell.",Intelligent power management strategy of hybrid distributed generation system,10.1016/j.ijepes.2007.06.025
+6,1015,"With regards to the operation modes, the upper layer makes decision to choose the switching chain rules and corresponding controller in the second layer.",Intelligent power management strategy of hybrid distributed generation system,10.1016/j.ijepes.2007.06.025
+7,1015,"Finally in the third layer, there are local controllers to regulate the set points of each subsystems to reach the best performance and acceptable operation indexes.",Intelligent power management strategy of hybrid distributed generation system,10.1016/j.ijepes.2007.06.025
+8,1015,Simulation results of a test system illustrate improvement in the operation efficiency of the hybrid system and the battery state of charge has been maintained at a reasonable level.,Intelligent power management strategy of hybrid distributed generation system,10.1016/j.ijepes.2007.06.025
+9,1015,(c) 2007,Intelligent power management strategy of hybrid distributed generation system,10.1016/j.ijepes.2007.06.025
+10,1015,Elsevier Ltd.,Intelligent power management strategy of hybrid distributed generation system,10.1016/j.ijepes.2007.06.025
+11,1015,All rights reserved.,Intelligent power management strategy of hybrid distributed generation system,10.1016/j.ijepes.2007.06.025

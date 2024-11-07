@@ -1,0 +1,7 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,2857,A three-dimensional numerical solver is developed to model complex transport processes inside all components of a solid oxide fuel cell (SOFC).,Sensitivity analysis for solid oxide fuel cells using a three-dimensional numerical model,10.1016/j.jpowsour.2008.12.130
+2,2857,An initial assessment of the accuracy of the model is made by comparing a numerically generated polarization curve with experimental results.,Sensitivity analysis for solid oxide fuel cells using a three-dimensional numerical model,10.1016/j.jpowsour.2008.12.130
+3,2857,Sensitivity derivatives of objective functions representing the cell voltage and the concentration polarization are obtained with respect to the material properties of the anode and the cathode using discrete adjoint method.,Sensitivity analysis for solid oxide fuel cells using a three-dimensional numerical model,10.1016/j.jpowsour.2008.12.130
+4,2857,Implementation of the discrete adjoint method is validated by comparing sensitivity derivatives obtained using the adjoint technique with results obtained using direct-differentiation and finite-difference methods.,Sensitivity analysis for solid oxide fuel cells using a three-dimensional numerical model,10.1016/j.jpowsour.2008.12.130
+5,2857,(C) 2009,Sensitivity analysis for solid oxide fuel cells using a three-dimensional numerical model,10.1016/j.jpowsour.2008.12.130
+6,2857,Elsevier B.V. All rights reserved.,Sensitivity analysis for solid oxide fuel cells using a three-dimensional numerical model,10.1016/j.jpowsour.2008.12.130

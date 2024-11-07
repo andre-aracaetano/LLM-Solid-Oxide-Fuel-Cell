@@ -1,0 +1,6 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,6703,"Solid-oxide fuel cell (SOFC) units normally supply power to the local load centers but the excess power can also be exported to the regional power grid, adding to the capacity and stability of the overall grid system.",Fuzzy Logic Applied to the Inverter of a SOFC Power Plant,10.1002/fuce.200400036
+2,6703,A SOFC power plant is equipped with a pulse width modulation (PWM) inverter.,Fuzzy Logic Applied to the Inverter of a SOFC Power Plant,10.1002/fuce.200400036
+3,6703,"This paper presents the design of a new fuzzy logic regulator tor cl three-phase inverter, using the strategy of an inverter flux vector control method.",Fuzzy Logic Applied to the Inverter of a SOFC Power Plant,10.1002/fuce.200400036
+4,6703,Criteria for designing the fuzzy controller are given and a comparison with the hysteresis method is presented.,Fuzzy Logic Applied to the Inverter of a SOFC Power Plant,10.1002/fuce.200400036
+5,6703,The flux vector approach is to generate the command pulses for low ripple current and constant switching frequency.,Fuzzy Logic Applied to the Inverter of a SOFC Power Plant,10.1002/fuce.200400036

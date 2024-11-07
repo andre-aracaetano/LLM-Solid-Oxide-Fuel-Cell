@@ -1,0 +1,12 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,18309,A model for planar solid oxide fuel cell repeat elements and stacks has been developed.,Generalized model of planar SOFC repeat element for design optimization,10.1016/j.jpowsour.2003.11.088
+2,18309,"Distribution of concentrations, reaction rates and temperatures (both gases and solids) are computed as well as overall performance results.",Generalized model of planar SOFC repeat element for design optimization,10.1016/j.jpowsour.2003.11.088
+3,18309,Specific experiments provide inputs to the model by a parameter estimation method.,Generalized model of planar SOFC repeat element for design optimization,10.1016/j.jpowsour.2003.11.088
+4,18309,The modeling approach developed allows to compare several configurations.,Generalized model of planar SOFC repeat element for design optimization,10.1016/j.jpowsour.2003.11.088
+5,18309,"As the number of design parameters is large (from cell size, component thicknesses to gas flow configuration), the model is designed to change easily these parameters so as to explore as many cases as possible.",Generalized model of planar SOFC repeat element for design optimization,10.1016/j.jpowsour.2003.11.088
+6,18309,"This is particularly true for the flow configuration (inlet position, outlets) for which several options are considered.",Generalized model of planar SOFC repeat element for design optimization,10.1016/j.jpowsour.2003.11.088
+7,18309,This model assists in choosing a configuration and allows to perform sensitivity studies in an efficient way (without having to produce a new mesh such as for CFD tools) or to be combined with an optimization tool.,Generalized model of planar SOFC repeat element for design optimization,10.1016/j.jpowsour.2003.11.088
+8,18309,"A first validation with experimental results, performed on a particular stack design, is presented.",Generalized model of planar SOFC repeat element for design optimization,10.1016/j.jpowsour.2003.11.088
+9,18309,Issues of model accuracy and sensitivity to uncertain inputs are discussed.,Generalized model of planar SOFC repeat element for design optimization,10.1016/j.jpowsour.2003.11.088
+10,18309,(C) 2004,Generalized model of planar SOFC repeat element for design optimization,10.1016/j.jpowsour.2003.11.088
+11,18309,Elsevier B.V. All rights reserved.,Generalized model of planar SOFC repeat element for design optimization,10.1016/j.jpowsour.2003.11.088

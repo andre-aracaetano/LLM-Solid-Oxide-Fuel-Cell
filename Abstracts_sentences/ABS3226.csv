@@ -1,0 +1,9 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,3226,Development of distributed control algorithms has attracted significant attention for control of large-scale processes.,Optimal Controller Design with Communication Delay for Solid Oxide Fuel Cell,10.1002/asjc.1974
+2,3226,"In distributed control systems, there are signal transmissions between local subsystems.",Optimal Controller Design with Communication Delay for Solid Oxide Fuel Cell,10.1002/asjc.1974
+3,3226,One subsystem does not have complete knowledge of the whole system and interactions between subsystems are not completely considered.,Optimal Controller Design with Communication Delay for Solid Oxide Fuel Cell,10.1002/asjc.1974
+4,3226,Communication delay also places limitations on achievable best performance.,Optimal Controller Design with Communication Delay for Solid Oxide Fuel Cell,10.1002/asjc.1974
+5,3226,"In this paper, considering communication delay, a distributed method is proposed to design an optimal controller using a discrete linear model.",Optimal Controller Design with Communication Delay for Solid Oxide Fuel Cell,10.1002/asjc.1974
+6,3226,The advantage of the proposed method is in taking communication delay into account and being robust against subsystem failure.,Optimal Controller Design with Communication Delay for Solid Oxide Fuel Cell,10.1002/asjc.1974
+7,3226,"The proposed approach has been applied on a solid oxide fuel cell, which is extremely nonlinear and has a huge number of state variables.",Optimal Controller Design with Communication Delay for Solid Oxide Fuel Cell,10.1002/asjc.1974
+8,3226,The results show the advantages and applicability of the proposed method.,Optimal Controller Design with Communication Delay for Solid Oxide Fuel Cell,10.1002/asjc.1974

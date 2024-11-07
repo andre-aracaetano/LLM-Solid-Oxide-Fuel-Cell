@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,11043,Transients in a load have a significant impact on the performance and durability of a solid oxide fuel cell (SOFC) system.,Predictive control of SOFC based on a GA-RBF neural network model,10.1016/j.jpowsour.2007.12.036
+2,11043,One of the main reasons is that the fuel utilization changes drastically due to the load change.,Predictive control of SOFC based on a GA-RBF neural network model,10.1016/j.jpowsour.2007.12.036
+3,11043,"Therefore, in order to guarantee the fuel utilization to operate within a safe range, a nonlinear model predictive control (MPC) method is proposed to control the stack terminal voltage as a proper constant in this paper.",Predictive control of SOFC based on a GA-RBF neural network model,10.1016/j.jpowsour.2007.12.036
+4,11043,The nonlinear predictive controller is based on an improved radial basis function (RBF) neural network identification model.,Predictive control of SOFC based on a GA-RBF neural network model,10.1016/j.jpowsour.2007.12.036
+5,11043,"During the process of modeling, the genetic algorithm (GA) is used to optimize the parameters of RBF neural networks.",Predictive control of SOFC based on a GA-RBF neural network model,10.1016/j.jpowsour.2007.12.036
+6,11043,And then a nonlinear predictive control algorithm is applied to track the voltage of the SOFC.,Predictive control of SOFC based on a GA-RBF neural network model,10.1016/j.jpowsour.2007.12.036
+7,11043,"Compared with the constant fuel utilization control method, the simulation results show that the nonlinear predictive control algorithm based on the GA-RBF model performs much better.",Predictive control of SOFC based on a GA-RBF neural network model,10.1016/j.jpowsour.2007.12.036
+8,11043,(C) 2007,Predictive control of SOFC based on a GA-RBF neural network model,10.1016/j.jpowsour.2007.12.036
+9,11043,Elsevier B.V. All rights reserved.,Predictive control of SOFC based on a GA-RBF neural network model,10.1016/j.jpowsour.2007.12.036

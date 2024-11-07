@@ -1,0 +1,10 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,77,Fuel cell is an electro-chemical device that converts chemical energy into electrical energy.,Estimation and control of solid oxide fuel cell system,10.1016/j.compchemeng.2009.06.018
+2,77,Optimal operation of solid oxide fuel cells require different components built around them.,Estimation and control of solid oxide fuel cell system,10.1016/j.compchemeng.2009.06.018
+3,77,The physical structure of the fuel cell and associated components impose certain restrictions on the operation of the system.,Estimation and control of solid oxide fuel cell system,10.1016/j.compchemeng.2009.06.018
+4,77,"Thus control of a fuel cell system is performed by nonlinear model predictive control which is able to handle multivariate, objective and constraints.",Estimation and control of solid oxide fuel cell system,10.1016/j.compchemeng.2009.06.018
+5,77,This work describes the application of nonlinear model predictive control applied on the fuel cell system by utilizing estimated states from the unscented Kalman filter.,Estimation and control of solid oxide fuel cell system,10.1016/j.compchemeng.2009.06.018
+6,77,A brief description of the orthogonal collocation method as a means to discretize the nonlinear continuous model has also been provided in this work.,Estimation and control of solid oxide fuel cell system,10.1016/j.compchemeng.2009.06.018
+7,77,(C) 2009,Estimation and control of solid oxide fuel cell system,10.1016/j.compchemeng.2009.06.018
+8,77,Elsevier Ltd.,Estimation and control of solid oxide fuel cell system,10.1016/j.compchemeng.2009.06.018
+9,77,All rights reserved.,Estimation and control of solid oxide fuel cell system,10.1016/j.compchemeng.2009.06.018

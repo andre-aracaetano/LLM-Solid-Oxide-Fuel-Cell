@@ -1,0 +1,13 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,7626,"Solid oxide fuel cell (SOFC) is being developed for a wide variety of applications because of their high efficiency, reliability, and fuel adaptability.",Modeling and simulation of grid connected solid oxide fuel cell using PSCAD,10.1063/1.4897936
+2,7626,"In this paper, a grid connected SOFC system is presented by using PSCAD software.",Modeling and simulation of grid connected solid oxide fuel cell using PSCAD,10.1063/1.4897936
+3,7626,The power conditioning unit (PCU) is used for simulation studies and also the transformer is used for electrical isolation.,Modeling and simulation of grid connected solid oxide fuel cell using PSCAD,10.1063/1.4897936
+4,7626,The simulation studies of the SOFC dynamic model are investigated for three case studies.,Modeling and simulation of grid connected solid oxide fuel cell using PSCAD,10.1063/1.4897936
+5,7626,"In the first simulation study, the SOFC dynamic model is connected to constant and variable DC loads without PCU.",Modeling and simulation of grid connected solid oxide fuel cell using PSCAD,10.1063/1.4897936
+6,7626,The second simulation study is performed for three phase AC load conditions.,Modeling and simulation of grid connected solid oxide fuel cell using PSCAD,10.1063/1.4897936
+7,7626,The AC performance of SOFC is tested under an AC load through the transmission line of 400V at the length of 10 km.,Modeling and simulation of grid connected solid oxide fuel cell using PSCAD,10.1063/1.4897936
+8,7626,The last simulation study is implemented for the grid connected SOFC system.,Modeling and simulation of grid connected solid oxide fuel cell using PSCAD,10.1063/1.4897936
+9,7626,"In the grid connected case study, a three bus system, which includes an infinite bus, a load bus and a fuel cell bus, is formed under AC load conditions.",Modeling and simulation of grid connected solid oxide fuel cell using PSCAD,10.1063/1.4897936
+10,7626,The results show the fast response capabilities of the grid connected SOFC system in different case studies and various load types.,Modeling and simulation of grid connected solid oxide fuel cell using PSCAD,10.1063/1.4897936
+11,7626,(C) 2014,Modeling and simulation of grid connected solid oxide fuel cell using PSCAD,10.1063/1.4897936
+12,7626,AIP Publishing LLC.,Modeling and simulation of grid connected solid oxide fuel cell using PSCAD,10.1063/1.4897936

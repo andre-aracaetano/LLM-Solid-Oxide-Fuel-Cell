@@ -1,0 +1,15 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,15295,"In this study, a 2-D numerical model is investigated to predict and evaluate the performance of an anode-supported SOFC button cell.",Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086
+2,15295,The flow field is calculated using 2D Navier-Stokes equations.,Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086
+3,15295,Heat and mass transfer equations are solved to calculate species and temperature distribution in the cell body and in fuel and air channels.,Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086
+4,15295,The electrical and electrochemical processes are simulated coupled with the heat and mass transfer model.,Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086
+5,15295,A discretized network circuit is adopted to the cell geometry for considering the ohmic losses and joule heating of the current that passes through the cell body.,Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086
+6,15295,"The model predicts the cell output voltage, the local EMF and the state variables pressure, temperature and species concentrations.",Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086
+7,15295,"The local electrical parameters are calculated based on the local pressure, temperature and concentration of the species.",Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086
+8,15295,The numerical results are compared with the experimental data and good agreement is observed.,Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086
+9,15295,The simulation is carried out for different input fuel flow rates and humidification.,Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086
+10,15295,The results show how the input fuel mass flow rate and humidification level affects the button cell SOFC performance.,Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086
+11,15295,"In addition, influences of the anode thickness on cell performance through the ohmic over potential are investigated.",Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086
+12,15295,(C) 2010 Professor T. Nejat Veziroglu.,Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086
+13,15295,Published by Elsevier Ltd.,Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086
+14,15295,All rights reserved.,Performance analysis of a SOFC button cell using a CFD model,10.1016/j.ijhydene.2010.05.086

@@ -1,0 +1,13 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,9979,"Solid oxide fuel cells (SOFCs) are complex systems in which electrochemistry, thermophysics and ion conduction occur simultaneously.",Modeling the SOFC by BP neural network algorithm,10.1016/j.ijhydene.2021.03.132
+2,9979,The coupling of the multi-physics field makes the performance of the SOFC hard to predict.,Modeling the SOFC by BP neural network algorithm,10.1016/j.ijhydene.2021.03.132
+3,9979,"Meanwhile, the high operation temperature prevents a fully aware test of the internal conditions of the SOFC.",Modeling the SOFC by BP neural network algorithm,10.1016/j.ijhydene.2021.03.132
+4,9979,Artificial intelligence (AI) technology requires a small amount of experimental data to build an accurate model of SOFC.,Modeling the SOFC by BP neural network algorithm,10.1016/j.ijhydene.2021.03.132
+5,9979,"In this study, 30 pieces SOFC stack is fabricated and experimentally tested in different furnace temperatures and the BP neural network, support vector machine (SVM)and random forest (RF) are both used to predict the stack performance.",Modeling the SOFC by BP neural network algorithm,10.1016/j.ijhydene.2021.03.132
+6,9979,"Multiple evaluation criteria such as R-2, RMSE, MAE, training and testing time are used.",Modeling the SOFC by BP neural network algorithm,10.1016/j.ijhydene.2021.03.132
+7,9979,The results show that fitting errors of the three algorithms are all within 5%.,Modeling the SOFC by BP neural network algorithm,10.1016/j.ijhydene.2021.03.132
+8,9979,"By analyzing the evaluation criteria, the prediction accuracy, generalization ability and testing time of BP neural network are optimal.",Modeling the SOFC by BP neural network algorithm,10.1016/j.ijhydene.2021.03.132
+9,9979,The untested data is predicted in order to verify the interpolation of the BP neural network.,Modeling the SOFC by BP neural network algorithm,10.1016/j.ijhydene.2021.03.132
+10,9979,(C) 2021 Hydrogen Energy Publications LLC.,Modeling the SOFC by BP neural network algorithm,10.1016/j.ijhydene.2021.03.132
+11,9979,Published by Elsevier Ltd.,Modeling the SOFC by BP neural network algorithm,10.1016/j.ijhydene.2021.03.132
+12,9979,All rights reserved.,Modeling the SOFC by BP neural network algorithm,10.1016/j.ijhydene.2021.03.132

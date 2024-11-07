@@ -1,0 +1,8 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,11076,This work presents the development of an analytical model for the simulation of solid oxide fuel cells (SOFCs).,An analytical model for solid oxide fuel cells,10.1149/1.2742812
+2,11076,"The unique features of the analytical code include Stefan-Maxwell-Knudsen diffusion of five-component gas mixtures (H-2, CO, CO2, H2O, and CH4) as fuel and of air as comburent, microdiffusion to the reaction sites, reaction kinetics described accurately beyond the linear limit, internal reforming reaction, shift reaction equilibrium, thermal sources evaluation.",An analytical model for solid oxide fuel cells,10.1149/1.2742812
+3,11076,"This results in a fast and accurate computer code, which can be used both as a stand-alone tool for one-dimensional simulations and as a user-supplied source term in the framework of fluid-dynamics three-dimensional platforms.",An analytical model for solid oxide fuel cells,10.1149/1.2742812
+4,11076,The one-dimensional simulation model is validated against literature experimental data of SOFCs operating with hydrogen-carbon monoxide mixtures.,An analytical model for solid oxide fuel cells,10.1149/1.2742812
+5,11076,A performance analysis on the effect of SOFC geometry variation has been reported.,An analytical model for solid oxide fuel cells,10.1149/1.2742812
+6,11076,Analysis of the results indicates that the analytical model is an effective tool for SOFC design and optimization.,An analytical model for solid oxide fuel cells,10.1149/1.2742812
+7,11076,(c) 2007 The Electrochemical Society.,An analytical model for solid oxide fuel cells,10.1149/1.2742812

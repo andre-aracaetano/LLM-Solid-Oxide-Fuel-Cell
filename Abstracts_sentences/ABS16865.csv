@@ -1,0 +1,18 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,16865,Solid oxide fuel cells (SOFCs) in metallic housings were integrally and locally characterised.,SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+2,16865,"The tests were performed in counter flow operation for hydrogen concentrations from 2% to 100%, to identify concentration limitations and to optimise fuel utilisation.",SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+3,16865,"Cell characterisations were performed by spatially resolved electrochemical impedance spectroscopy (EIS), current density/voltage (i-V) and temperature measurements as well as gas chromatography measurements at 16 distinct points across the cell.",SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+4,16865,The results show a substantial variation of current density and voltage distribution along the flow path with varying hydrogen content and fuel utilisation.,SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+5,16865,The fuel utilisation was calculated from the local current densities and compared to the values measured by gas chromatography.,SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+6,16865,Both sets of results showed good agreement.,SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+7,16865,At low hydrogen inlet concentrations the voltage at the fuel outlet drops to values that might be harmful for the stability of the anode since reoxidation of nickel can occur.,SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+8,16865,The impedances obtained by local EIS did not show an overall coherent dependency on the hydrogen concentration.,SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+9,16865,EIS under load revealed two distinct domains: in the range of hydrogen concentrations of 2-10% H-2 the impedance decreased significantly with increasing hydrogen content whereas at higher hydrogen contents the impedance was hardly affected.,SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+10,16865,This indicates significant concentration and diffusion overpotential at low hydrogen concentrations.,SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+11,16865,The local data showed differing behaviour in the middle of the cell compared to the fuel outlet.,SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+12,16865,Leakage at the sealing could be identified as a possible reason.,SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+13,16865,"As an additional method of investigation, the voltage drop over the contact resistance of the cathode side was measured.",SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+14,16865,Temperature measurements show that local temperatures differ significantly depending on the load applied to the cell.,SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+15,16865,"This observation emphasizes the importance of a thermal management adapted to the characteristics on operation conditions of the cells, particularly when the stack itself has only a low mass.",SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+16,16865,(c) 2006,SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019
+17,16865,Elsevier B.V All rights reserved.,SOFC characteristics along the flow path,10.1016/j.ssi.2006.06.019

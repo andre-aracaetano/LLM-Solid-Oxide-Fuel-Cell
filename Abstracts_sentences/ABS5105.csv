@@ -1,0 +1,11 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,5105,In this paper the effect of systematic errors in gas temperature measurements on the thermal control of a Solid Oxide Fuel Cell system is demonstrated.,The effect of bias in gas temperature measurements on the control of a Solid Oxide Fuel Cells system,10.1016/j.jpowsour.2013.06.065
+2,5105,Three control schemes were tested under two different conditions.,The effect of bias in gas temperature measurements on the control of a Solid Oxide Fuel Cells system,10.1016/j.jpowsour.2013.06.065
+3,5105,"First, the real gas temperature at the point of interest was used as input for the controller.",The effect of bias in gas temperature measurements on the control of a Solid Oxide Fuel Cells system,10.1016/j.jpowsour.2013.06.065
+4,5105,"Second, the reading of the thermocouple that takes the measurement at the same point was used as input.",The effect of bias in gas temperature measurements on the control of a Solid Oxide Fuel Cells system,10.1016/j.jpowsour.2013.06.065
+5,5105,The second approach included the bias on the measurement due to radiation and heat conduction on the thermocouple.,The effect of bias in gas temperature measurements on the control of a Solid Oxide Fuel Cells system,10.1016/j.jpowsour.2013.06.065
+6,5105,The results showed an overestimation of temperatures with important influence on the system control.,The effect of bias in gas temperature measurements on the control of a Solid Oxide Fuel Cells system,10.1016/j.jpowsour.2013.06.065
+7,5105,"Furthermore, in one case the system could not follow the required power demand and it failed.",The effect of bias in gas temperature measurements on the control of a Solid Oxide Fuel Cells system,10.1016/j.jpowsour.2013.06.065
+8,5105,A successful solution to the problem was obtained by increasing the dimension of the system's heat exchanger.,The effect of bias in gas temperature measurements on the control of a Solid Oxide Fuel Cells system,10.1016/j.jpowsour.2013.06.065
+9,5105,(C) 2013,The effect of bias in gas temperature measurements on the control of a Solid Oxide Fuel Cells system,10.1016/j.jpowsour.2013.06.065
+10,5105,Elsevier B.V. All rights reserved.,The effect of bias in gas temperature measurements on the control of a Solid Oxide Fuel Cells system,10.1016/j.jpowsour.2013.06.065

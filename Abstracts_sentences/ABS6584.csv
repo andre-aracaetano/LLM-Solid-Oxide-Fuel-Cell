@@ -1,0 +1,7 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,6584,Transients in a load have a significant impact on the performance and durability of a solid oxide fuel cell (SOFC) integrated into a micro gas turbine (MGT) hybrid power system.,Temperature Control of a SOFC and MGT Hybrid System,10.1115/1.4004174
+2,6584,One of the main reasons is that the SOFC operating temperature and turbine inlet temperature change drastically due to the load change.,Temperature Control of a SOFC and MGT Hybrid System,10.1115/1.4004174
+3,6584,"Therefore, in order to guarantee the temperature to operate within a specified range, an adaptive proportional-integral-derivative (PID) decoupling control strategy based on a dynamic radial basis function (RBF) neural network is presented to control the temperature of a natural gas fueled, tubular SOFC/MGT hybrid with internal reforming in this paper.",Temperature Control of a SOFC and MGT Hybrid System,10.1115/1.4004174
+4,6584,"Using the self-learning ability of the dynamic RBF neural network, the proportional, integral, and differential factor of the PID controller are tuned on-line.",Temperature Control of a SOFC and MGT Hybrid System,10.1115/1.4004174
+5,6584,The simulation results show that it is feasible to build the adaptive PID decoupling controller for temperature control of the SOFC/MGT hybrid system.,Temperature Control of a SOFC and MGT Hybrid System,10.1115/1.4004174
+6,6584,[DOI: 10.1115/1.4004174],Temperature Control of a SOFC and MGT Hybrid System,10.1115/1.4004174

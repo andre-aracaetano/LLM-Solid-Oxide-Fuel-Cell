@@ -1,0 +1,16 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,1844,"In this paper, a control-oriented model of a solid oxide fuel cell system is formulated and analyzed in detail.",Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+2,1844,"First, a lumped model based on first principle laws is formulated and tuned using experimental data coming from a real solid oxide fuel cell system test bench.",Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+3,1844,The model calibration is carried out based on an optimization approach to minimize the error between the experimental data and the model one.,Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+4,1844,"To systematically analyze the system behavior, an equilibrium point analysis is formulated and developed.",Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+5,1844,The analysis results show the maximum steady-state electrical power under each constant stack temperature.,Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+6,1844,This will allow to appropriately select operation points during the system operation.,Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+7,1844,"Secondly, Lyapunov's theory is used to characterize the local stability of the equilibrium points.",Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+8,1844,The results show that the equilibrium points are locally stable.,Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+9,1844,"Besides, comparison between the initial nonlinear model with the linearized model is performed to show the efficacy of the linearised model analysis.",Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+10,1844,"Finally, the frequency response of the linearized model is performed.",Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+11,1844,This analysis provides key information about control system design in order to efficiently operate the solid oxide fuel cell system.,Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+12,1844,(C) 2020,Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+13,1844,Hydrogen Energy Publications LLC.,Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+14,1844,Published by Elsevier Ltd.,Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061
+15,1844,All rights reserved.,Control-oriented modelling and analysis of a solid oxide fuel cell system,10.1016/j.ijhydene.2020.02.061

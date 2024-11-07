@@ -1,0 +1,12 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,10903,This paper investigates a planar anode-supported solid oxide fuel cell (SOFC) with mixed-conducting electrodes.,Numerical analysis of a planar anode-supported SOFC with composite electrodes,10.1016/j.ijhydene.2009.02.016
+2,10903,Direct internal methane reforming in the high-temperature cell is included.,Numerical analysis of a planar anode-supported SOFC with composite electrodes,10.1016/j.ijhydene.2009.02.016
+3,10903,"The numerical model used is three-dimensional, a single computational domain comprising the fuel and air channels and the electrodes-electrolyte assembly.",Numerical analysis of a planar anode-supported SOFC with composite electrodes,10.1016/j.ijhydene.2009.02.016
+4,10903,The oxygen ion transport through the electrolyte is mimicked with an algorithm for Fickian diffusion built into the commercial computational package Star-CD.,Numerical analysis of a planar anode-supported SOFC with composite electrodes,10.1016/j.ijhydene.2009.02.016
+5,10903,"The equations describing transport, chemical and electrochemical processes for mass, momentum, species and energy are solved using Star-CD with in-house developed subroutines.",Numerical analysis of a planar anode-supported SOFC with composite electrodes,10.1016/j.ijhydene.2009.02.016
+6,10903,"Results for temperature, chemical species and current density distribution for co- and counter-flow configurations are shown and discussed.",Numerical analysis of a planar anode-supported SOFC with composite electrodes,10.1016/j.ijhydene.2009.02.016
+7,10903,"For co-flow, a sub-cooling effect manifests itself in the methane-rich region near the fuel entrance, while for counter-flow a super-heating effect manifests itself somewhat further downstream, where all the methane is consumed.",Numerical analysis of a planar anode-supported SOFC with composite electrodes,10.1016/j.ijhydene.2009.02.016
+8,10903,Effects of varying air inlet conditions are also investigated.,Numerical analysis of a planar anode-supported SOFC with composite electrodes,10.1016/j.ijhydene.2009.02.016
+9,10903,(C) 2009 International Association for Hydrogen Energy.,Numerical analysis of a planar anode-supported SOFC with composite electrodes,10.1016/j.ijhydene.2009.02.016
+10,10903,Published by Elsevier Ltd.,Numerical analysis of a planar anode-supported SOFC with composite electrodes,10.1016/j.ijhydene.2009.02.016
+11,10903,All rights reserved.,Numerical analysis of a planar anode-supported SOFC with composite electrodes,10.1016/j.ijhydene.2009.02.016

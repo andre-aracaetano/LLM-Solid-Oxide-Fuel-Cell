@@ -1,0 +1,14 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,13300,The Artificial Neural Network (ANN) can be applied to simulate an object's behaviour without an algorithmic solution merely by utilizing available experimental data.,Modelling the SOFC behaviours by artificial neural network,10.1016/j.ijhydene.2009.04.068
+2,13300,The ANN is used for modelling singular cell behaviour.,Modelling the SOFC behaviours by artificial neural network,10.1016/j.ijhydene.2009.04.068
+3,13300,The optimal network architecture is shown and commented.,Modelling the SOFC behaviours by artificial neural network,10.1016/j.ijhydene.2009.04.068
+4,13300,The error backpropagation algorithm was used for an ANN training procedure.,Modelling the SOFC behaviours by artificial neural network,10.1016/j.ijhydene.2009.04.068
+5,13300,"The ANN based SOFC model has the following input parameters: current density, temperature, fuel volume flow density (ml min(-1) cm(-2)), and oxidant volume flow density.",Modelling the SOFC behaviours by artificial neural network,10.1016/j.ijhydene.2009.04.068
+6,13300,"Based on these input parameters, cell voltage is predicted by the model.",Modelling the SOFC behaviours by artificial neural network,10.1016/j.ijhydene.2009.04.068
+7,13300,Obtained results show that the ANN can be successfully used for modelling the singular solid oxide fuel cell.,Modelling the SOFC behaviours by artificial neural network,10.1016/j.ijhydene.2009.04.068
+8,13300,The self-learning process of the ANN provides an opportunity to adapt the model to new situations (e.g. certain types of impurities at inlet streams etc.).,Modelling the SOFC behaviours by artificial neural network,10.1016/j.ijhydene.2009.04.068
+9,13300,"Based on the results from this study it can be concluded that, by using the ANN, an SOFC can be modelled with relatively high accuracy.",Modelling the SOFC behaviours by artificial neural network,10.1016/j.ijhydene.2009.04.068
+10,13300,"In contrast to traditional models, the ANN is able to predict cell voltage without knowledge of numerous physical, chemical, and electrochemical factors.",Modelling the SOFC behaviours by artificial neural network,10.1016/j.ijhydene.2009.04.068
+11,13300,(C) 2009 International Association for Hydrogen Energy.,Modelling the SOFC behaviours by artificial neural network,10.1016/j.ijhydene.2009.04.068
+12,13300,Published by Elsevier Ltd.,Modelling the SOFC behaviours by artificial neural network,10.1016/j.ijhydene.2009.04.068
+13,13300,All rights reserved.,Modelling the SOFC behaviours by artificial neural network,10.1016/j.ijhydene.2009.04.068

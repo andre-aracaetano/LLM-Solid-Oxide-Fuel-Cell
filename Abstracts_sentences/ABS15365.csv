@@ -1,0 +1,15 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,15365,The integrated-planar solid oxide fuel cell (IP-SOFC) consists of ceramic modules which have electrochemical cells printed on the outer surfaces.,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018
+2,15365,The cathodes are the outermost layer of each cell and are supplied with oxygen from air flowing over the outside of each module.,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018
+3,15365,The anodes are in direct contact with the ceramic structure and are supplied with fuel from internal gas channels.,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018
+4,15365,An IP-SOFC power plant will contain many modules closely packed together in an array inside a pressure vessel.,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018
+5,15365,The air flow is also used to cool the modules.,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018
+6,15365,This paper describes a three-dimensional numerical method for simulating the air flow.,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018
+7,15365,It uses an explicit time-marching scheme that incorporates a preconditioning method to increase the rate of numerical convergence at low flow velocities.,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018
+8,15365,The numerical method is used to simulate the air flow through an array of IP-SOFC modules.,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018
+9,15365,The scheme is straightforward to implement and can predict the recirculating flows existing between the modules within an array.,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018
+10,15365,The calculation procedure is used to investigate the effect of different sized gaps between modules on the local heat and mass transfer coefficients.,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018
+11,15365,The results show the effect of the module arrangement on the flow field and how increasing the gap between modules improves the heat and mass transfer at the module surfaces.,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018
+12,15365,(c) 2005,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018
+13,15365,Elsevier Ltd.,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018
+14,15365,All rights reserved.,Numerical investigation of the air flow through a bundle of IP-SOFC modules,10.1016/j.ijheatmasstransfer.2005.06.018

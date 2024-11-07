@@ -1,0 +1,17 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,7234,A solid oxide fuel cell (SOFC) system consists of a fuel cell stack with its auxiliary components.,Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+2,7234,Modelling an entire SOFC system can be simplified by employing standard process flowsheeting software.,Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+3,7234,"However, no in-built SOFC module exists within any of the commercial flowsheet simulators.",Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+4,7234,In Amiri et al.,Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+5,7234,(Comput.,Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+6,7234,Chem.,Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+7,7234,"Eng., 2015, 78:10-23), a rigorous SOFC module was developed to fill this gap.",Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+8,7234,"That work outlined a multi-scale approach to SOFC modelling and presented analyses at compartment, channel and cell scales.",Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+9,7234,The current work extends the approach to stack and system scales.,Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+10,7234,"Two case studies were conducted on a simulated multilayer, planar SOFC stack with its balance of plant (BoP) components.",Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+11,7234,"Firstly, the effect of flow maldistribution in the stack manifold on the SOFC's internal variables was examined.",Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+12,7234,"Secondly, the interaction between the stack and the BoP was investigated through the effect of recycling depleted fuel.",Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+13,7234,"The results showed that anode gas recycling could be used for managing the gradients within the stack, while also improving fuel utilisation and water management.",Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+14,7234,"Copyright (C) 2015, Hydrogen Energy Publications, LLC.",Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+15,7234,Published by Elsevier Ltd.,Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076
+16,7234,All rights reserved.,Planar SOFC system modelling and simulation including a 3D stack module,10.1016/j.ijhydene.2015.12.076

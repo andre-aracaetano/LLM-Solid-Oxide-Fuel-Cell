@@ -1,0 +1,4 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,3049,This paper presents implementation of a model predictive controller (MPC) for an experimental solid oxide fuel cell (SOFC) system.,Experimental validation of model predictive control for solid oxide fuel cells,10.1016/j.jpowsour.2023.233271
+2,3049,The MPC controller is based on a gain-scheduled predictor with block-oriented structure that can capture important non-linear effects while still keeping the computational complexity low enough to meet real time control requirements.,Experimental validation of model predictive control for solid oxide fuel cells,10.1016/j.jpowsour.2023.233271
+3,3049,Experimental results show the MPC is able to regulate the SOFC cathode outlet temperature in the face of startup transients and input perturbations.,Experimental validation of model predictive control for solid oxide fuel cells,10.1016/j.jpowsour.2023.233271

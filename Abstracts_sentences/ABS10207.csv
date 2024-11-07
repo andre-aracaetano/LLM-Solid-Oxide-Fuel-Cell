@@ -1,0 +1,8 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,10207,"In this paper, the behavior of a grid-connected hybrid ac/dc microgrid has been investigated.",Adaptive Neural Network-Based Control of a Hybrid AC/DC Microgrid,10.1109/TSG.2016.2597006
+2,10207,Different renewable energy sources-photovoltaics modules and a wind turbine generator-have been considered together with a solid oxide fuel cell and a battery energy storage system.,Adaptive Neural Network-Based Control of a Hybrid AC/DC Microgrid,10.1109/TSG.2016.2597006
+3,10207,The main contribution of this paper is the design and the validation of an innovative online-trained artificial neural network-based control system for a hybrid microgrid.,Adaptive Neural Network-Based Control of a Hybrid AC/DC Microgrid,10.1109/TSG.2016.2597006
+4,10207,Adaptive neural networks are used to track the maximum power point of renewable energy generators and to control the power exchanged between the front-end converter and the electrical grid.,Adaptive Neural Network-Based Control of a Hybrid AC/DC Microgrid,10.1109/TSG.2016.2597006
+5,10207,"Moreover, a fuzzy logic-based power management system is proposed in order to minimize the energy purchased from the electrical grid.",Adaptive Neural Network-Based Control of a Hybrid AC/DC Microgrid,10.1109/TSG.2016.2597006
+6,10207,The operation of the hybrid microgrid has been tested in the MATLAB/Simulink environment under different operating conditions.,Adaptive Neural Network-Based Control of a Hybrid AC/DC Microgrid,10.1109/TSG.2016.2597006
+7,10207,"The obtained results demonstrate the effectiveness, the high robustness and the self-adaptation ability of the proposed control system.",Adaptive Neural Network-Based Control of a Hybrid AC/DC Microgrid,10.1109/TSG.2016.2597006

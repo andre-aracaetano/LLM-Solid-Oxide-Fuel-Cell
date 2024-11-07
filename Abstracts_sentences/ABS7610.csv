@@ -1,0 +1,13 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,7610,"This paper presents a review of state-of-the-art solid oxide fuel cell (SOFC), from perspective of dynamic modeling and model-based control.",Solid oxide fuel cell: Perspective of dynamic modeling and control,10.1016/j.jprocont.2011.06.017
+2,7610,"First, the historical and current status of SOFC development is overviewed.",Solid oxide fuel cell: Perspective of dynamic modeling and control,10.1016/j.jprocont.2011.06.017
+3,7610,Then the main components of the SOFC along with their governing transport equations are discussed.,Solid oxide fuel cell: Perspective of dynamic modeling and control,10.1016/j.jprocont.2011.06.017
+4,7610,These two sections provide fundamentals for understanding the SOFC.,Solid oxide fuel cell: Perspective of dynamic modeling and control,10.1016/j.jprocont.2011.06.017
+5,7610,"Following the sequence from power generation to energy losses within the SOFC, the section of dynamic modeling starts from an overview of energy generation, followed by discussion of energy losses and analysis of dynamics that affect energy generation and losses.",Solid oxide fuel cell: Perspective of dynamic modeling and control,10.1016/j.jprocont.2011.06.017
+6,7610,This section of dynamic modeling is concluded by considering the model validation problem and other related challenging issues from the modeling perspective.,Solid oxide fuel cell: Perspective of dynamic modeling and control,10.1016/j.jprocont.2011.06.017
+7,7610,"Once SOFC dynamics are understood, the paper continues its journey to the SOFC control problem.",Solid oxide fuel cell: Perspective of dynamic modeling and control,10.1016/j.jprocont.2011.06.017
+8,7610,"This section starts from a general description of control problems in SOFC, continued with an overview of the existing control strategies and followed by a sample nonlinear MPC solution.",Solid oxide fuel cell: Perspective of dynamic modeling and control,10.1016/j.jprocont.2011.06.017
+9,7610,The section is concluded by discussion of some of the challenges in SOFC control.,Solid oxide fuel cell: Perspective of dynamic modeling and control,10.1016/j.jprocont.2011.06.017
+10,7610,(C) 2011,Solid oxide fuel cell: Perspective of dynamic modeling and control,10.1016/j.jprocont.2011.06.017
+11,7610,Elsevier Ltd.,Solid oxide fuel cell: Perspective of dynamic modeling and control,10.1016/j.jprocont.2011.06.017
+12,7610,All rights reserved.,Solid oxide fuel cell: Perspective of dynamic modeling and control,10.1016/j.jprocont.2011.06.017

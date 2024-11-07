@@ -1,0 +1,6 @@
+ID,Artigo,Sentencas,Titulo,DOI
+1,5452,Model of the heat balance in an element of a solid oxide fuel cell (SOFC) a fragment of bipolar plate with the linear air channel) is developed.,Thermal waves in SOFC stacks,10.1149/1.2953579
+2,5452,Stability analysis of heat transport equations shows that stack operation is unstable with respect to small long-wave perturbations in temperature T. Expressions for the critical wave vector of dangerous disturbance and for the instability increment are derived.,Thermal waves in SOFC stacks,10.1149/1.2953579
+3,5452,"Physically, small perturbation of T increases local current; both these disturbances increase local rate of heat production, which gives further rise to T. This positive feedback loop is activated when perturbation occupies a significant fraction of channel length.",Thermal waves in SOFC stacks,10.1149/1.2953579
+4,5452,"Instability manifests itself as a slow temperature wave with growing amplitude, which moves along the direction of airflow.",Thermal waves in SOFC stacks,10.1149/1.2953579
+5,5452,The characteristic time of temperature growth in the wave is on the order of 10 min to 2 h. (C) 2008 The Electrochemical Society.,Thermal waves in SOFC stacks,10.1149/1.2953579
