@@ -1,9 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,2614,"Due to its modular, efficient and non-polluting characteristics, solid oxide fuel cell (SOFC) is promising to be widely utilised in the area of distributed generation.",Influence of solid oxide fuel cell on power system transient stability,10.1049/joe.2018.8511
-2,2614,"Previous studies mainly focused on dynamic modelling of SOFC to analyse its load following behaviour, however, the influence of SOFC on power system transient stability is not yet clear and needs further discussion.",Influence of solid oxide fuel cell on power system transient stability,10.1049/joe.2018.8511
-3,2614,"In this study, a system-level electromechanical transient mathematical model for SOFC is proposed, based on the circuit structure of SOFC, DC/DC step-up converter and DC/AC converter.",Influence of solid oxide fuel cell on power system transient stability,10.1049/joe.2018.8511
-4,2614,"Then, a double closed-loop control scheme is designed for the control of SOFC.",Influence of solid oxide fuel cell on power system transient stability,10.1049/joe.2018.8511
-5,2614,"Finally, the effect of SOFC on the power system's transient stability is discussed through simulations based on IEEE 3-machine 9-bus standard system.",Influence of solid oxide fuel cell on power system transient stability,10.1049/joe.2018.8511
-6,2614,"Results show that, under real and reactive power coordinated control strategy, cell current can be adjusted.",Influence of solid oxide fuel cell on power system transient stability,10.1049/joe.2018.8511
-7,2614,"Therefore, the output power of SOFC can be modulated to help with voltage recovery and power angle stability.",Influence of solid oxide fuel cell on power system transient stability,10.1049/joe.2018.8511
-8,2614,The authors' work reveals the feasibility of using SOFC to enhance power system transient stability.,Influence of solid oxide fuel cell on power system transient stability,10.1049/joe.2018.8511

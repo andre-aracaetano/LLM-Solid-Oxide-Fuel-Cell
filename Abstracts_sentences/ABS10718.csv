@@ -1,8 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,10718,A high performance multi-input multi-output feedback controller has been developed to minimize solid oxide fuel cell (SOFC) spatial temperature variation during load following.,Actuator Limitations in Spatial Temperature Control of SOFC,10.1115/1.4024253
-2,10718,Cathode flow rate and its inlet temperature are used to minimize spatial temperature variations in the SOFC electrode electrolyte assembly for significant load perturbations.,Actuator Limitations in Spatial Temperature Control of SOFC,10.1115/1.4024253
-3,10718,We focus on control design in the presence of nonideal actuation.,Actuator Limitations in Spatial Temperature Control of SOFC,10.1115/1.4024253
-4,10718,"This includes the effects of fuel processing delays, cathode inlet thermal delays, and parasitic power associated with the blower supplying air to the cathode.",Actuator Limitations in Spatial Temperature Control of SOFC,10.1115/1.4024253
-5,10718,"The controller, based on energy-to-peak minimization synthesis, is applied to a dynamic model of an anode-supported coflow planar SOFC stack.",Actuator Limitations in Spatial Temperature Control of SOFC,10.1115/1.4024253
-6,10718,"The results indicate that many of the problems associated with realistic and imperfect actuation can be addressed with relatively standard control synthesis modifications, but fuel flow delays can compromise power following significantly.",Actuator Limitations in Spatial Temperature Control of SOFC,10.1115/1.4024253
-7,10718,"Finally, a strategy that relies primarily on partial internal reformation for power following addresses many of the difficulties associated with reformer delays.",Actuator Limitations in Spatial Temperature Control of SOFC,10.1115/1.4024253

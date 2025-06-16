@@ -1,5 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,7532,"Excessive use of fuel or being underutilized will make the actual performance of solid oxide fuel cells (SOFCs) affected by a lot, and at the same time, in order to meet the demands of DC load voltage, a controller of the SOFC that is subjected to small varying loads is proposed on the basis of H-infinity control theory.",Survey on H∞ Robust Control of the Solid Oxide Fuel Cell,10.1155/2021/6693971
-2,7532,"For the controller design, a state-space representation of the SOFC by using small-signal linearization is derived.",Survey on H∞ Robust Control of the Solid Oxide Fuel Cell,10.1155/2021/6693971
-3,7532,"To evaluate the control performance, the presented H-infinity controller is tested on the SOFC stack with various load disturbances.",Survey on H∞ Robust Control of the Solid Oxide Fuel Cell,10.1155/2021/6693971
-4,7532,The results show that the obtained H-infinity controller can mitigate the voltage oscillations and deviations and can keep fuel utilization constant at varying loads.,Survey on H∞ Robust Control of the Solid Oxide Fuel Cell,10.1155/2021/6693971

@@ -1,9 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,10360,A simulation package for the impedance response of SOFC anodes is presented here.,Electrochemical Impedance Modeling of a Solid Oxide Fuel Cell Anode,10.1002/fuce.201300292
-2,10360,The model couples the gas transport in gas channels and within a porous electrode with the electrochemical kinetics.,Electrochemical Impedance Modeling of a Solid Oxide Fuel Cell Anode,10.1002/fuce.201300292
-3,10360,The gas phase mass transport is modeled using mass conservation equations.,Electrochemical Impedance Modeling of a Solid Oxide Fuel Cell Anode,10.1002/fuce.201300292
-4,10360,"A transmission line model (TLM), which is suitably modified to account for the electrode microstructural details, is used for modeling the impedance arising from the electrochemical reactions.",Electrochemical Impedance Modeling of a Solid Oxide Fuel Cell Anode,10.1002/fuce.201300292
-5,10360,"In order to solve the system of nonlinear equations, an in-house code based on the finite difference method was developed.",Electrochemical Impedance Modeling of a Solid Oxide Fuel Cell Anode,10.1002/fuce.201300292
-6,10360,Some of the model constants have been calibrated against experimental data.,Electrochemical Impedance Modeling of a Solid Oxide Fuel Cell Anode,10.1002/fuce.201300292
-7,10360,It is demonstrated that the simulation tool is capable of predicting the impedance response of an experimental data set obtained on symmetrical cells with Ni/ScYSZ SOFC anodes.,Electrochemical Impedance Modeling of a Solid Oxide Fuel Cell Anode,10.1002/fuce.201300292
-8,10360,A parametric study is also carried out using the developed simulation tool and the results are further discussed.,Electrochemical Impedance Modeling of a Solid Oxide Fuel Cell Anode,10.1002/fuce.201300292

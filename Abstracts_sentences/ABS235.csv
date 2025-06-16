@@ -1,9 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,235,"A lumped, non-linear control-oriented dynamic model for the solid oxide fuel cell has been developed.",Development of a control-oriented model for the solid oxide fuel cell,10.1016/j.jpowsour.2006.01.024
-2,235,The exponential decay function and the exponential associate function are introduced to fit the distribution characteristics of fuel cell state variables in the flow direction of the gases in order to account for the effect of spatial variation of fuel cell parameters in the dynamic model.,Development of a control-oriented model for the solid oxide fuel cell,10.1016/j.jpowsour.2006.01.024
-3,235,"It is integrated into the dynamic model by three characteristic parameters of the fitting function, which are determined via numerical simulations.",Development of a control-oriented model for the solid oxide fuel cell,10.1016/j.jpowsour.2006.01.024
-4,235,A planar solid oxide fuel cell with co-flow has been used to evaluate the accuracy and applicability of the current dynamic model.,Development of a control-oriented model for the solid oxide fuel cell,10.1016/j.jpowsour.2006.01.024
-5,235,The dynamic model is programmed and implemented using the SIMULINK software.,Development of a control-oriented model for the solid oxide fuel cell,10.1016/j.jpowsour.2006.01.024
-6,235,The simulation results indicate the model has good service quality to predict the state variables and the performance of the solid oxide fuel cell.,Development of a control-oriented model for the solid oxide fuel cell,10.1016/j.jpowsour.2006.01.024
-7,235,(c) 2006,Development of a control-oriented model for the solid oxide fuel cell,10.1016/j.jpowsour.2006.01.024
-8,235,Elsevier B.V. All rights reserved.,Development of a control-oriented model for the solid oxide fuel cell,10.1016/j.jpowsour.2006.01.024

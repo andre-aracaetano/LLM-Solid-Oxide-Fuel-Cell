@@ -1,9 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,10885,"In this paper, a detailed model of a solid oxide fuel cell (SOFC) tube is presented.",One-dimensional model of a tubular solid oxide fuel cell,10.1115/1.2784296
-2,10885,The SOFC tube is discretized along its longitudinal axis.,One-dimensional model of a tubular solid oxide fuel cell,10.1115/1.2784296
-3,10885,Detailed models of the kinetics of the shift and reforming reactions are introduced in order to evaluate their rates along the SOFC axis.,One-dimensional model of a tubular solid oxide fuel cell,10.1115/1.2784296
-4,10885,"Energy, moles, and mass balances are performed for each slice of the components under investigation, allowing the calculation of temperature profiles.",One-dimensional model of a tubular solid oxide fuel cell,10.1115/1.2784296
-5,10885,Friction factors and heat-exchange coefficients are calculated by means of experimental correlations.,One-dimensional model of a tubular solid oxide fuel cell,10.1115/1.2784296
-6,10885,"As for the SOFC overvoltages, the activation overvoltage is calculated using the Butler-Volmer equation and semiempirical correlations for the exchange current density, Ohmic losses are evaluated introducing an appropriate electrical scheme and material resistivities, and concentration overvoltage is calculated by means of both binary and Knudsen diffusion coefficients.",One-dimensional model of a tubular solid oxide fuel cell,10.1115/1.2784296
-7,10885,"On the basis of this model, a case study is presented and discussed, in which temperatures, pressures, chemical compositions, and electrical parameters are evaluated for each slice of the SOFC tube under investigation.",One-dimensional model of a tubular solid oxide fuel cell,10.1115/1.2784296
-8,10885,"Finally, a sensitivity analysis is performed, in order to investigate the influence of the design parameters on the performance of the system.",One-dimensional model of a tubular solid oxide fuel cell,10.1115/1.2784296

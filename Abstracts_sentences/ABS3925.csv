@@ -1,9 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,3925,This paper presents a multi-scale model of a solid oxide fuel cell (SOFC) stack consisting of five anode-supported cells.,A validated multi-scale model of a SOFC stack at elevated pressure,10.1002/fuce.201300076
-2,3925,A two-dimensional isothermal elementary kinetic model is used to calculate the performance of single cells.,A validated multi-scale model of a SOFC stack at elevated pressure,10.1002/fuce.201300076
-3,3925,Several of these models are thermally coupled to form the stack model.,A validated multi-scale model of a SOFC stack at elevated pressure,10.1002/fuce.201300076
-4,3925,Simulations can be carried out at steady-state as well as dynamic operation.,A validated multi-scale model of a SOFC stack at elevated pressure,10.1002/fuce.201300076
-5,3925,"The model is validated over a wide range of operating conditions including variation of temperature, gas composition (both on anode and cathode side), and pressure.",A validated multi-scale model of a SOFC stack at elevated pressure,10.1002/fuce.201300076
-6,3925,Validation is carried out using polarization curves and impedance spectra.,A validated multi-scale model of a SOFC stack at elevated pressure,10.1002/fuce.201300076
-7,3925,The model is then used to explain the pressure-induced performance increase measured at constant fuel utilization of 40%.,A validated multi-scale model of a SOFC stack at elevated pressure,10.1002/fuce.201300076
-8,3925,Results show that activation and concentration overpotentials are reduced with increasing pressure.,A validated multi-scale model of a SOFC stack at elevated pressure,10.1002/fuce.201300076

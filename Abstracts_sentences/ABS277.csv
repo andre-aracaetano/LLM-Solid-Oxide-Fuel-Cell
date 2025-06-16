@@ -1,7 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,277,This paper presents a new model of fuel cells for two different modes of operation: constant fuel utilization control (constant stoichiometry condition) and constant fuel flow control (constant flow rate condition).,A New Model for Constant Fuel Utilization and Constant Fuel Flow in Fuel Cells,10.3390/app9061066
-2,277,The model solves the long-standing problem of mixing reversible and irreversible potentials (equilibrium and non-equilibrium states) in the Nernst voltage expression.,A New Model for Constant Fuel Utilization and Constant Fuel Flow in Fuel Cells,10.3390/app9061066
-3,277,"Specifically, a Nernstian gain term is introduced for the constant fuel utilization condition, and it is shown that the Nernstian gain is an irreversibility in the computation of the output voltage of the fuel cell.",A New Model for Constant Fuel Utilization and Constant Fuel Flow in Fuel Cells,10.3390/app9061066
-4,277,A Nernstian loss term accounts for an irreversibility for the constant fuel flow operation.,A New Model for Constant Fuel Utilization and Constant Fuel Flow in Fuel Cells,10.3390/app9061066
-5,277,Simulation results are presented.,A New Model for Constant Fuel Utilization and Constant Fuel Flow in Fuel Cells,10.3390/app9061066
-6,277,The model has been validated against experimental data from the literature.,A New Model for Constant Fuel Utilization and Constant Fuel Flow in Fuel Cells,10.3390/app9061066

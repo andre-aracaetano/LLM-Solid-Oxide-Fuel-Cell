@@ -1,8 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,5197,Environmental concerns and limited availability of natural resources have made solid oxide fuel cells (SOFC) a promising alternative for large-scale electricity production.,Decentralized Control of Solid Oxide Fuel Cells,10.1109/TII.2010.2097601
-2,5197,A control system is needed for SOFCs to meet operational objectives and ensure safe operation.,Decentralized Control of Solid Oxide Fuel Cells,10.1109/TII.2010.2097601
-3,5197,"Previous studies showed that the control of SOFC is challenging due to its slow response time, tight operating constraints and unavailability of some key measurements.",Decentralized Control of Solid Oxide Fuel Cells,10.1109/TII.2010.2097601
-4,5197,"In this work, simple yet reliable decentralized proportional-integral-derivative (PID) controllers are systematically designed based on a benchmark nonlinear dynamic model of SOFC [1].",Decentralized Control of Solid Oxide Fuel Cells,10.1109/TII.2010.2097601
-5,5197,"The design procedure involves selection of controlled variables (CVs), input-output pairing selection, and PID controller tuning.",Decentralized Control of Solid Oxide Fuel Cells,10.1109/TII.2010.2097601
-6,5197,"For CV selection, a novel method is proposed such that maintaining the CVs at constant setpoints facilitates constraint satisfaction for all key variables.",Decentralized Control of Solid Oxide Fuel Cells,10.1109/TII.2010.2097601
-7,5197,Closed-loop simulations demonstrate that the proposed decentralized PI controllers are able to closely meet the control objectives of SOFC even in the presence of changing operating conditions.,Decentralized Control of Solid Oxide Fuel Cells,10.1109/TII.2010.2097601

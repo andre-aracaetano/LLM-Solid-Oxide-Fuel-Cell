@@ -1,7 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,2100,"Fuel cells belong to an avant-garde technology family for a wide variety of applications including micro-power, transportation power, stationary power for buildings and other distributed generation applications.",Model Reduction of a Solid Oxide Fuel Cell (SOFC) for Control Purposes,
-2,2100,The first objective of this contribution is to find a suitable reduced model of a Solid Oxide Fuel Cell (SOFC).,Model Reduction of a Solid Oxide Fuel Cell (SOFC) for Control Purposes,
-3,2100,The derived reduced model is then used to design a state estimator.,Model Reduction of a Solid Oxide Fuel Cell (SOFC) for Control Purposes,
-4,2100,"In the first step, the distributed model of the SOFC that is derived using the first principle balance equations is solved by the method of lines.",Model Reduction of a Solid Oxide Fuel Cell (SOFC) for Control Purposes,
-5,2100,"Since this model is too complex and sluggish for real-time applications, a representation of this model with lower number of states and good accuracy is needed.",Model Reduction of a Solid Oxide Fuel Cell (SOFC) for Control Purposes,
-6,2100,Karhunen-Loeve-Galerkin (KLG) procedure is used to develop such a reduced model.,Model Reduction of a Solid Oxide Fuel Cell (SOFC) for Control Purposes,

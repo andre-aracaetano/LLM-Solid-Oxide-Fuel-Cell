@@ -1,6 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,965,A simulation model was developed to analyze the steady state and transient operation of a tubular solid oxide fuel cell.,Evaluation and model of performance of a tubular solid oxide fuel cell,
-2,965,The model covers both the electrochemical and the heat transfer models..,Evaluation and model of performance of a tubular solid oxide fuel cell,
-3,965,"The electrochemical model deals with the Nernst potential, ohmic polarization, activation polarization, and concentration polarization, while the heat transfer model concerns the heat transfer by conduction, convection and radiation.",Evaluation and model of performance of a tubular solid oxide fuel cell,
-4,965,"The numerical, results show that the ohmic loss is the dominant one among the three polarizations in a cathode-supported solid oxide fuel cell and in the middle part of a solid oxide fuel cell the temperature is higher than those at both the ends.",Evaluation and model of performance of a tubular solid oxide fuel cell,
-5,965,"When the inlet temperature and the flow rates of the fuel and the oxidant are kept constantly, the temperature of the solid structure of the cell will increase due to the increase of power output of the cell from the initial state to the new one.",Evaluation and model of performance of a tubular solid oxide fuel cell,

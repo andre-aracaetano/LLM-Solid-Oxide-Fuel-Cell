@@ -1,9 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,9040,"In this study, a modeling framework for heat and mass transport is established for a unit monolith type SOFC, with emphasis on quantifying the radiation heat transfer effects.",Radiation heat transfer analysis of the monolith type solid oxide fuel cell,10.1016/S0378-7753(03)00732-8
-2,9040,"The Schuster-Schwartzchild two-flux approximation is used for treating thermal radiation transport in the optically thin yttria-stabilized-zirconia (YSZ) electrolyte, and the Rosseland radiative thermal conductivity is used to account for radiation effects in the optically thick Ni-YSZ and LSM electrodes.",Radiation heat transfer analysis of the monolith type solid oxide fuel cell,10.1016/S0378-7753(03)00732-8
-3,9040,The thermal radiation heat transfer is coupled to the overall energy conservation equations through the divergence of the local radiative flux.,Radiation heat transfer analysis of the monolith type solid oxide fuel cell,10.1016/S0378-7753(03)00732-8
-4,9040,Commercially available FLUENT(TM),Radiation heat transfer analysis of the monolith type solid oxide fuel cell,10.1016/S0378-7753(03)00732-8
-5,9040,CFD software was used as a platform for the global thermal-fluid modeling of the SOFC and the radiation models were implemented through the user-defined functions.,Radiation heat transfer analysis of the monolith type solid oxide fuel cell,10.1016/S0378-7753(03)00732-8
-6,9040,Results from sample calculations show significant changes in the operating temperatures and parameters of the SOFC with the inclusion of radiation effects.,Radiation heat transfer analysis of the monolith type solid oxide fuel cell,10.1016/S0378-7753(03)00732-8
-7,9040,(C) 2003,Radiation heat transfer analysis of the monolith type solid oxide fuel cell,10.1016/S0378-7753(03)00732-8
-8,9040,Elsevier B.V. All rights reserved.,Radiation heat transfer analysis of the monolith type solid oxide fuel cell,10.1016/S0378-7753(03)00732-8

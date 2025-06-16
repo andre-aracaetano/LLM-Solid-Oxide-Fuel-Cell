@@ -1,9 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,368,This paper describes a concept of a distribution system that has enough generation to track its load without the help of a substation.,Impact of fuel cells on load-frequency control in power distribution systems,10.1109/TEC.2005.847962
-2,368,"Specifically, it addresses the presence of solid-oxide fuel cells in the distributed generation mix.",Impact of fuel cells on load-frequency control in power distribution systems,10.1109/TEC.2005.847962
-3,368,Two control loops are proposed 1) to guarantee that the fuel cell is protected by maintaining its cell utilization within its admissible range and 2) to track load changes and regulate the frequency.,Impact of fuel cells on load-frequency control in power distribution systems,10.1109/TEC.2005.847962
-4,368,The two respective loops are called primary and secondary loops.,Impact of fuel cells on load-frequency control in power distribution systems,10.1109/TEC.2005.847962
-5,368,"The primary loop maintains constant the ratio of stack current to input fuel flow, and the secondary loop tracks the load and regulates the frequency.",Impact of fuel cells on load-frequency control in power distribution systems,10.1109/TEC.2005.847962
-6,368,A distribution area error (DSE) is introduced to formulate the frequency-control problem.,Impact of fuel cells on load-frequency control in power distribution systems,10.1109/TEC.2005.847962
-7,368,The secondary loop feeds back this DSE signal.,Impact of fuel cells on load-frequency control in power distribution systems,10.1109/TEC.2005.847962
-8,368,Tuning of the parameters is performed using genetic algorithms.,Impact of fuel cells on load-frequency control in power distribution systems,10.1109/TEC.2005.847962

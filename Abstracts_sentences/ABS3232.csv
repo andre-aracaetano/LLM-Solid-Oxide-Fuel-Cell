@@ -1,6 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,3232,"In this paper, we develop two computational models,for the electrical performance of the tubular solid oxide fuel cell designed by Siemens Westinghouse Corporation.",Modeling the performance of a tubular solid oxide fuel cell,10.1115/1.1842781
-2,3232,The first model makes simplifying assumptions for activation and concentration polarizations and obtains an analytical solution.,Modeling the performance of a tubular solid oxide fuel cell,10.1115/1.1842781
-3,3232,"In the second procedure, we allow the polarizations to vary with the current density and solve the equations numerically.",Modeling the performance of a tubular solid oxide fuel cell,10.1115/1.1842781
-4,3232,The results of the two methods are in good agreement with the experimentally quoted performance results.,Modeling the performance of a tubular solid oxide fuel cell,10.1115/1.1842781
-5,3232,"Thus, the relatively simple analytical procedure can be used to predict the performance of the cell as a function of cell dimensions.",Modeling the performance of a tubular solid oxide fuel cell,10.1115/1.1842781

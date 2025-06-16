@@ -1,4 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,34,The effect of a short circuit fault and a voltage sag fault on a distributed grid-connected solid oxide fuel cell (SOFC) is investigated in this paper.,Analysis of a Distributed Grid-Connected Fuel Cell During Fault Conditions,10.1109/TPWRS.2009.2036776
-2,34,The fuel cell is modeled in Simulink and the performance is verified against experimental load testing data.,Analysis of a Distributed Grid-Connected Fuel Cell During Fault Conditions,10.1109/TPWRS.2009.2036776
-3,34,"Grid faults are simulated, and conclusions are drawn on the fuel cell response and the effects of the fault condition on internal fuel cell parameters.",Analysis of a Distributed Grid-Connected Fuel Cell During Fault Conditions,10.1109/TPWRS.2009.2036776

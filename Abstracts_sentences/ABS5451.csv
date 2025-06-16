@@ -1,8 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,5451,A first principle one-dimensional (1-D) dynamic model for tubular solid oxide fuel cell (SOFC) is developed.,1-D dynamic modeling of SOFC with analytical solution for reacting gas-flow problem,10.1002/aic.11433
-2,5451,"To convert the distributed model into a control relevant nonlinear state space model, an approximate analytical solution for reacting gas-flow problem is proposed, and applied to the 1-D SOFC dynamic model.",1-D dynamic modeling of SOFC with analytical solution for reacting gas-flow problem,10.1002/aic.11433
-3,5451,"Compared to numerical solutions, the proposed solution can significantly reduce requirements in computation, and thus, facilitate dynamic simulations and control applications.",1-D dynamic modeling of SOFC with analytical solution for reacting gas-flow problem,10.1002/aic.11433
-4,5451,Distributed dynamic relations between current density and electromotive force (EMF) are investigated.,1-D dynamic modeling of SOFC with analytical solution for reacting gas-flow problem,10.1002/aic.11433
-5,5451,"Diffusion, inherent impedance, primary flow, heat transfer, and internal reforming/shifting reaction are considered simultaneously.",1-D dynamic modeling of SOFC with analytical solution for reacting gas-flow problem,10.1002/aic.11433
-6,5451,"Dynamic responses of the interested variables when external current, fuel and air inlet streams are perturbed by step changes are investigated through simulations.",1-D dynamic modeling of SOFC with analytical solution for reacting gas-flow problem,10.1002/aic.11433
-7,5451,(C) 2008 American Institute of Chemical Engineers.,1-D dynamic modeling of SOFC with analytical solution for reacting gas-flow problem,10.1002/aic.11433

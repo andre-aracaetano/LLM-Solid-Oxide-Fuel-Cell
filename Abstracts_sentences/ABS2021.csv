@@ -1,6 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,2021,"The operating temperature of a solid oxide fuel cell (SOFC) stack is a very important parameter to be controlled, which impacts the performance of the SOFC due to thermal cycling.",SOFC temperature evaluation based on an adaptive fuzzy controller,10.1631/jzus.A071569
-2,2021,"In this paper, an adaptive fuzzy control method based on an affine nonlinear temperature model is developed to control the temperature of the SOFC within a specified range.",SOFC temperature evaluation based on an adaptive fuzzy controller,10.1631/jzus.A071569
-3,2021,Fuzzy logic systems are used to approximate nonlinear functions in the SOFC system and an adaptive technique is employed to construct the controller.,SOFC temperature evaluation based on an adaptive fuzzy controller,10.1631/jzus.A071569
-4,2021,"Compared with the traditional fuzzy and proportion-integral-derivative (PID) control, the simulation results show that the designed adaptive fuzzy control method performed much better.",SOFC temperature evaluation based on an adaptive fuzzy controller,10.1631/jzus.A071569
-5,2021,So it is feasible to build an adaptive fuzzy controller for temperature control of the SOFC.,SOFC temperature evaluation based on an adaptive fuzzy controller,10.1631/jzus.A071569

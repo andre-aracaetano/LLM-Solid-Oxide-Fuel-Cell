@@ -1,8 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,498,Mitigating fuel starvation and improving load-following capability of solid oxide fuel cells (SOFC) are conflicting control objectives.,Robust Control of Solid Oxide Fuel Cell Ultracapacitor Hybrid System,10.1109/TCST.2010.2098478
-2,498,"In this paper, we address this issue using a hybrid SOFC ultracapacitor configuration.",Robust Control of Solid Oxide Fuel Cell Ultracapacitor Hybrid System,10.1109/TCST.2010.2098478
-3,498,"Fuel starvation is prevented by regulating the fuel cell current using a steady-state invariant relationship involving fuel utilization, fuel flow, and current.",Robust Control of Solid Oxide Fuel Cell Ultracapacitor Hybrid System,10.1109/TCST.2010.2098478
-4,498,Two comprehensive control strategies are developed.,Robust Control of Solid Oxide Fuel Cell Ultracapacitor Hybrid System,10.1109/TCST.2010.2098478
-5,498,The first is a Lyapunov-based nonlinear control and the second is a standard H infinity robust control.,Robust Control of Solid Oxide Fuel Cell Ultracapacitor Hybrid System,10.1109/TCST.2010.2098478
-6,498,Both strategies additionally control the state of charge of the ultracapacitor that provides transient power compensation.,Robust Control of Solid Oxide Fuel Cell Ultracapacitor Hybrid System,10.1109/TCST.2010.2098478
-7,498,A hardware-in-the-loop test stand is developed where the proposed control strategies are verified.,Robust Control of Solid Oxide Fuel Cell Ultracapacitor Hybrid System,10.1109/TCST.2010.2098478

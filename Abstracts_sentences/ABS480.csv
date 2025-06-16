@@ -1,7 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,480,This paper describes the development of a computer model for simulating the transient operation of a tubular solid oxide fuel cell(SOFC).,Transient modeling and simulation of a tubular solid oxide fuel cell,10.1109/60.790946
-2,480,"The model includes the electrochemical, thermal, and mass flow elements th;lt affect SOFC electrical output.",Transient modeling and simulation of a tubular solid oxide fuel cell,10.1109/60.790946
-3,480,The electrochemical and thermal parts of the model were developed and verified separately before they were combined to form the transient model.,Transient modeling and simulation of a tubular solid oxide fuel cell,10.1109/60.790946
-4,480,The results of model verification tests are presented.,Transient modeling and simulation of a tubular solid oxide fuel cell,10.1109/60.790946
-5,480,Transient simulations were conducted with constant reactant flows and constant inlet temperatures.,Transient modeling and simulation of a tubular solid oxide fuel cell,10.1109/60.790946
-6,480,The transient electrical response of the cell to a load change is described.,Transient modeling and simulation of a tubular solid oxide fuel cell,10.1109/60.790946

@@ -1,6 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,2851,"In this work a three-dimensional model of a solid oxide fuel cell (SOFC) has been developed and is used to predict the temperature, concentration distribution and velocity profile across the cell.",A computational fluid dynamics model of a solid oxide fuel cell,10.1243/095765005X7583
-2,2851,This model employs Users' Subroutines in a commercial computational fluid dynamics (CFD) code to simulate the electrochemical reactions.,A computational fluid dynamics model of a solid oxide fuel cell,10.1243/095765005X7583
-3,2851,The results show both fuel concentration and current density decreasing along the flow direction.,A computational fluid dynamics model of a solid oxide fuel cell,10.1243/095765005X7583
-4,2851,The temperature differences are significant with the hottest point located in middle of the active area.,A computational fluid dynamics model of a solid oxide fuel cell,10.1243/095765005X7583
-5,2851,"Increasing the operating temperature is shown to reduce the effect of polarization that hampers the cell performance, although other issues such as thermal stresses and reduced material choices are more significant.",A computational fluid dynamics model of a solid oxide fuel cell,10.1243/095765005X7583

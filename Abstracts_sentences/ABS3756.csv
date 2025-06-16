@@ -1,4 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,3756,Fault detection and identification are new and challenging tasks for electrical generation plants that are based on solid oxide fuel cells.,Fault diagnosis in fuel cell systems using quantitative models and support vector machines,10.1049/el.2014.0565
-2,3756,The use of a quantitative model of the plant together with a support vector machine to design and operate a supervised classification system is proposed.,Fault diagnosis in fuel cell systems using quantitative models and support vector machines,10.1049/el.2014.0565
-3,3756,"This type of system, which uses a few easy-to-measure features selected through the maximisation of a classification error bound, proved to be effective in revealing a faulty condition and identifying it among the four considered fault classes.",Fault diagnosis in fuel cell systems using quantitative models and support vector machines,10.1049/el.2014.0565

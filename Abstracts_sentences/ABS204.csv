@@ -1,8 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,204,This paper discusses the modeling of a solid oxide fuel cell using both lumped and distributed modeling approaches.,Solid Oxide Fuel Cell Modeling,10.1109/TIE.2008.2009516
-2,204,"In particular, the focus of this paper is on the development of a computationally efficient lumped-parameter model for real-time emulation and control.",Solid Oxide Fuel Cell Modeling,10.1109/TIE.2008.2009516
-3,204,The performance of this model is compared with a detailed distributed model and experimental results.,Solid Oxide Fuel Cell Modeling,10.1109/TIE.2008.2009516
-4,204,The fundamental relations that govern a fuel cell operation are utilized in both approaches.,Solid Oxide Fuel Cell Modeling,10.1109/TIE.2008.2009516
-5,204,"However, the partial pressure of the species (fuel, air, and water) in the distributed model is assumed to vary through the length of the fuel cell.",Solid Oxide Fuel Cell Modeling,10.1109/TIE.2008.2009516
-6,204,The lumped model approach uses the partial pressure of the species at the exit point of the fuel cell.,Solid Oxide Fuel Cell Modeling,10.1109/TIE.2008.2009516
-7,204,The partial pressure of the species is represented by an equivalent RC circuit in the lumped model.,Solid Oxide Fuel Cell Modeling,10.1109/TIE.2008.2009516

@@ -1,6 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,1839,"In the present work, the ohmic resistance of an integrated planar-SOFC (IP-SOFC) has been evaluated by developing a model whose equations have been solved numerically through an FEM method.",FEM model of the ohmic resistance of IP-SOFCs,10.1007/s10800-008-9526-2
-2,1839,The model allows to estimate the distribution of voltage and current density in the cell.,FEM model of the ohmic resistance of IP-SOFCs,10.1007/s10800-008-9526-2
-3,1839,"A comparison between simulated and experimental data of area specific resistance is reported, which shows satisfactory agreement.",FEM model of the ohmic resistance of IP-SOFCs,10.1007/s10800-008-9526-2
-4,1839,The mathematical model has also been used to carry out some parametric studies for optimisation purposes.,FEM model of the ohmic resistance of IP-SOFCs,10.1007/s10800-008-9526-2
-5,1839,"Indeed, a reduction in cell pitch length and an increase in electrode thickness are predicted to lead to a reduction in ohmic losses in IP-SOFCs.",FEM model of the ohmic resistance of IP-SOFCs,10.1007/s10800-008-9526-2

@@ -1,9 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,10673,"The objective of this work is to find precise reduced-order discrete-time models of a solid oxide fuel cell, which is a multiple-input multiple-output dynamic process.",Towards Reduced-Order Models of Solid Oxide Fuel Cell,10.1155/2018/6021249
-2,10673,"At first, the full-order discrete-time model is found from the continuous-time first-principle description.",Towards Reduced-Order Models of Solid Oxide Fuel Cell,10.1155/2018/6021249
-3,10673,"Next, the discrete-time submodels of hydrogen, oxygen, and water pressures (intermediate variables) are reduced.",Towards Reduced-Order Models of Solid Oxide Fuel Cell,10.1155/2018/6021249
-4,10673,Two model reduction methods based on observability and controllability Grammians are compared: the state truncation method and reduction by residualisation.,Towards Reduced-Order Models of Solid Oxide Fuel Cell,10.1155/2018/6021249
-5,10673,"In all comparisons, the second method gives better results in terms of dynamic and steady-state errors as well as Nyquist plots.",Towards Reduced-Order Models of Solid Oxide Fuel Cell,10.1155/2018/6021249
-6,10673,"Next, the influence of the order of the pressure models on the errors of the process outputs (the voltage and the pressure difference) is studied.",Towards Reduced-Order Models of Solid Oxide Fuel Cell,10.1155/2018/6021249
-7,10673,It is found that the number of pressure model parameters may be reduced from 25 to 19 without any deterioration of model accuracy.,Towards Reduced-Order Models of Solid Oxide Fuel Cell,10.1155/2018/6021249
-8,10673,"Two suboptimal reduced models are also discussed with only 14 and 11 pressure parameters, which give dynamic trajectories and steady-state characteristics that are very similar to those obtained from the full-order structure.",Towards Reduced-Order Models of Solid Oxide Fuel Cell,10.1155/2018/6021249

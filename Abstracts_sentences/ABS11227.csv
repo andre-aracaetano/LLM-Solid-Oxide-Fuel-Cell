@@ -1,9 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,11227,"In this paper, a nonlinear offline model of the solid oxide fuel cell (SOFC) is built by using a radial basis function (RBF) neural network based on a genetic algorithm (GA).",Modeling a SOFC stack based on GA-RBF neural networks identification,10.1016/j.jpowsour.2007.01.086
-2,11227,"During the process of modeling, the GA aims to optimize the parameters of RBF neural networks and the optimum values are regarded as the initial values of the RBF neural network parameters.",Modeling a SOFC stack based on GA-RBF neural networks identification,10.1016/j.jpowsour.2007.01.086
-3,11227,"Furthermore, we utilize the gradient descent learning algorithm to adjust the parameters.",Modeling a SOFC stack based on GA-RBF neural networks identification,10.1016/j.jpowsour.2007.01.086
-4,11227,The validity and accuracy of modeling are tested by simulations.,Modeling a SOFC stack based on GA-RBF neural networks identification,10.1016/j.jpowsour.2007.01.086
-5,11227,"Besides, compared with the BP neural network approach, the simulation results show that the GA-RBF approach is superior to the conventional BP neural network in predicting the stack voltage with different temperature.",Modeling a SOFC stack based on GA-RBF neural networks identification,10.1016/j.jpowsour.2007.01.086
-6,11227,So it is feasible to establish the model of SOFC stack by using RBF neural networks identification based on the GA.,Modeling a SOFC stack based on GA-RBF neural networks identification,10.1016/j.jpowsour.2007.01.086
-7,11227,(C) 2007,Modeling a SOFC stack based on GA-RBF neural networks identification,10.1016/j.jpowsour.2007.01.086
-8,11227,Elsevier B.V. All rights reserved.,Modeling a SOFC stack based on GA-RBF neural networks identification,10.1016/j.jpowsour.2007.01.086

@@ -1,6 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,3928,This paper presents an application of iterative learning control (ILC) technique to the voltage control of solid oxide fuel cell (SOFC) stack.,Iterative learning control of SOFC based on ARX identification model,10.1631/jzus.2007.A1921
-2,3928,"To meet the demands of the control system design, an autoregressive model with exogenous input (ARX) is established.",Iterative learning control of SOFC based on ARX identification model,10.1631/jzus.2007.A1921
-3,3928,"Firstly, by regulating the variation of the hydrogen flow rate proportional to that of the current, the fuel utilization of the SOFC is kept within its admissible range.",Iterative learning control of SOFC based on ARX identification model,10.1631/jzus.2007.A1921
-4,3928,"Then, based on the ARX model, three kinds of ILC controllers, i.e. P-, PI-and PD-type are designed to keep the voltage at a desired level.",Iterative learning control of SOFC based on ARX identification model,10.1631/jzus.2007.A1921
-5,3928,"Simulation results demonstrate the potential of the ARX model applied to the control of the SOFC, and prove the excellence of the ILC controllers for the voltage control of the SOFC.",Iterative learning control of SOFC based on ARX identification model,10.1631/jzus.2007.A1921

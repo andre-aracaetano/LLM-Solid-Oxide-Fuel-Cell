@@ -1,7 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,7967,The solid oxide fuel cell shows great potential as an efficient energy conversion system for use in central power stations.,A MATHEMATICAL-MODEL OF A TUBULAR SOLID OXIDE FUEL-CELL,10.1115/1.2835319
-2,7967,These cells can reform most hydrocarbon fuels with air to produce electricity and provide a heat source at 1000 degrees C while maintaining an efficiency of 60-75 percent.,A MATHEMATICAL-MODEL OF A TUBULAR SOLID OXIDE FUEL-CELL,10.1115/1.2835319
-3,7967,"This paper describes a steady-state model for the prediction of voltage, current, and power from a single-cell tube.",A MATHEMATICAL-MODEL OF A TUBULAR SOLID OXIDE FUEL-CELL,10.1115/1.2835319
-4,7967,"The model is a distributed parameter electrical network that includes the effects of mass transfer resistance (concentration polarization), chemical kinetic resistance (activation polarization), as well as relevant electrical resistances (ohmic losses).",A MATHEMATICAL-MODEL OF A TUBULAR SOLID OXIDE FUEL-CELL,10.1115/1.2835319
-5,7967,A finite-difference heat transfer model is also incorporated to allow for radial and axial temperature variations.,A MATHEMATICAL-MODEL OF A TUBULAR SOLID OXIDE FUEL-CELL,10.1115/1.2835319
-6,7967,"The model computes the fuel and oxidant stream compositions as functions of axial length from energy and mass balances performed on each cell slice, The model yields results that compare favorably with the published experimental data from Westinghouse.",A MATHEMATICAL-MODEL OF A TUBULAR SOLID OXIDE FUEL-CELL,10.1115/1.2835319

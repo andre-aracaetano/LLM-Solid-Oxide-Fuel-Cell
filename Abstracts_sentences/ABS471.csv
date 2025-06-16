@@ -1,9 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,471,"This study presents a thermodynamic Aspen simulation model for Solid Oxide Fuel Cells, SOFCs, based power generation system.",Simulation of SOFCs based power generation system using Aspen,10.1515/pjct-2017-0061
-2,471,"In the first step, a steady-state SOFCs system model was developed.",Simulation of SOFCs based power generation system using Aspen,10.1515/pjct-2017-0061
-3,471,The model includes the electrochemistry and the diffusion phenomena.,Simulation of SOFCs based power generation system using Aspen,10.1515/pjct-2017-0061
-4,471,The electrochemical model gives good agreement with experimental data in a wide operating range.,Simulation of SOFCs based power generation system using Aspen,10.1515/pjct-2017-0061
-5,471,"Then, a parametric study has been conducted to estimate effects of the oxygen to carbon ratio, O/C, on reformer temperature, fuel cell temperature, fuel utilization, overall fuel cell performance, and the results are discussed in this paper.",Simulation of SOFCs based power generation system using Aspen,10.1515/pjct-2017-0061
-6,471,"In the second step, a dynamic analysis of SOFCs characteristic has been developed.",Simulation of SOFCs based power generation system using Aspen,10.1515/pjct-2017-0061
-7,471,The aim of dynamic modelling was to find the response of the system against the fuel utilization and the O/C ratio variations.,Simulation of SOFCs based power generation system using Aspen,10.1515/pjct-2017-0061
-8,471,"From the simulations, it was concluded that both developed models in the steady and dynamic state were reasonably accurate and can be used for system level optimization studies of the SOFC based power generation system.",Simulation of SOFCs based power generation system using Aspen,10.1515/pjct-2017-0061

@@ -1,9 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,803,Adjoint methods suitable for obtaining sensitivity derivatives for numerical simulations of solid-oxide fuel cells are presented.,Adjoint method for solid-oxide fuel cell simulations,10.1016/j.jpowsour.2007.01.085
-2,803,"The adjoint method is derived, and the implementation is discussed, including a methodology for accurately obtaining all the linearizations necessary for correct implementation.",Adjoint method for solid-oxide fuel cell simulations,10.1016/j.jpowsour.2007.01.085
-3,803,"Results are included for a one-dimensional anode model that includes diffusion, permeation, and relevant chemical reactions.",Adjoint method for solid-oxide fuel cell simulations,10.1016/j.jpowsour.2007.01.085
-4,803,"Using this model, the accuracy of the sensitivity derivatives is demonstrated for design variables describing geometric and material properties of the anode.",Adjoint method for solid-oxide fuel cell simulations,10.1016/j.jpowsour.2007.01.085
-5,803,"Finally, the adjoint method is demonstrated for a three-dimensional fuel cell geometry where sensitivity derivatives are obtained for approximately 180,000 design variables.",Adjoint method for solid-oxide fuel cell simulations,10.1016/j.jpowsour.2007.01.085
-6,803,The results are used to modify the upper and lower walls of the plenum to obtain significantly improved distribution of fluid amongst the channels.,Adjoint method for solid-oxide fuel cell simulations,10.1016/j.jpowsour.2007.01.085
-7,803,(c) 2007,Adjoint method for solid-oxide fuel cell simulations,10.1016/j.jpowsour.2007.01.085
-8,803,Elsevier B.V. All rights reserved.,Adjoint method for solid-oxide fuel cell simulations,10.1016/j.jpowsour.2007.01.085

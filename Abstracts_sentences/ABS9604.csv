@@ -1,7 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,9604,"Based on Solid Oxide Fuel Cell (SOFC) technology, Solid Oxide Electrolysis Cell (SOEC) offers an interesting solution for mass hydrogen production.",Simulation of a high temperature electrolyzer,10.1007/s10800-009-0030-0
-2,9604,"This study proposes a multiphysics model to predict the SOEC behavior, based on similar charge, mass, and heat transport phenomena as for SOFC.",Simulation of a high temperature electrolyzer,10.1007/s10800-009-0030-0
-3,9604,"However, the mechanism of water steam reduction on Nickel/Yttria-Stabilized Zirconia (Ni/YSZ) cermet is not yet clearly identified.",Simulation of a high temperature electrolyzer,10.1007/s10800-009-0030-0
-4,9604,"Therefore, a global approach is used for modeling.",Simulation of a high temperature electrolyzer,10.1007/s10800-009-0030-0
-5,9604,The simulated results demonstrated that a Butler-Volmer's equation including concentration overpotential provides an acceptable estimation of the experimental electric performance under some operating conditions.,Simulation of a high temperature electrolyzer,10.1007/s10800-009-0030-0
-6,9604,These simulations highlighted three thermal operating modes of SOEC and showed that temperature distribution depends on gas feeding configurations.,Simulation of a high temperature electrolyzer,10.1007/s10800-009-0030-0

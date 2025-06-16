@@ -1,7 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,1123,This paper presents a study of fuzzy Hammerstein models as part of a model predictive control strategy.,Predictive control of solid oxide fuel cells using fuzzy Hammerstein models,10.1016/j.jpowsour.2005.08.041
-2,1123,"The model configuration includes a nonlinear static block followed by a linear dynamic block, where the static nonlinearity is represented by a fuzzy model.",Predictive control of solid oxide fuel cells using fuzzy Hammerstein models,10.1016/j.jpowsour.2005.08.041
-3,1123,The model and controller have been realized in the MATLAB environment.,Predictive control of solid oxide fuel cells using fuzzy Hammerstein models,10.1016/j.jpowsour.2005.08.041
-4,1123,Simulation examples demonstrate the potential of such structured models for application to the control of a solid oxide fuel cell.,Predictive control of solid oxide fuel cells using fuzzy Hammerstein models,10.1016/j.jpowsour.2005.08.041
-5,1123,(c) 2005,Predictive control of solid oxide fuel cells using fuzzy Hammerstein models,10.1016/j.jpowsour.2005.08.041
-6,1123,Elsevier B.V. All rights reserved.,Predictive control of solid oxide fuel cells using fuzzy Hammerstein models,10.1016/j.jpowsour.2005.08.041

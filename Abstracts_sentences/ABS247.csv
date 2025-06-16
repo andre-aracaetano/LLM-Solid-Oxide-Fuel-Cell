@@ -1,9 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,247,Solid oxide fuel cells (SOFCs) offer a number of advantages beyond those of most other fuel cells.,Adaptive Control of a Solid Oxide Fuel Cell Ultra-Capacitor Hybrid System,10.1109/TCST.2011.2181514
-2,247,"However, like other fuel cells, rapid load following is difficult, and can lead to fuel starvation and consequently fuel cell damage.",Adaptive Control of a Solid Oxide Fuel Cell Ultra-Capacitor Hybrid System,10.1109/TCST.2011.2181514
-3,247,Mitigating fuel starvation and improving load following capabilities are conflicting control objectives.,Adaptive Control of a Solid Oxide Fuel Cell Ultra-Capacitor Hybrid System,10.1109/TCST.2011.2181514
-4,247,"However, the issue can be addressed by the hybridization of the system with an energy storage device.",Adaptive Control of a Solid Oxide Fuel Cell Ultra-Capacitor Hybrid System,10.1109/TCST.2011.2181514
-5,247,"In this paper, a steady-state property of the SOFC, combined with a current regulation strategy, is used to manage transient fuel utilization and thereby address fuel starvation.",Adaptive Control of a Solid Oxide Fuel Cell Ultra-Capacitor Hybrid System,10.1109/TCST.2011.2181514
-6,247,"Meanwhile, an overall system strategy is employed to manage energy sharing in the hybrid system for load following as well as for maintaining the state-of-charge of the energy storage device.",Adaptive Control of a Solid Oxide Fuel Cell Ultra-Capacitor Hybrid System,10.1109/TCST.2011.2181514
-7,247,This work presents an adaptive control algorithm that uses online parameter estimation to update the controller.,Adaptive Control of a Solid Oxide Fuel Cell Ultra-Capacitor Hybrid System,10.1109/TCST.2011.2181514
-8,247,The control design is validated on a hardware-in-the-loop setup and experimental results are provided.,Adaptive Control of a Solid Oxide Fuel Cell Ultra-Capacitor Hybrid System,10.1109/TCST.2011.2181514

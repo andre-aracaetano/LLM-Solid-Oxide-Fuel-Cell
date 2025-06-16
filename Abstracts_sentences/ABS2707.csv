@@ -1,7 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,2707,A multivariable hybrid experimental model of a solid oxide fuel cell stack is developed in this paper.,A Hybrid Experimental Model of a Solid Oxide Fuel Cell Stack,10.1115/1.2971125
-2,2707,The model consists of an improved radial basis function (RBF) neural network model and a pressure-incremental model.,A Hybrid Experimental Model of a Solid Oxide Fuel Cell Stack,10.1115/1.2971125
-3,2707,The improved RBF model is built to predict the stack voltage with different temperatures and current density.,A Hybrid Experimental Model of a Solid Oxide Fuel Cell Stack,10.1115/1.2971125
-4,2707,"Likewise, the pressure-incremental model is constructed to predict the stack voltage under various hydrogen, oxygen, and water partial pressures.",A Hybrid Experimental Model of a Solid Oxide Fuel Cell Stack,10.1115/1.2971125
-5,2707,"We combine the two models together and make a powerful hybrid multivariable model that can predict the voltage under any current density, temperature, hydrogen, oxygen, and water partial pressure.",A Hybrid Experimental Model of a Solid Oxide Fuel Cell Stack,10.1115/1.2971125
-6,2707,"The validity and accuracy of modeling are tested by simulations, and the simulation results show that it is feasible to build the hybrid multivariable experimental model.",A Hybrid Experimental Model of a Solid Oxide Fuel Cell Stack,10.1115/1.2971125

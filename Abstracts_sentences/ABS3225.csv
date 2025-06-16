@@ -1,4 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,3225,An integrated multiscale multiphysics framework to model solid oxide electrochemical cell systems is discussed.,"Integrated Multiscale Modeling of Solid Oxide Electrodes, Cells, Stacks, and Systems",10.1002/cite.202100199
-2,3225,"The framework directly couples electrode, single cell, stack, and system models using a hierarchical approach with minimal loss of information across the scales.","Integrated Multiscale Modeling of Solid Oxide Electrodes, Cells, Stacks, and Systems",10.1002/cite.202100199
-3,3225,The success of the model framework in better understanding solid oxide cells at the microscale and the industrial scale showcases it as a powerful tool for the rational design and upscaling of novel lab-scale materials and devices for next-generation chemical and electrochemical technologies.,"Integrated Multiscale Modeling of Solid Oxide Electrodes, Cells, Stacks, and Systems",10.1002/cite.202100199

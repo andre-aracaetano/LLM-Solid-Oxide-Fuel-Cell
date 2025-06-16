@@ -1,6 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,290,"To determine the potential impacts of fuel cells on future distribution system, dynamic models of fuel cells should be created, reduced in order, and scattered throughout test feeders.",Modeling SOFC plants on the distribution system using identification algorithms,10.1016/j.jpowsour.2003.11.035
-2,290,This paper presents the implementation of an efficient method for computing low-order linear system models of solid oxide fuel cells (SOFCs) from time domain simulations.,Modeling SOFC plants on the distribution system using identification algorithms,10.1016/j.jpowsour.2003.11.035
-3,290,The method is the Box-Jenkins algorithm for calculating the transfer function of a linear system from samples of its input and output.,Modeling SOFC plants on the distribution system using identification algorithms,10.1016/j.jpowsour.2003.11.035
-4,290,(C) 2003,Modeling SOFC plants on the distribution system using identification algorithms,10.1016/j.jpowsour.2003.11.035
-5,290,Elsevier B.V. All rights reserved.,Modeling SOFC plants on the distribution system using identification algorithms,10.1016/j.jpowsour.2003.11.035

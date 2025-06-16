@@ -1,7 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,2524,"Based on the models of the porous-electrode, a lattice Boltzmann model of a solid oxide fuel cell is presented, which allows the computation of the local distributions of the electrical potential, current density, and concentration of the chemical species.",LATTICE BOLTZMANN SIMULATION FOR VARIOUS GEOMETRIES OF SOLID OXIDE FUEL CELLS,10.1142/S0217984909018187
-2,2524,The physics of the cell and the simplifying assumptions are presented; a sketech of the numerical procedure is also given.,LATTICE BOLTZMANN SIMULATION FOR VARIOUS GEOMETRIES OF SOLID OXIDE FUEL CELLS,10.1142/S0217984909018187
-3,2524,The numerical results obtained with hydrogen as the fuel are compared with results from other simulation codes which were developed for a planar geometry.,LATTICE BOLTZMANN SIMULATION FOR VARIOUS GEOMETRIES OF SOLID OXIDE FUEL CELLS,10.1142/S0217984909018187
-4,2524,The numerical results show that the counter-flow design as being the most efficient.,LATTICE BOLTZMANN SIMULATION FOR VARIOUS GEOMETRIES OF SOLID OXIDE FUEL CELLS,10.1142/S0217984909018187
-5,2524,"Furthemore, and with increasing the percent H-2 in the fuel stream, the voltage drops profile alters from precipitous to gentle.",LATTICE BOLTZMANN SIMULATION FOR VARIOUS GEOMETRIES OF SOLID OXIDE FUEL CELLS,10.1142/S0217984909018187
-6,2524,These results are excellent.,LATTICE BOLTZMANN SIMULATION FOR VARIOUS GEOMETRIES OF SOLID OXIDE FUEL CELLS,10.1142/S0217984909018187

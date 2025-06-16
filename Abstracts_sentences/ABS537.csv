@@ -1,7 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,537,"Compared with other kinds of fuel cells, solid oxide fuel cell (SOFC) has been widely used in microgrids because of its higher efficiency and longer operation life.",Modelling and control of solid oxide fuel cell generation system in microgrid,10.1515/jee-2017-0075
-2,537,The weakness of SOFC lies in its slow response speed when grid disturbance occurs.,Modelling and control of solid oxide fuel cell generation system in microgrid,10.1515/jee-2017-0075
-3,537,This paper presents a control strategy that can promote the response speed and limit the fault current impulse for SOFC systems integrated into microgrids.,Modelling and control of solid oxide fuel cell generation system in microgrid,10.1515/jee-2017-0075
-4,537,"First, the hysteretic control of the bidirectional DC-DC converter, which joins the SOFC and DC bus together, is explored.",Modelling and control of solid oxide fuel cell generation system in microgrid,10.1515/jee-2017-0075
-5,537,"In addition, an improved droop control with limited current protection is applied in the DC-AC inverter, and the active synchronization control is applied to ensure a smooth transition of the microgrid between the grid-connected mode and the islanded mode.",Modelling and control of solid oxide fuel cell generation system in microgrid,10.1515/jee-2017-0075
-6,537,"To validate the effectiveness of this control strategy, the control model was built and simulated in PSCAD/EMTDC.",Modelling and control of solid oxide fuel cell generation system in microgrid,10.1515/jee-2017-0075

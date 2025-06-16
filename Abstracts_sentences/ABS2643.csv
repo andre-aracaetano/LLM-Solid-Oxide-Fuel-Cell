@@ -1,8 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,2643,The goal of this work is to investigate the feasibility of a hybrid solid oxide fuel cell (SOFC) and gas turbine (GT) system for mobile power production.,Control Oriented Analysis of a Hybrid Solid Oxide Fuel Cell and Gas Turbine System,10.1115/1.3081467
-2,2643,"A system consisting of a gas turbine, a burner, and an SOFC is examined to gain fundamental understanding of the system dynamics.",Control Oriented Analysis of a Hybrid Solid Oxide Fuel Cell and Gas Turbine System,10.1115/1.3081467
-3,2643,A control oriented dynamic model is developed to provide the critically needed tool for system feasibility analysis and control strategy design.,Control Oriented Analysis of a Hybrid Solid Oxide Fuel Cell and Gas Turbine System,10.1115/1.3081467
-4,2643,System optimization and transient analysis are performed based on the system model to determine the desired operating conditions and load following limitations.,Control Oriented Analysis of a Hybrid Solid Oxide Fuel Cell and Gas Turbine System,10.1115/1.3081467
-5,2643,It is shown that the open loop system will shut down in the case of a large load step.,Control Oriented Analysis of a Hybrid Solid Oxide Fuel Cell and Gas Turbine System,10.1115/1.3081467
-6,2643,"Based on the insights learned from the open loop analysis, a feedback control scheme is proposed.",Control Oriented Analysis of a Hybrid Solid Oxide Fuel Cell and Gas Turbine System,10.1115/1.3081467
-7,2643,"The feedback scheme is based on a reference governor, which modifies the load applied to the generator to guarantee stability and fast tracking during transients.",Control Oriented Analysis of a Hybrid Solid Oxide Fuel Cell and Gas Turbine System,10.1115/1.3081467

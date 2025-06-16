@@ -1,9 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,17149,"In this paper, we describe how to enhance experimental parameter identification for cooperative systems using the GPU.",Experiments-based parameter identification on the GPU for cooperative systems,10.1016/j.cam.2019.112657
-2,17149,"This kind of identification is necessary, for example, in the area of developing robust controllers and observers based on available measurement data.",Experiments-based parameter identification on the GPU for cooperative systems,10.1016/j.cam.2019.112657
-3,17149,"First, we point out which parts of the general, global optimization based parameter identification procedure can be parallelized and compare it to the experiments-based technique.",Experiments-based parameter identification on the GPU for cooperative systems,10.1016/j.cam.2019.112657
-4,17149,"After that, we illustrate the principle and its implementation with the help of a close-to-life textbook example.",Experiments-based parameter identification on the GPU for cooperative systems,10.1016/j.cam.2019.112657
-5,17149,"Finally, we demonstrate how the GPU-based experimental parameter identification works for identifying experimentally the parameters of the (reduced-order) temperature model for the distributed heating system.",Experiments-based parameter identification on the GPU for cooperative systems,10.1016/j.cam.2019.112657
-6,17149,This is an important step towards working with uncertain models in the context of solid oxide fuel cells.,Experiments-based parameter identification on the GPU for cooperative systems,10.1016/j.cam.2019.112657
-7,17149,(C) 2019,Experiments-based parameter identification on the GPU for cooperative systems,10.1016/j.cam.2019.112657
-8,17149,Elsevier B.V. All rights reserved.,Experiments-based parameter identification on the GPU for cooperative systems,10.1016/j.cam.2019.112657

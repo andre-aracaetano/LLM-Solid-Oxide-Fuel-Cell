@@ -1,8 +1,0 @@
-ID,Artigo,Sentencas,Titulo,DOI
-1,3683,A topology optimization method is used to identify the optimal shape of the nano-composite cathode of a solid oxide fuel cell (SOFC).,A 2D model for shape optimization of solid oxide fuel cell cathodes,10.1007/s00158-012-0837-x
-2,3683,A simplified analysis model is used in computations aimed at reducing ohmic losses by optimizing the shape of the cathode to minimize resistance.,A 2D model for shape optimization of solid oxide fuel cell cathodes,10.1007/s00158-012-0837-x
-3,3683,"The model of the SOFC is reduced to a periodic, 2D conduction problem with design-dependent ionic transfer boundary conditions.",A 2D model for shape optimization of solid oxide fuel cell cathodes,10.1007/s00158-012-0837-x
-4,3683,Special techniques are introduced to avoid physically inadmissible designs that would otherwise be allowed by the 2D model.,A 2D model for shape optimization of solid oxide fuel cell cathodes,10.1007/s00158-012-0837-x
-5,3683,Isoperimetric constraints on the perimeter and the amount of material are used in the problem.,A 2D model for shape optimization of solid oxide fuel cell cathodes,10.1007/s00158-012-0837-x
-6,3683,Numerical examples are provided to discuss the effect of material properties and the resource restrictions introduced by the constraints.,A 2D model for shape optimization of solid oxide fuel cell cathodes,10.1007/s00158-012-0837-x
-7,3683,The methodology discussed can be applied to similar problems involving design-dependent boundary conditions.,A 2D model for shape optimization of solid oxide fuel cell cathodes,10.1007/s00158-012-0837-x
