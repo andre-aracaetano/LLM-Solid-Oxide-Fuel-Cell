@@ -14,43 +14,13 @@ import ast
  
 print()
  
-quantidade_artigos = 21163
-artigos = np.arange(1, 21164)
-print("Numero dos artigos sorteados:", len(artigos))
- 
-dfs = []
+df = pd.read_excel('dataset/df_original_wos.xlsx')
 
-
-padrao = r"""
-    [-+]?                  
-    (?:\d+              
-    (?:[.,]\d+)?           
-    |[.,]\d+)        
-    (?:[eE][-+]?\d+)?    
-"""
+model = 'mistral-large:123b-instruct-2407-q2_K'
  
-for artigo in artigos:
-    df = pd.read_csv(f'../compilador/sentencas/ABS{artigo}.csv') 
-    df["artigo_id"] = artigo  # Adiciona uma coluna para o ID do artigo
-    dfs.append(df)
-    print("Titulo:", df["Titulo"][0])
-
-abstracts = []
- 
-num_sentencas = 0
-for i in dfs:
-    a = ''
-    for j in i["Sentencas"]:
-        num_sentencas += 1
-        a = a + j + " "
-    abstracts.append(a)
- 
-modelo = 'mistral-large:123b'
- 
- 
-def modelo_extrator(abstract, titulo):
+def model_extrator(abstract, titulo):
     response = ollama.chat(
-        model=modelo,
+        model=model,
         messages=[
             {"role": "system", "content": (
                 "You are a material extractor for scientific abstracts about Solid Oxide Fuel Cells (SOFC)."
@@ -95,56 +65,51 @@ def modelo_extrator(abstract, titulo):
     else:
         return "('None', 'None', 'None', 'None', 'None')"
  
- 
 temp = 0
 tp = 0.25
 tk = 1
-resultados = []
+results = []
  
 print("~~~~~~~~~~~~~~~~~~ EXTRACTION ~~~~~~~~~~~~~~~~~~")
 pro = 0
+
+len_articles = len(df)
+
 try:
-    for dataframe in dfs:
+    for x_abstract, x_title, x_doi, x_year, x_wos in zip(df["abstract"], df["title"], df["DOI"], df["year"], df["wos_id"]):
  
-        titulo_artigo = dataframe["Titulo"][0]
+        title_article = x_title
         pro += 1
-        p = pro/quantidade_artigos
-        print(f"Progresso: {pro}/{quantidade_artigos} ({p:.3%})")
+        p = pro/len_articles
+        print(f"Progress: {pro}/{len_articles} ({p:.3%})")
         pre_abstract = []
  
-        for sentenca in dataframe["Sentencas"]:
-            try:
-                pre_abstract.append(sentenca)
-            except:
-                print("Something Wrong")
+        abstract = x_abstract
  
-        abstract = " ".join(s for s in pre_abstract if s != "Nothing here yet")
- 
-        print("Titulo:", titulo_artigo)
+        print("Title:", title_article)
         print("Abstract:", abstract)
 
-        resposta = modelo_extrator(abstract, titulo_artigo)
-        print("Resposta:", resposta)
+        extraction = model_extrator(abstract, title_article)
+        print("Extraction:", extraction)
 
-        resultados.append({
-        "titulo": dataframe["Titulo"][0],
-        "artigo_id": dataframe["artigo_id"][0],
-        "modelo": modelo,
+        results.append({
+        "title": title_article,
+        "article_id": pro,
+        "model": model,
         "abstract": abstract,
-        "resposta": resposta,
-        "DOI":dataframe['DOI'][0],
+        "extraction": extraction,
+        "DOI":x_doi,
+        "year":x_year,
+        "wos_id":x_wos,
         })
         print()
                            
 except Exception as e:
-    df_resultados = pd.DataFrame(resultados)
-    df_resultados.to_excel('df_dan.xlsx', index=False)
-    print("Deu erro", e)
+    df_extraction = pd.DataFrame(results)
+    df_extraction.to_excel('df_extration_preprocessed.xlsx', index=False)
+    print("Erro", e)
  
-df_resultados = pd.DataFrame(resultados)
-df_resultados.to_excel('df_dan.xlsx', index=False)
- 
-#df = pd.read_excel("datacomplet.xlsx")
-#df[['material', 'temperature', 'energy', 'type']] = df['resposta'].apply(parse_tuple).apply(pd.Series)
- 
+df_extraction = pd.DataFrame(results)
+df_extraction.to_excel('df_extration_preprocessed.xlsx', index=False)
+
 print("~~~~~~~~~~~~~~~~~~ COMPLET ~~~~~~~~~~~~~~~~~~")

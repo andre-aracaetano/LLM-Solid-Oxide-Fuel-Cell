@@ -14,19 +14,19 @@ conda activate vollama
 # Inicia o servidor Ollama
 ollama serve &
 
-# Espera ativa para verificar se o Ollama est� pronto
+# Espera ativa para verificar se o Ollama pronto
 while ! nc -z localhost 11434; do   
   echo "Esperando o modelo iniciar..."
   sleep 5
 done
 
-echo "Modelo iniciado, pronto para execu��o!"
+echo "Modelo iniciado, pronto para execu"
 
-# Inicia a execu��o do modelo
-ollama run mistral-large:123b
+# Inicia a execo do modelo
+ollama run mistral-large:123b-instruct-2407-q2_K
 
 echo "Iniciando o curl!"
 
 curl http://127.0.0.1:11434/api/models
 
-python -u dan1.py
+python -u script_extraction_llm.py
